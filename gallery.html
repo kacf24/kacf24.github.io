@@ -1,3 +1,22 @@
+    <script>if (!('registerElement' in document
+      && 'createShadowRoot' in HTMLElement.prototype
+      && 'import' in document.createElement('link')
+      && 'content' in document.createElement('template'))) {
+            document.write('<script src="bower_components/webcomponentsjs/webcomponents.min.js"><\/script>');
+      }</script>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+    <script src="src/html-include.js"></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        document.querySelector('pre').innerHTML = document.body.innerHTML
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/"/g, "&quot;")
+          .replace(/'/g, "&#039;");
+      });
+    </script>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <!--
 Design by Free Flash Templates
@@ -19,11 +38,7 @@ Released for free under a Creative Commons Attribution 3.0 License
 <!-- begin #container -->
 <div id="container">
   
-   <script type='text/javascript'>
-   $(document).ready(function(){
-    $( "#header" ).load( "header.html" );
-   });
-  </script>
+ <html-include src="header.html"></html-include>
   
     <!-- begin #contentBody -->
     <div id="contentBody">
