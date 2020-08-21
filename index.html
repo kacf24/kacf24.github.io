@@ -5,8 +5,16 @@ http://www.flash-templates-today.com
 Released for free under a Creative Commons Attribution 3.0 License
 -->
 <html xmlns="http://www.w3.org/1999/xhtml">
-<?php include "./header.html" ?>    
-<body>
+
+ fetch("./header.html")
+  .then(response => {
+    return response.text()
+  })
+  .then(data => {
+    document.querySelector("header").innerHTML = data;
+  });   
+    
+    
 <!-- begin #container -->
 <div id="container">
     <!-- begin #header -->
