@@ -1,0 +1,114 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Kristen M. Thyng, Ph.D. - prediction tag</title>
+<link href="http://fonts.googleapis.com/css?family=Abel|Arvo" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="http://www.kristenthyng.com/blog/theme/css/styles.css" type="text/css" />
+
+<link href="http://www.kristenthyng.com/blog/" type="application/atom+xml" rel="alternate" title="Kristen M. Thyng, Ph.D. ATOM Feed" />
+
+<!--[if IE]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+<!--[if lte IE 7]>
+        <link rel="stylesheet" type="text/css" media="all" href="http://www.kristenthyng.com/blog/css/ie.css"/>
+        <script src="http://www.kristenthyng.com/blog/js/IE8.js" type="text/javascript"></script><![endif]-->
+
+<!--[if lt IE 7]>
+        <link rel="stylesheet" type="text/css" media="all" href="http://www.kristenthyng.com/blog/css/ie6.css"/><![endif]-->
+
+</head>
+
+<body>
+
+<div id="container">
+    <div id="header">
+        <h1><a href="/index.html">Kristen M. Thyng<span>Ph.D. </span></a></h1>
+        <div class="submenu">
+            <ul>
+                <li><a href="/research.html">Research</a></li>
+                <li><a href="/publications.html">Publications</a></li>
+                <li><a href="/presentations.html">Presentations</a></li>
+                <li><a href="/people.html">People</a></li>
+                <li><a href="/teaching.html">Teaching</a></li>
+                <li><a href="/gallery.html">Gallery</a></li>
+                <li><a href="/media.html">Media</a></li><br>
+                <li><a href="/blog/index.html">Blog</a></li>
+                <li><a href="/cv.pdf">CV</a></li>
+            </ul>
+        </div>
+        <div class="clearfloat"></div>
+<!--         <div id="navcontainer">
+            <ul id="navlist">
+                <li id="active"><a href="#">Home</a></li>
+                <li><a href="research.html">Research</a></li>
+                <li><a href="publications.html">Publications</a></li>
+                <li><a href="teaching.html">Teaching</a></li>
+                <li><a href=""></a></li>
+            </ul>
+        </div> -->
+<!--         <div class="clearfloat"></div>
+        <div><img src="http://www.kristenthyng.com/blog/theme/images/header.jpg" alt="" width=100% /></div> -->
+    </div>
+
+            <header>
+                <h2><a href="http://www.kristenthyng.com/blog/2014/10/08/hab-prediction/" id="page-title">Texas harmful algal bloom prediction for 2014</a></h2>
+<time datetime="2014-10-08T12:00:00-05:00">Oct 08, 2014</time>                <br><br>
+            </header>
+            <article>
+            <p>Colleagues and I are predicting that there will be no severe harmful algal bloom in Texas waters for the rest of the season.</p>
+<p><br><br></p>
+<p>Previous research indicates that the measured winds in September at Port Aransas, TX, are predictive for whether or not a major harmful algal bloom will occur that year.</p>
+<p><br><br></p>
+<p>A harmful algal bloom caused by the phytoplankton <i>Karenia brevis</i>, colloquially known as red tide, can have serious human and marine life impacts. At high enough concentrations, the phytoplankton can cause fishkills, a toxic aerosol with respiratory impacts for nearby people, and <a href="/blog/static/images/hab/redtide.jpg">colored water</a>**.</p>
+<p><br><br>
+<img src="/blog/static/images/hab/redtide.jpg" class="picFloat" width="100%">
+<br><br></p>
+<p>All of these negatively effect human health and the tourism industry in the area. Our prediction is that this will not occur in the rest of the bloom season, which is from September through November typically, or even into December and January in abnormal years.</p>
+<p><br><br></p>
+<p>In our research, we found that the along-shore wind at Port Aransas, averaged over September, correlated with whether or now a major bloom occurred that year. We found that in years with weaker average winds, blooms were less likely to occur as compared with years with stronger average winds. This was a statistical correlation based on data. To understand why this occurred, we ran numerical drifters with a tool, <a href="http://github.com/kthyng/tracpy">TracPy</a>, using velocity fields for the Texas and Louisiana continental shelf, as predicted by our numerical circulation model of the area. <a href="http://lofe.dukejournals.org/content/3/269.full">Our results</a> show that water from south of the Texas coastline in Mexico was connected with the occurrence of a major bloom in Texas waters. We tested this both by running numerical drifters from Mexico, where we think the cells largely originate, forward in time to when and where blooms typically occur in Texas, and backward in time from Texas. Both experiments indicated that southern waters are connected with Texas waters at the relevant time and location for blooms to occur, and, additionally, provided a mechanism for why blooms occur in some years and not in others: when the winds are strong enough, the phytoplankton that would otherwise form a major bloom are instead swept away.</p>
+<p><br><br></p>
+<p>Our <a href="/blog/static/images/hab/hab-index-september.png">prediction index</a> (below) shows distinct behavior in September winds as to whether a major bloom will occur or not. The code I wrote to analyze this data and generate the plot is <a href="https://github.com/kthyng/hab-index">freely available</a>.</p>
+<p><br><br>
+<img src="/blog/static/images/hab/hab-index-september.png" class="picFloat" width="100%">
+<br><br></p>
+<p>The major blooms discussed here occur at high concentrations of <em>K. brevis</em>, and can lead to fish kills, toxic aerosols, and colored water due to the resulting major blooms. However, even low concentrations of this phytoplankton can cause closures of bays to shellfish harvesting because shellfish filter the water and aggregate the phytoplankton's toxin if it is present. The concentration of cells doesn't have to be very high before the shellfish cannot flush out the toxic cells at a fast enough rate to stay clean. This is why the bays are closed at much lower concentrations of <em>K. brevis</em> than would typically be necessary for a fish kill to occur, for example.</p>
+<p><br><br></p>
+<p>Fortunately, to address the shorter time scale question of this lower level of cell concentration, Lisa Campbell at Texas A&amp;M has an Imaging FlowCytobot to test the water at Port Aransas, TX, regularly and report when <em>K. brevis</em> cells are present. In fact, results from the Cytobot <a href="http://tamutimes.tamu.edu/2014/09/30/texas-coastal-residents-should-be-ready-for-possible-red-tide-invasion/#.VDXJT9R4qrK">recently indicated</a> low levels of the phytoplankton, close to what could lead to bay closures. However, our prediction suggests that while these low levels of cells may occur (and can't be predicted by our index), they will not massively increase to a high level and therefore there will not be a severe bloom this year.</p>
+<p><br><br></p>
+<p>** Image from Texas Parks and Wildlife Department</p>
+            </article>
+            <br><br>
+
+
+<br>
+
+<footer>
+    <div id="footer">
+        <nav>
+            <br>
+            <a href="http://www.kristenthyng.com/blog/index.html">Blog Home</a>&nbsp;&nbsp;
+            <a href="http://www.kristenthyng.com/blog/archives.html">Archive</a>
+            <ul>
+<!--              -->
+<!--                             <li>:: <a href="http://www.kristenthyng.com/blog/tags.html">Tags</a></li>
+ -->
+            </ul>
+        </nav>
+    </div>
+</footer></div>
+
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-43225108-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+</body>
+</html>

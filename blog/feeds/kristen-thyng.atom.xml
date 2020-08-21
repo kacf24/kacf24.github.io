@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kristen M. Thyng, Ph.D. - Kristen Thyng</title><link href="http://www.kristenthyng.com/blog/" rel="alternate"></link><link href="http://www.kristenthyng.com/blog/feeds/kristen-thyng.atom.xml" rel="self"></link><id>http://www.kristenthyng.com/blog/</id><updated>2019-05-23T12:00:00-05:00</updated><entry><title>Aggies Celebrate Teaching! Award</title><link href="http://www.kristenthyng.com/blog/2019/05/23/award/" rel="alternate"></link><published>2019-05-23T12:00:00-05:00</published><updated>2019-05-23T12:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2019-05-23:/blog/2019/05/23/award/</id><summary type="html">&lt;p&gt;Aggies Celebrate Teaching! Award&lt;/p&gt;</summary><content type="html">&lt;p&gt;I was honored to receive a teaching award this spring! I received the &lt;a href="https://cte.tamu.edu/Events-and-Awards"&gt;&lt;em&gt;Aggies Celebrate Teaching!&lt;/em&gt;&lt;/a&gt; award, which is given out by the Texas A&amp;amp;M Center for Teaching Excellence. 100 teachers were nominated across three campuses, and 6 winners were selected. Students nominate teachers who have made a big impact on them through their transformative teaching. There was a reception associated with this award that was lovely to attend and hear from the students about their experiences.&lt;/p&gt;
+&lt;p&gt;There are more details in an article from the &lt;a href="https://geonews.tamu.edu/news/2019/04/ocng_thyng-ACTaward.php"&gt;College of Geosciences&lt;/a&gt; and the &lt;a href="http://cte.tamu.edu/News/3rd-Annual-Aggies-Celebrate-Teaching!-Recognized-S"&gt;Center for Teaching Excellence&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://geonews.tamu.edu/images/news/FARRAR_THYNG5_head.png" class="picFloat" width="60%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br clear="all" /&gt;&lt;/p&gt;</content><category term="award"></category><category term="teaching"></category><category term="python"></category></entry><entry><title>cmocean 2.0!</title><link href="http://www.kristenthyng.com/blog/2019/01/11/cmocean2.0/" rel="alternate"></link><published>2019-01-11T12:00:00-06:00</published><updated>2019-01-11T12:00:00-06:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2019-01-11:/blog/2019/01/11/cmocean2.0/</id><summary type="html">&lt;p&gt;Presenting a new version of cmocean colormaps&lt;/p&gt;</summary><content type="html">&lt;p&gt;I have updated cmocean with four new colormaps! The newcomers are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;topo&lt;/li&gt;
+&lt;li&gt;rain&lt;/li&gt;
+&lt;li&gt;tarn&lt;/li&gt;
+&lt;li&gt;diff
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Here are all the cmocean colormaps together, and there are lots more examples in the &lt;a href="https://matplotlib.org/cmocean/"&gt;docs&lt;/a&gt;:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://matplotlib.org/cmocean/_images/index-1.png" class="picFloat" width="50%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br clear="all" /&gt;&lt;/p&gt;</content><category term="cmocean"></category><category term="colormaps"></category><category term="plotting"></category></entry><entry><title>2018 REU End</title><link href="http://www.kristenthyng.com/blog/2018/08/03/reuend2018/" rel="alternate"></link><published>2018-08-03T12:00:00-05:00</published><updated>2018-08-03T12:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2018-08-03:/blog/2018/08/03/reuend2018/</id><summary type="html">&lt;p&gt;Finishing REU 2018 summer program&lt;/p&gt;</summary><content type="html">&lt;p&gt;After 10 busy weeks, we are saying goodbye to the 2018 REU students. The second-to-last day of the program, the students presented posters at the Texas A&amp;amp;M REU poster symposium.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Molly with her poster:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://user-images.githubusercontent.com/3487237/45134592-e878ae80-b160-11e8-94bc-f7e129c2d8b6.jpg" class="picFloat" width="40%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br clear="all" /&gt;&lt;/p&gt;
+&lt;p&gt;The last day of the program, the students each gave a 10-12 minute presentation on their summer research, and we celebrated their hard work in the evening.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;The happy group of students:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://tamuotoreu.files.wordpress.com/2018/08/img_9022.jpg" class="picFloat" width="60%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br clear="all" /&gt;&lt;/p&gt;</content><category term="students"></category><category term="oceanography"></category><category term="reu"></category></entry><entry><title>SciPy Conference 2018</title><link href="http://www.kristenthyng.com/blog/2018/07/13/scipy2018/" rel="alternate"></link><published>2018-07-13T12:00:00-05:00</published><updated>2018-07-13T12:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2018-07-13:/blog/2018/07/13/scipy2018/</id><summary type="html">&lt;p&gt;Another successful SciPy conference, along with a talk.&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Scientific Python conference (SciPy) was another success! I co-chaired the Earth, Ocean, and Geoscience mini-symposium with &lt;a href="https://github.com/scollis"&gt;Scott Collis&lt;/a&gt; and we had a bunch of great abstracts submitted. This lead to a series of nice talks and posters.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;I spoke at the conference this year about the website I've been working on for the Texas General Land Office (TGLO) which combines together operational data and model output along with all available past information.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;blockquote class="embedly-card"&gt;&lt;h4&gt;&lt;a href="https://www.youtube.com/watch?v=Ofa0-l1pjAk"&gt;Website for Interacting w/ Oceanographic Data &amp; Numerical Model Output | SciPy 2018 | Kristen Thyng&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The Texas Automated Buoy System (TABS) has been recording and serving online velocity and other in situ water data since 1995. We have recently modernized the website to include more data and operational numerical model output, and to improve ease of use.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"&gt;&lt;/script&gt;</content><category term="conference"></category><category term="website"></category><category term="talk"></category><category term="oceanography"></category><category term="python"></category></entry><entry><title>2018 REU cruise</title><link href="http://www.kristenthyng.com/blog/2018/06/30/reucruise2018/" rel="alternate"></link><published>2018-06-30T12:00:00-05:00</published><updated>2018-06-30T12:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2018-06-30:/blog/2018/06/30/reucruise2018/</id><summary type="html">&lt;p&gt;Successful 2018 REU cruise&lt;/p&gt;</summary><content type="html">&lt;p&gt;The REU students went out for several days on the R/V Pelican and learned how to take samples and do field work. They used the ship rosette and took water samples from the Niskin bottles.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Here are a few group pictures:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://tamuotoreu.files.wordpress.com/2018/07/img_7847.jpg?w=360&amp;h=&amp;zoom=2" class="picFloat" width="40%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://tamuotoreu.files.wordpress.com/2018/07/20180623_021551.jpg?w=289&amp;h=162&amp;zoom=2" class="picFloat" width="60%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://tamuotoreu.files.wordpress.com/2018/07/groupphoto.jpg?w=1168" class="picFloat" width="60%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br clear="all" /&gt;&lt;/p&gt;</content><category term="students"></category><category term="oceanography"></category><category term="reu"></category><category term="cruise"></category></entry><entry><title>2018 REU Start</title><link href="http://www.kristenthyng.com/blog/2018/06/01/reustart2018/" rel="alternate"></link><published>2018-06-01T12:00:00-05:00</published><updated>2018-06-01T12:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2018-06-01:/blog/2018/06/01/reustart2018/</id><summary type="html">&lt;p&gt;Kick off to another busy REU summer program&lt;/p&gt;</summary><content type="html">&lt;p&gt;We have just welcomed 10 new REU students to Texas A&amp;amp;M Oceanography for the summer. They'll be intensively working on independent research projects for 10 weeks, including attending a field work cruise in the Gulf of Mexico to learn how to take samples.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Here is my student Molly, who is running numerical drifter simulations to help study how the Flower Garden Banks National Marine Sanctuary coral reefs are connected with other locations in the northwestern Gulf of Mexico:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://tamuotoreu.files.wordpress.com/2018/06/molly-kerwick.jpg?w=527&amp;h=&amp;zoom=2" class="picFloat" width="40%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br clear="all" /&gt;&lt;/p&gt;</content><category term="students"></category><category term="oceanography"></category><category term="reu"></category></entry><entry><title>Hurricane Harvey NSF RAPID offshore cruise 3</title><link href="http://www.kristenthyng.com/blog/2018/03/28/rapidoffshorecruise3/" rel="alternate"></link><published>2018-03-28T12:00:00-05:00</published><updated>2018-03-28T12:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2018-03-28:/blog/2018/03/28/rapidoffshorecruise3/</id><summary type="html">&lt;p&gt;Spent several days sampling water outside of Galveston Bay after Hurricane Harvey hit the area&lt;/p&gt;</summary><content type="html">&lt;p&gt;Using support from an NSF RAPID grant, we went on the R/V Point Sur to measure water properties outside of Galveston Bay. We used an ADCP to measure the vertical structure of the horizontal currents and the ship's rosette to measure properties in the water column. We were especially focused on the freshwater plume that exits Galveston Bay on ebb tide, so we stayed fairly close to shore.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;We arrived at R/V Pelican in Galveston in the middle of the night:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://user-images.githubusercontent.com/3487237/45171272-94ed7b80-b1c7-11e8-8bd1-77b47c403a70.jpg" class="picFloat" width="40%"&gt;
+&lt;br clear="all" /&gt;&lt;/p&gt;
+&lt;p&gt;Students managed the rosette and ran the hand-held CTD and associated computer:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://user-images.githubusercontent.com/3487237/45171273-95861200-b1c7-11e8-8f09-9afff9c00125.jpg" class="picFloat" width="40%"&gt;
+&lt;img src="https://user-images.githubusercontent.com/3487237/45171281-961ea880-b1c7-11e8-9728-98a1d2ffd12a.jpg" class="picFloat" width="40%"&gt;
+&lt;img src="https://user-images.githubusercontent.com/3487237/45171284-961ea880-b1c7-11e8-8c4a-19beb9db98da.jpg" class="picFloat" width="40%"&gt;
+&lt;img src="https://user-images.githubusercontent.com/3487237/45171285-961ea880-b1c7-11e8-9a7d-eb2d931ef6c8.jpg" class="picFloat" width="40%"&gt;
+&lt;img src="https://user-images.githubusercontent.com/3487237/45171283-961ea880-b1c7-11e8-984a-aac85f2ccc62.jpg" class="picFloat" width="40%"&gt;
+&lt;img src="https://user-images.githubusercontent.com/3487237/45171282-961ea880-b1c7-11e8-86dd-0cc1c72d4a14.jpg" class="picFloat" width="40%"&gt;
+&lt;br clear="all" /&gt;&lt;/p&gt;
+&lt;p&gt;Techs monitored from inside the ship:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://user-images.githubusercontent.com/3487237/45171280-961ea880-b1c7-11e8-80e9-27a96915de2b.jpg" class="picFloat" width="40%"&gt;
+&lt;br clear="all" /&gt;&lt;/p&gt;
+&lt;p&gt;We passed through the edge of the ebb tide plume! You can see it as two different colors of water, and there is a convergence at the interface where the water is white. Fish (and therefore fishermen) like to hang out here:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://user-images.githubusercontent.com/3487237/45171279-95861200-b1c7-11e8-91f2-e8b77bdee004.jpg" class="picFloat" width="60%"&gt;
+&lt;img src="https://user-images.githubusercontent.com/3487237/45171278-95861200-b1c7-11e8-8e01-b31da91a21c8.jpg" class="picFloat" width="60%"&gt;
+&lt;img src="https://user-images.githubusercontent.com/3487237/45171277-95861200-b1c7-11e8-87f6-91db3517ce8d.jpg" class="picFloat" width="60%"&gt;
+&lt;br clear="all" /&gt;&lt;/p&gt;
+&lt;p&gt;The conditions started to get gnarly on the last night, and we had to stop using the rosette in the middle of the night for safety:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://user-images.githubusercontent.com/3487237/45171276-95861200-b1c7-11e8-9747-cf75fbb985bd.jpg" class="picFloat" width="40%"&gt;
+&lt;br clear="all" /&gt;&lt;/p&gt;
+&lt;p&gt;Many seagulls welcomed us into Galveston:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://user-images.githubusercontent.com/3487237/45171275-95861200-b1c7-11e8-82c7-ff61749c587c.jpg" class="picFloat" width="40%"&gt;
+&lt;br clear="all" /&gt;&lt;/p&gt;
+&lt;p&gt;End of the cruise:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://user-images.githubusercontent.com/3487237/45171274-95861200-b1c7-11e8-96fc-80d0fa3fd2c3.jpg" class="picFloat" width="60%"&gt;
+&lt;br clear="all" /&gt;&lt;/p&gt;</content><category term="students"></category><category term="oceanography"></category><category term="field work"></category><category term="cruise"></category><category term="harvey"></category></entry><entry><title>Ocean Sciences Conference 2018</title><link href="http://www.kristenthyng.com/blog/2018/02/19/osm2018/" rel="alternate"></link><published>2018-02-19T12:00:00-06:00</published><updated>2018-02-19T12:00:00-06:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2018-02-19:/blog/2018/02/19/osm2018/</id><summary type="html">&lt;p&gt;Traveled to Portland, OR, for Ocean Sciences where I gave a talk and met up with former student&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Ocean Sciences Meeting was in Portland, OR, this year. I have a talk on along-coast connectivity, and I had a small reunion with my summer 2017 REU student Cassidy Gonzalez-Morabito (and REU program PI Lisa Campbell, TAMU, below), who was an &lt;a href="https://aslo.org/page/aslomp"&gt;ASLOMP Fellow&lt;/a&gt; and presented a poster on her summer research.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://user-images.githubusercontent.com/3487237/45134899-61c4d100-b162-11e8-919b-b6d18595e10e.jpg" class="picFloat" width="50%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;</content><category term="conference"></category><category term="talk"></category><category term="oceanography"></category><category term="reu"></category></entry><entry><title>Hurricane Harvey NSF RAPID News</title><link href="http://www.kristenthyng.com/blog/2017/11/02/rapidharvey/" rel="alternate"></link><published>2017-11-02T12:00:00-05:00</published><updated>2017-11-02T12:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2017-11-02:/blog/2017/11/02/rapidharvey/</id><summary type="html">&lt;p&gt;NSF RAPID award and associated news&lt;/p&gt;</summary><content type="html">&lt;p&gt;I was award an NSF RAPID grant to study the impacts of Hurricane Harvey on the Galveston Bay area. Harvey released a massive amount of freshwater into the region, which flooded Galveston Bay and created extremely fresh conditions. With my co-PI Scott Socolofsky in Civil Engineering, I am measuring the velocities and density structure both within and outside of Galveston Bay to understand the impact and subsequent return to normal conditions in the region.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;We've had some media about the project, along with other RAPIDs in the department:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;blockquote class="embedly-card"&gt;&lt;h4&gt;&lt;a href="https://geonews.tamu.edu//news/2017/09/rapid-grants-oceanography-harvey"&gt;Oceanographers Kick into High Gear to Study Harvey's Effects&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Sep 25, 2017 TAMU oceanographers research the effects of Harvey to learn about severe environmental changes. The first major hurricane to make landfall on the United States mainland since 2005, Hurricane Harvey was a disaster: killing tens, displacing millions and causing billions of dollars in property damage.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"&gt;&lt;/script&gt;
+
+&lt;p&gt;Civil Engineering also received some RAPID grants:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;blockquote class="embedly-card"&gt;&lt;h4&gt;&lt;a href="https://engineering.tamu.edu/news/2017/10/civil-engineering-faculty-awarded-nsf-rapid-grants-for-hurricane-harvey-research.html"&gt;Civil engineering faculty awarded NSF RAPID grants for Hurricane Harvey research | Texas A&amp;M University Engineering&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Deeply concerned for the people and institutions affected by Hurricane Harvey, the National Science Foundation (NSF) issued a call for research addressing new science and engineering challenges related to Harvey, including preparedness for future catastrophic events.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"&gt;&lt;/script&gt;
+
+&lt;p&gt;After one of our cruises:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;blockquote class="embedly-card"&gt;&lt;h4&gt;&lt;a href="https://engineering.tamu.edu/news/2017/11/civil-engineering-professor-team-seek-to-understand-hurricane-harveys-impact-on-texas-coastal-waterways.html"&gt;Civil engineering professor, team seek to understand Hurricane Harvey's impact on Texas coastal waterways&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Heavy rainfall during Hurricane Harvey flushed most of the salt water out of Galveston Bay, making the bay extremely fresh. Now, researchers from Texas A&amp;M University are working to collect vital information on how the storm impacted the waterways of coastal Texas.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"&gt;&lt;/script&gt;</content><category term="oceanography"></category><category term="field work"></category><category term="cruise"></category></entry><entry><title>NSF RAPID Galveston Bay cruise 1</title><link href="http://www.kristenthyng.com/blog/2017/10/08/rapidbaycruise1/" rel="alternate"></link><published>2017-10-08T12:00:00-05:00</published><updated>2017-10-08T12:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2017-10-08:/blog/2017/10/08/rapidbaycruise1/</id><summary type="html">&lt;p&gt;First post-Hurricane Harvey cruise into Galveston Bay on our NSF RAPID grant&lt;/p&gt;</summary><content type="html">&lt;p&gt;We went into Galveston Bay on the R/V Trident to use the ADCP to measure the vertical structure of the horizontal currents and to take CTD casts of the temperature and salinity. We traveled up the bay, taking transects across the Houston Ship Channel, and then up into Trinity Bay.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Here are a few pictures:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://user-images.githubusercontent.com/3487237/45167024-e7c23580-b1bd-11e8-8762-677ad33cd533.jpg" class="picFloat" width="40%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://user-images.githubusercontent.com/3487237/45167023-e7299f00-b1bd-11e8-8413-83e7cfb32565.jpg" class="picFloat" width="40%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://user-images.githubusercontent.com/3487237/45167021-e7299f00-b1bd-11e8-9e64-585e38f9b743.jpg" class="picFloat" width="60%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br clear="all" /&gt;&lt;/p&gt;</content><category term="students"></category><category term="oceanography"></category><category term="reu"></category><category term="cruise"></category></entry><entry><title>Hurricane Harvey NSF RAPID offshore cruise 1</title><link href="http://www.kristenthyng.com/blog/2017/09/30/rapidoffshorecruise1/" rel="alternate"></link><published>2017-09-30T12:00:00-05:00</published><updated>2017-09-30T12:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2017-09-30:/blog/2017/09/30/rapidoffshorecruise1/</id><summary type="html">&lt;p&gt;Spent several days sampling water outside of Galveston Bay shortly after Hurricane Harvey hit the area&lt;/p&gt;</summary><content type="html">&lt;p&gt;Using support from an NSF RAPID grant, we went on the R/V Point Sur to measure water properties outside of Galveston Bay. This was a coordinated effort with others in my department: one cruise went out the week before, we met them at the dock and switched personnel, and then after us another cruise went out. We used an ADCP to measure the vertical structure of the horizontal currents, an Acrobat to measure several properties (e.g. oxygen, temperature, salinity) through the water column behind the ship as we moved, and the ship's rosette to measure properties in the water column. We were especially focused on the freshwater plume that exits Galveston Bay on ebb tide, so we stayed fairly close to shore.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;R/V Point Sur:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://user-images.githubusercontent.com/3487237/45168219-586a5180-b1c0-11e8-9d4a-907a8c237c2a.jpg" class="picFloat" width="40%"&gt;
+&lt;br clear="all" /&gt;&lt;/p&gt;
+&lt;p&gt;Student training by Dr. Steve DiMarco:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://user-images.githubusercontent.com/3487237/45168218-586a5180-b1c0-11e8-9ebe-ec7c95ad987e.jpg" class="picFloat" width="40%"&gt;
+&lt;img src="https://user-images.githubusercontent.com/3487237/45168217-586a5180-b1c0-11e8-8649-1b372e5fea29.jpg" class="picFloat" width="40%"&gt;
+&lt;img src="https://user-images.githubusercontent.com/3487237/45168215-57d1bb00-b1c0-11e8-920e-963a1e1fa291.jpg" class="picFloat" width="40%"&gt;
+&lt;img src="https://user-images.githubusercontent.com/3487237/45168214-57d1bb00-b1c0-11e8-958e-f3bf60dacb59.jpg" class="picFloat" width="40%"&gt;
+&lt;img src="https://user-images.githubusercontent.com/3487237/45168213-57d1bb00-b1c0-11e8-9190-791084acc78b.jpg" class="picFloat" width="40%"&gt;
+&lt;img src="https://user-images.githubusercontent.com/3487237/45168212-57d1bb00-b1c0-11e8-94a6-48e214afbb4a.jpg" class="picFloat" width="40%"&gt;
+&lt;br clear="all" /&gt;&lt;/p&gt;
+&lt;p&gt;Bringing in the Acrobat:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://user-images.githubusercontent.com/3487237/45168211-57d1bb00-b1c0-11e8-9f4c-20c43215b736.jpg" class="picFloat" width="40%"&gt;
+&lt;br clear="all" /&gt;&lt;/p&gt;
+&lt;p&gt;12 hour shifts in the middle of the night are hard:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://user-images.githubusercontent.com/3487237/45168210-57d1bb00-b1c0-11e8-91de-0fe3ad1cce9a.jpg" class="picFloat" width="40%"&gt;
+&lt;br clear="all" /&gt;&lt;/p&gt;
+&lt;p&gt;Group pictures!
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://user-images.githubusercontent.com/3487237/45168209-57d1bb00-b1c0-11e8-9a3c-2162280987ac.jpg" class="picFloat" width="60%"&gt;
+&lt;img src="https://user-images.githubusercontent.com/3487237/45168208-57d1bb00-b1c0-11e8-9800-3b5c3747ca77.jpg" class="picFloat" width="60%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br clear="all" /&gt;&lt;/p&gt;</content><category term="students"></category><category term="oceanography"></category><category term="field work"></category><category term="cruise"></category></entry><entry><title>End of the 2017 REU program</title><link href="http://www.kristenthyng.com/blog/2017/08/03/reuend2017/" rel="alternate"></link><published>2017-08-03T12:00:00-05:00</published><updated>2017-08-03T12:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2017-08-03:/blog/2017/08/03/reuend2017/</id><summary type="html">&lt;p&gt;Summer REU students finished up program&lt;/p&gt;</summary><content type="html">&lt;p&gt;Summer 2017 REU students gave their final presentations this afternoon. Everyone worked really hard and did a nice job. After a busy summer together, it is sad to say goodbye!
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Cassidy and me on the last day:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://user-images.githubusercontent.com/3487237/45135134-6dfd5e00-b163-11e8-94ff-c10ba31e9bd4.jpg" class="picFloat" width="40%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br clear="all" /&gt;&lt;/p&gt;</content><category term="students"></category><category term="talk"></category><category term="oceanography"></category><category term="reu"></category></entry><entry><title>2017 REU cruise</title><link href="http://www.kristenthyng.com/blog/2017/06/30/reucruise2017/" rel="alternate"></link><published>2017-06-30T12:00:00-05:00</published><updated>2017-06-30T12:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2017-06-30:/blog/2017/06/30/reucruise2017/</id><summary type="html">&lt;p&gt;Successful 2017 REU cruise&lt;/p&gt;</summary><content type="html">&lt;p&gt;The REU students went out for several days on the R/V Pelican and learned how to take samples and do field work. They used the ship rosette, took water samples from the Niskin bottles, and ran the Acrobat off the back of the ship.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Group picture at the end of the cruise:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://tamuotoreu.files.wordpress.com/2015/09/img_3469.jpg?w=1168" class="picFloat" width="60%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br clear="all" /&gt;&lt;/p&gt;</content><category term="students"></category><category term="oceanography"></category><category term="reu"></category><category term="cruise"></category></entry><entry><title>Jupyter newsletter</title><link href="http://www.kristenthyng.com/blog/2017/04/01/jupyternewsletter/" rel="alternate"></link><published>2017-04-01T12:00:00-05:00</published><updated>2017-04-01T12:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2017-04-01:/blog/2017/04/01/jupyternewsletter/</id><summary type="html">&lt;p&gt;Featured in the Jupyter newsletter&lt;/p&gt;</summary><content type="html">&lt;p&gt;I was featured as a Community Member in the Jupyter newsletter. More details below.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;blockquote class="embedly-card"&gt;&lt;h4&gt;&lt;a href="https://newsletter.jupyter.org/jupyter-newsletter-12-march-30-2017-6a01add5658"&gt;Jupyter Newsletter 12* March 30, 2017 - Jupyter Newsletter&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;IBM Brings Jupyter and Spark to the Mainframe IBM has been an active collaborator with Project Jupyter for a number of years. In a recent blog post, Jupyter developer and Steering Council member, Brian Granger, describes IBM's recent work to bring the Jupyter Notebook, Anaconda and Apache Spark to IBM's z/OS mainframe platform.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"&gt;&lt;/script&gt;</content><category term="python"></category><category term="teaching"></category><category term="code"></category></entry><entry><title>Video from talk at PLOTCON</title><link href="http://www.kristenthyng.com/blog/2016/12/07/plotcon/" rel="alternate"></link><published>2016-12-07T12:00:00-06:00</published><updated>2016-12-07T12:00:00-06:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2016-12-07:/blog/2016/12/07/plotcon/</id><summary type="html">&lt;p&gt;Video from PLOTCON available&lt;/p&gt;</summary><content type="html">&lt;p&gt;I was invited to speak at the PLOTCON conference on data visualization a few weeks ago, and the video of the talk is now available. It was a neat conference bringing people together from a variety of fields. I got to see talks about visualization in Python and R.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="embedly-card" href="https://www.youtube.com/watch?v=o9KxYxROSgM"&gt;PLOTCON 2016: Kristen Thyng, Custom Colormaps for Your Field&lt;/a&gt;
+&lt;script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"&gt;&lt;/script&gt;&lt;/p&gt;</content><category term="conference"></category><category term="colormaps"></category><category term="talk"></category></entry><entry><title>News about TCY paper!</title><link href="http://www.kristenthyng.com/blog/2016/09/23/tcy+news/" rel="alternate"></link><published>2016-09-23T22:00:00-05:00</published><updated>2016-09-23T22:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2016-09-23:/blog/2016/09/23/tcy+news/</id><summary type="html">&lt;p&gt;TCY Paper in the News&lt;/p&gt;</summary><content type="html">&lt;p&gt;I collaborated with colleagues at UTMSI on a &lt;a href="http://www.sciencedirect.com/science/article/pii/S0025326X16303964"&gt;study&lt;/a&gt; that &lt;a href="http://kristenthyng.com/blog/2016/07/25/tcy_paper/"&gt;recently came out&lt;/a&gt;. We got a &lt;a href="https://geonews.tamu.edu/news/2016/08/kristen-thyng-texas-tarball.php"&gt;nice writeup&lt;/a&gt; by the Texas A&amp;amp;M College of Geosciences!&lt;/p&gt;</content><category term="paper"></category><category term="oceanography"></category><category term="news"></category></entry><entry><title>Paper with Dr. Fitzsimmons!</title><link href="http://www.kristenthyng.com/blog/2016/09/23/jess+paper/" rel="alternate"></link><published>2016-09-23T20:00:00-05:00</published><updated>2016-09-23T20:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2016-09-23:/blog/2016/09/23/jess+paper/</id><summary type="html">&lt;p&gt;Paper out with Jess Fitzsimmons!&lt;/p&gt;</summary><content type="html">&lt;p&gt;A new study is out with &lt;a href="https://ocean.tamu.edu/people/faculty/fitzsimmonsjessica.html"&gt;Dr. Jess Fitzsimmons&lt;/a&gt;, a colleague in my department. The &lt;a href="http://onlinelibrary.wiley.com/doi/10.1002/2015GB005357/full"&gt;paper&lt;/a&gt; is about trace metals in the Southeastern Pacific Ocean. I am not a chemist, but I had a chance to contribute to this article by performing Optimum Multiparameter Analysis — a method used to approximate the fraction of each relevant water mass at a data location given properties of the water mass end members. The analysis is shown below.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+&lt;img src="/blog/images/ompa.jpg" class="picFloat" width="100%"&gt;
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;</content><category term="paper"></category><category term="oceanography"></category></entry><entry><title>How to use JupyterHub with nbgrader</title><link href="http://www.kristenthyng.com/blog/2016/09/07/jupyterhub+nbgrader/" rel="alternate"></link><published>2016-09-07T11:00:00-05:00</published><updated>2016-09-07T11:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2016-09-07:/blog/2016/09/07/jupyterhub+nbgrader/</id><summary type="html">&lt;p&gt;JupyterHub + nbgrader&lt;/p&gt;</summary><content type="html">&lt;p&gt;I am teaching for the second time a class on Python — &lt;a href="https://github.com/kthyng/python4geosciences"&gt;Python for the Geosciences&lt;/a&gt;. It went well last semester, but I felt that too much time was spent on getting stuff installed on student machines, despite using Anaconda. (Much of this was due to Mac vs. PC behaviors.) This semester, I am trying to avoid installation issues on the student end by having them sign into a JupyterHub server, which is being run off a local workstation. I like it for the most part, though installation issues have not been trivial, particularly in coordinating JupyterHub and nbgrader, the really nice setup for distributing assignments to students so that they can work on them, check their work, and submit them, and so that I can subsequently grade them easily. I graded submitted notebooks "by hand" last semester and it was a nightmare, so avoiding that was a big goal this semester.
+&lt;br&gt;&lt;br&gt;
+As far as I understand, one of the main pain points for getting this all to work is the fact that we are trying to stay more secure, with an &lt;code&gt;https&lt;/code&gt; address for the server. I'll describe here the steps I took in case it might help future me or someone else out there. Note that I'm starting after the point of getting the JupyterHub server installed and setup.
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;Set up student accounts on workstation for server&lt;/h1&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+With about 10 students in the class, it was annoying but not too hard to setup an account on the workstation for each of them. I used their student email nickname for their login, and made them part of a group so that I can use the group name for adding permissions and deleting them after the term is over. I chose their passwords for them since I wanted to be sure they had strong passwords. I am keeping track of them on my own (I use &lt;a href="https://1password.com/"&gt;1password&lt;/a&gt; to keep track of all this sort of thing, as well as generating passwords), and I read somewhere that sending someone a link to a public dropbox file is a relatively secure way to send information, so I made a file for each of them with their username and password and emailed it off.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;    &lt;span class="n"&gt;sudo&lt;/span&gt; &lt;span class="n"&gt;groupadd&lt;/span&gt; &lt;span class="n"&gt;pythonfall2016&lt;/span&gt;  &lt;span class="o"&gt;#&lt;/span&gt; &lt;span class="k"&gt;create&lt;/span&gt; &lt;span class="k"&gt;group&lt;/span&gt;
+    &lt;span class="o"&gt;#&lt;/span&gt; &lt;span class="n"&gt;home&lt;/span&gt; &lt;span class="n"&gt;directory&lt;/span&gt; &lt;span class="k"&gt;is&lt;/span&gt; &lt;span class="k"&gt;on&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;separate&lt;/span&gt; &lt;span class="n"&gt;drive&lt;/span&gt; &lt;span class="k"&gt;on&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;workstation&lt;/span&gt;
+    &lt;span class="n"&gt;sudo&lt;/span&gt; &lt;span class="n"&gt;useradd&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="k"&gt;G&lt;/span&gt; &lt;span class="n"&gt;pythonfall2016&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;d2&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;home&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;student_username_here&lt;/span&gt; &lt;span class="n"&gt;student_username_here&lt;/span&gt;
+    &lt;span class="n"&gt;sudo&lt;/span&gt; &lt;span class="n"&gt;passwd&lt;/span&gt; &lt;span class="n"&gt;username&lt;/span&gt;  &lt;span class="o"&gt;#&lt;/span&gt; &lt;span class="n"&gt;give&lt;/span&gt; &lt;span class="n"&gt;them&lt;/span&gt; &lt;span class="k"&gt;each&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;good&lt;/span&gt; &lt;span class="n"&gt;password&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+I had to log into each account to set up a "notebooks" directory, which is where JupyterHub was setup to start. (This is controlled in your JuyterHub config file jupyterhub_config.py by the variable c.Spawner.notebook_dir = '~/notebooks'.)
+&lt;br&gt;&lt;br&gt;
+I then added the group &lt;code&gt;pythonfall2016&lt;/code&gt; to the authenticated list in jupyterhub_config.py so they would be able to log in: c.LocalAuthenticator.group_whitelist = {'pythonfall2016'}.
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;nbgrader&lt;/h1&gt;
+&lt;h2&gt;nbgrader_config file&lt;/h2&gt;
+&lt;p&gt;This is what I needed in my course ngrader_config.py file to get things to work. I triangulated between what is in the &lt;a href="https://nbgrader.readthedocs.io/en/stable/"&gt;nbgrader docs&lt;/a&gt; and what I found on various google groups discussions and some github links I stumbled across.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;os&lt;/span&gt;
+
+    &lt;span class="n"&gt;c&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;get_config&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+
+    &lt;span class="c1"&gt;# You only need this if you are running nbgrader on a shared&lt;/span&gt;
+    &lt;span class="c1"&gt;# server set up.&lt;/span&gt;
+    &lt;span class="n"&gt;c&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;NbGrader&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;course_id&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;course_name&amp;quot;&lt;/span&gt;
+
+    &lt;span class="c1"&gt;# Update this list with other assignments you want&lt;/span&gt;
+    &lt;span class="n"&gt;c&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;NbGrader&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;db_assignments&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="nb"&gt;dict&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;hw1&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)]&lt;/span&gt;
+
+    &lt;span class="c1"&gt;# Change the students in this list with that actual students in&lt;/span&gt;
+    &lt;span class="c1"&gt;# your course&lt;/span&gt;
+    &lt;span class="n"&gt;c&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;NbGrader&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;db_students&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;
+        &lt;span class="nb"&gt;dict&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;id&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;pythontest&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;first_name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;P&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;last_name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;pythontest&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="p"&gt;]&lt;/span&gt;
+
+    &lt;span class="c1"&gt;#------------------------------------------------------------------------------&lt;/span&gt;
+    &lt;span class="c1"&gt;# FormgradeApp configuration&lt;/span&gt;
+    &lt;span class="c1"&gt;#------------------------------------------------------------------------------&lt;/span&gt;
+
+    &lt;span class="c1"&gt;# IP address for the server&lt;/span&gt;
+    &lt;span class="n"&gt;c&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;FormgradeApp&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;ip&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;127.0.0.1&amp;quot;&lt;/span&gt;
+    &lt;span class="c1"&gt;# Port for the server&lt;/span&gt;
+    &lt;span class="n"&gt;c&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;FormgradeApp&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;port&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;5000&lt;/span&gt;
+    &lt;span class="c1"&gt;# Authenticator used in all formgrade requests.&lt;/span&gt;
+    &lt;span class="n"&gt;c&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;FormgradeApp&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;authenticator_class&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;nbgrader.auth.hubauth.HubAuth&amp;quot;&lt;/span&gt;
+
+    &lt;span class="c1"&gt;# from https://groups.google.com/forum/#!topic/jupyter/oTRM4XuRUew&lt;/span&gt;
+    &lt;span class="c1"&gt;# for running with https&lt;/span&gt;
+    &lt;span class="c1"&gt;# this line made it so the page was rendered nicely and actually connected&lt;/span&gt;
+    &lt;span class="c1"&gt;# to the class database properly (instead of the localhost)&lt;/span&gt;
+    &lt;span class="n"&gt;c&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;HubAuth&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;hub_base_url&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;https://copano.tamu.edu:8000&amp;quot;&lt;/span&gt;
+    &lt;span class="n"&gt;c&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;HubAuth&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;notebook_url_prefix&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;course_name&amp;quot;&lt;/span&gt;
+    &lt;span class="n"&gt;c&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;HubAuth&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;graders&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;my_user_name&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+    &lt;span class="n"&gt;c&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;HubAuth&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;hubapi_token&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;os&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;environ&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;JPY_API_TOKEN&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+
+
+    &lt;span class="c1"&gt;# The nbgrader exchange directory writable to everyone. MUST be preexisting.&lt;/span&gt;
+    &lt;span class="c1"&gt;# this is the default location for the exchange directory&lt;/span&gt;
+    &lt;span class="n"&gt;c&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;TransferApp&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;exchange_directory&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;/srv/nbgrader/exchange&amp;#39;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;getting the authorization token setup for using formgrader&lt;/h2&gt;
+&lt;p&gt;This has ended up being rather kludgey and I am sure there is a better way, but we ended up needing to change users to &lt;code&gt;jupyter&lt;/code&gt;, the user that owns our JupyterHub server, in order to generate the necessary authentication token so that the nbgrader formgrade command would work, but generate the token in my username as the one who is actually authenticated to grade within the system. More information can be found from research scientist &lt;a href="http://pong.tamu.edu/~baum/jupyter.html#_the_quick_and_easy_way_to_start_and_use_nbgrader_and_formgrader"&gt;Steve Baum&lt;/a&gt;. Here is what we do:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;    &lt;span class="nv"&gt;sudo&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="nv"&gt;i&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="nv"&gt;u&lt;/span&gt; &lt;span class="nv"&gt;jupyter&lt;/span&gt;
+    [&lt;span class="nv"&gt;password&lt;/span&gt;]
+    &lt;span class="nv"&gt;export&lt;/span&gt; &lt;span class="nv"&gt;JPY_API_TOKEN&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;$&lt;span class="ss"&gt;(&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nv"&gt;usr&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nv"&gt;local&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nv"&gt;bin&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nv"&gt;jupyterhub&lt;/span&gt; &lt;span class="nv"&gt;token&lt;/span&gt; &lt;span class="o"&gt;--&lt;/span&gt;&lt;span class="nv"&gt;db&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="nv"&gt;sqlite&lt;/span&gt;:&lt;span class="o"&gt;////&lt;/span&gt;&lt;span class="nv"&gt;etc&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nv"&gt;jupyterhub&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nv"&gt;jupyterhub&lt;/span&gt;.&lt;span class="nv"&gt;sqlite&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="nv"&gt;f&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nv"&gt;etc&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nv"&gt;jupyterhub&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nv"&gt;jupyterhub_config&lt;/span&gt;.&lt;span class="nv"&gt;py&lt;/span&gt; &lt;span class="nv"&gt;my_user_name&lt;/span&gt;&lt;span class="ss"&gt;)&lt;/span&gt;
+    &lt;span class="nv"&gt;env&lt;/span&gt; &lt;span class="o"&gt;|&lt;/span&gt; &lt;span class="nv"&gt;grep&lt;/span&gt; &lt;span class="nv"&gt;JPY&lt;/span&gt;
+    &lt;span class="nv"&gt;JPY_API_TOKEN&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;[&lt;span class="nv"&gt;token&lt;/span&gt;]
+    &lt;span class="k"&gt;exit&lt;/span&gt;
+    # &lt;span class="nv"&gt;Stick&lt;/span&gt; &lt;span class="nv"&gt;these&lt;/span&gt; &lt;span class="nv"&gt;into&lt;/span&gt; &lt;span class="nv"&gt;my&lt;/span&gt; .&lt;span class="nv"&gt;bash_profile&lt;/span&gt;
+    &lt;span class="nv"&gt;export&lt;/span&gt; &lt;span class="nv"&gt;CONFIGPROXY_AUTH_TOKEN&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&lt;/span&gt;&lt;span class="s"&gt;[token goes here]’&lt;/span&gt;
+    &lt;span class="nv"&gt;export&lt;/span&gt; &lt;span class="nv"&gt;JPY_API_TOKEN&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;[&lt;span class="nv"&gt;other&lt;/span&gt; &lt;span class="nv"&gt;token&lt;/span&gt; &lt;span class="nv"&gt;from&lt;/span&gt; &lt;span class="nv"&gt;jupyterhub&lt;/span&gt; &lt;span class="nv"&gt;setup&lt;/span&gt;]
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;A little more setup&lt;/h2&gt;
+&lt;p&gt;Note that the default exchange server is located at:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;    &lt;span class="k"&gt;c&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;TransferApp&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;exchange_directory&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;/srv/nbgrader/exchange&amp;#39;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;I made the directory and then made it read and writeable by everyone with:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;    &lt;span class="n"&gt;chmod&lt;/span&gt; &lt;span class="n"&gt;ugo&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;rw&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;srv&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;nbgrader&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;exchange&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+I installed the nbgrader extension, but did it separately for me and for the students so that I would get both the &lt;code&gt;Assignments&lt;/code&gt; tab and the ability to choose &lt;code&gt;Create Assignment&lt;/code&gt; in my notebooks, but the students will only gain the &lt;code&gt;Assignments&lt;/code&gt; tab.
+&lt;br&gt;&lt;br&gt;
+For me as grader and assignment-maker:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;    &lt;span class="n"&gt;nbgrader&lt;/span&gt; &lt;span class="n"&gt;extension&lt;/span&gt; &lt;span class="n"&gt;install&lt;/span&gt; &lt;span class="c1"&gt;--symlink --user&lt;/span&gt;
+    &lt;span class="n"&gt;nbgrader&lt;/span&gt; &lt;span class="n"&gt;extension&lt;/span&gt; &lt;span class="n"&gt;activate&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+For students:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;    &lt;span class="n"&gt;nbgrader&lt;/span&gt; &lt;span class="n"&gt;extension&lt;/span&gt; &lt;span class="n"&gt;install&lt;/span&gt; &lt;span class="n"&gt;assignment_list&lt;/span&gt; &lt;span class="c1"&gt;--user&lt;/span&gt;
+    &lt;span class="n"&gt;nbgrader&lt;/span&gt; &lt;span class="n"&gt;extension&lt;/span&gt; &lt;span class="n"&gt;activate&lt;/span&gt; &lt;span class="n"&gt;assignment_list&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+Now we want to actually do the assignments. Here is my summary of the steps, based on the &lt;a href="https://nbgrader.readthedocs.io/en/stable/"&gt;nbgrader docs&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;Instructor perspective&lt;/h2&gt;
+&lt;p&gt;Start your course directory within your &lt;code&gt;notebooks&lt;/code&gt; directory, or wherever is the landing pad for JupyterHub within your directory. I'll use &lt;code&gt;oncg669&lt;/code&gt; as my course id and name.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;    &lt;span class="n"&gt;nbgrader&lt;/span&gt; &lt;span class="n"&gt;quickstart&lt;/span&gt; &lt;span class="n"&gt;ocng669&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+This creates a directory with the basic stuff you need in it. All other nbgrader commands will need to happen inside this course directory.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Make your homework assignment following the examples. The examples were plenty helpful for me to follow.
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Assign the homework, using the nice header that is included in the directory:
+&lt;br&gt;&lt;br&gt;
+            nbgrader assign hw1 --IncludeHeaderFooter.header=source/header.ipynb
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Inspect the release folder (release/hw1) to make sure it looks right.
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Release the assignment to the students, so they can actually access it:
+&lt;br&gt;&lt;br&gt;
+            nbgrader release hw1
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Make sure it has gone out ok:
+&lt;br&gt;&lt;br&gt;
+            nbgrader list&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;Student perspective&lt;/h2&gt;
+&lt;p&gt;Once the assignment has been made available by the instructor "releasing it," the student can access it by signing into the server, clicking on the &lt;code&gt;Assignments&lt;/code&gt; tab, and clicking on the blue button to &lt;code&gt;Fetch&lt;/code&gt; the assignment. In this case, I have two classes appearing with an assignment to be fetched.
+&lt;br&gt;&lt;br&gt;
+&lt;img src="/blog/images/jupyterhub+nbgrader/Assignments_fetch.jpg" class="picFloat" width="100%"&gt;
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;After they have fetched the assignment, it will appear under &lt;code&gt;Downloaded assignments&lt;/code&gt;. There, they can click on the assignment name, which is a link, to see the notebooks inside, then click on each to open and work on them.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;they can run the cells;&lt;/li&gt;
+&lt;li&gt;they delete the exception where it says to enter their code, and then enter their code;&lt;/li&gt;
+&lt;li&gt;after entering their code, there will be cells with test statements to check their work. They can and should run these to make sure their code works, then fix it if it doesn't;&lt;/li&gt;
+&lt;li&gt;After finishing a notebook, they can go back to the server page and click to validate that notebook, which runs all of the test cells and states if there are any errors. They can do this as many times as they want;&lt;/li&gt;
+&lt;li&gt;The system will note when the assignment is submitted, so they need to turn it in on time.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+&lt;img src="/blog/images/jupyterhub+nbgrader/Assignments_rest.jpg" class="picFloat" width="100%"&gt;
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Now the students can submit! They can do so however many times they want and just the last one will be used for grading;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;Instructor perspective&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;After students have submitted their assignments, the instructor can view what has been submitted with
+&lt;br&gt;&lt;br&gt;
+               nbgrader list --inbound
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Collect all submitted assignments with the following — This will copy the student submissions to the submitted folder in a way that is automatically compatible with &lt;code&gt;nbgrader autograde&lt;/code&gt;
+&lt;br&gt;&lt;br&gt;
+               nbgrader collect hw1 --course ocng669
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Autograde. Note that after assignments have been autograded, they will saved into an autograded directory
+&lt;br&gt;&lt;br&gt;
+               nbgrader autograde hw1
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Manual grading. To grade the assignments with an HTML form (assuming you got all the linking done properly), all we have to do is run the following and then see it at the link: &lt;code&gt;https://copano.tamu.edu:8000/hub/nbgrader/ocng669&lt;/code&gt;. This is a really slick system for taking the pain out of any necessary manual grading. Some snapshots of what formgrade looks like in practice are shown below.
+&lt;br&gt;&lt;br&gt;
+               nbgrader formgrade
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;feedback: After assignments have been autograded and/or manually graded, they will located in the auto graded directory, and after feedback step: HTML versions of these notebooks will be saved to: feedback/{student_id}/{assignment_id}/{notebook_id}.html.
+&lt;br&gt;&lt;br&gt;
+               nbgrader feedback hw1
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;The feedback is accessible only by me at this point. There is not a built-in way to get the feedback to where the students can access it, but here is how I am doing it. I found a &lt;a href="https://gist.github.com/jhamrick/2ad63d7226b64c0a95fa"&gt;script&lt;/a&gt; that &lt;a href="http://www.jesshamrick.com/"&gt;Jess Hamrick&lt;/a&gt;, main author of nbgrader, wrote to copy the feedback over to a student’s directory. I have edited it because apparently the file structure in nbgrader changed since she wrote it. I run in from that directory with:
+&lt;br&gt;&lt;br&gt;
+               sudo python3 return_feedback.py hw1
+&lt;br&gt;&lt;br&gt;
+and for a particular student, &lt;code&gt;pythontest&lt;/code&gt;:
+&lt;br&gt;&lt;br&gt;
+               sudo python3 return_feedback.py hw1 --student pythontest
+&lt;br&gt;&lt;br&gt;
+The &lt;code&gt;sudo&lt;/code&gt; is necessary because the script copies the feedback file structure over to the student's directory.
+&lt;br&gt;&lt;br&gt;
+&lt;script src="https://gist.github.com/kthyng/00fd1cd1e74730252fecb8a41bf0c4cc.js"&gt;&lt;/script&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;Gallery for &lt;code&gt;formgrade&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;formgrade Assignments&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="/blog/images/jupyterhub+nbgrader/formgrade_assignments.jpg" class="picFloat" width="100%"&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;formgrade Assignments &amp;gt; hw1&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="/blog/images/jupyterhub+nbgrader/formgrade_assignments_hw1.jpg" class="picFloat" width="100%"&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;formgrade Assignments &amp;gt; hw1 &amp;gt; partB&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="/blog/images/jupyterhub+nbgrader/formgrade_assignments_hw1_partb.jpg" class="picFloat" width="100%"&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;formgrade Students&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="/blog/images/jupyterhub+nbgrader/formgrade_students.jpg" class="picFloat" width="100%"&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;formgrade notebook view&lt;/strong&gt;
+&lt;br&gt;
+Includes a &lt;code&gt;next&lt;/code&gt; button to move quickly between student notebooks!
+&lt;br&gt;
+&lt;img src="/blog/images/jupyterhub+nbgrader/formgrade_notebookview.jpg" class="picFloat" width="100%"&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;Student perspective&lt;/h2&gt;
+&lt;p&gt;The feedback files will now show up in their base directory in jupyterhub, &lt;code&gt;notebooks&lt;/code&gt;, under a folder called &lt;code&gt;feedback&lt;/code&gt;, in a labeled homework directory. When clicked on, the files will show up as editable html in the jupyterhub server, but you can slightly edit the address to see them nicely rendered. So you have to change the url from
+&lt;br&gt;&lt;br&gt;
+        https://copano.tamu.edu:8000/user/pythontest/edit/feedback/hw1/partA.html
+&lt;br&gt;&lt;br&gt;
+to
+&lt;br&gt;&lt;br&gt;
+        https://copano.tamu.edu:8000/user/pythontest/files/feedback/hw1/partA.html
+&lt;br&gt;&lt;br&gt;
+for example.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+&lt;strong&gt;feedback, unrendered&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="/blog/images/jupyterhub+nbgrader/feedback_unrendered.jpg" class="picFloat" width="100%"&gt;
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;feedback, rendered&lt;/strong&gt;
+&lt;br&gt;
+Note that the top of the feedback is a summary of the student's homework, complete with links to the relevant parts of the notebooks. Very cool!
+&lt;br&gt;
+&lt;img src="/blog/images/jupyterhub+nbgrader/feedback_rendered.jpg" class="picFloat" width="100%"&gt;&lt;/p&gt;</content><category term="python"></category><category term="jupyter"></category><category term="teaching"></category></entry><entry><title>Published paper!</title><link href="http://www.kristenthyng.com/blog/2016/08/29/colormaps_paper/" rel="alternate"></link><published>2016-08-29T21:00:00-05:00</published><updated>2016-08-29T21:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2016-08-29:/blog/2016/08/29/colormaps_paper/</id><summary type="html">&lt;p&gt;Paper on colormaps now published&lt;/p&gt;</summary><content type="html">&lt;p&gt;My new paper is now &lt;a href="http://tos.org/oceanography/assets/docs/29-3_thyng.pdf"&gt;published&lt;/a&gt; on colormaps in oceanography! I wrote it with Chad Greene at UT, and Rob Hetland, Heather Zimmerle, and Steve DiMarco at Texas A&amp;amp;M in my department. In it, we discuss guidelines for choosing good colormaps to properly show your data, and present a suite of colormaps to help you do so.&lt;/p&gt;</content><category term="paper"></category><category term="oceanography"></category><category term="colormaps"></category></entry><entry><title>Published paper!</title><link href="http://www.kristenthyng.com/blog/2016/07/25/tcy_paper/" rel="alternate"></link><published>2016-07-25T14:00:00-05:00</published><updated>2016-07-25T14:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2016-07-25:/blog/2016/07/25/tcy_paper/</id><summary type="html">&lt;p&gt;Paper on TCY oil spill now published&lt;/p&gt;</summary><content type="html">&lt;p&gt;A paper that I contributed to is now &lt;a href="http://www.sciencedirect.com/science/article/pii/S0025326X16303964"&gt;available&lt;/a&gt;! I modeled the Texas City "Y" oil spill, which occurred in Galveston Bay – near the Texas City "Y" – in March 2014, as part of an effort with researchers at UTMSI to better understand the spill. It was a great interdisciplinary effort!&lt;/p&gt;</content><category term="paper"></category><category term="oceanography"></category><category term="oil spill"></category></entry><entry><title>cmocean on PyPI</title><link href="http://www.kristenthyng.com/blog/2016/06/02/cmocean_pypi/" rel="alternate"></link><published>2016-06-02T10:00:00-05:00</published><updated>2016-06-02T10:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2016-06-02:/blog/2016/06/02/cmocean_pypi/</id><summary type="html">&lt;p&gt;cmocean is once again available on PyPI!&lt;/p&gt;</summary><content type="html">&lt;p&gt;After a hiatus of technical difficulties, the cmocean package of colormaps for oceanography are once again available on PyPI. Simple installation:
+&lt;br&gt;&lt;br&gt;
+pip install cmocean&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+Sample colormap, for temperature, from a Texas A&amp;amp;M glider in the Gulf of Mexico:
+&lt;br&gt;&lt;br&gt;
+&lt;img alt="Temperature colormap" src="http://gcoos2.tamu.edu/gandalf_data/deployments/tamu/unit_540/plots/sci_water_temp.png"&gt;&lt;/p&gt;</content><category term="colormaps"></category><category term="python"></category></entry><entry><title>Presentation at Ocean Sciences meeting</title><link href="http://www.kristenthyng.com/blog/2016/03/13/osm2016/" rel="alternate"></link><published>2016-03-13T18:00:00-05:00</published><updated>2016-03-13T18:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2016-03-13:/blog/2016/03/13/osm2016/</id><summary type="html">&lt;p&gt;Presentation at Ocean Sciences meeting&lt;/p&gt;</summary><content type="html">&lt;p&gt;I recently went to the 2016 Ocean Sciences meeting in New Orleans, LA. I had a lovely week visiting a favorite city of mine, seeing friends, meeting new people, and learning new things. I also got to give a &lt;a href="http://pong.tamu.edu/~kthyng/presentations/2016-02-26_OSM2016.key"&gt;presentation&lt;/a&gt;!&lt;/p&gt;</content><category term="tidal energy"></category><category term="presentation"></category><category term="conference"></category></entry><entry><title>Python in the Geosciences</title><link href="http://www.kristenthyng.com/blog/2016/03/13/python_spring2016/" rel="alternate"></link><published>2016-03-13T18:00:00-05:00</published><updated>2016-03-13T18:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2016-03-13:/blog/2016/03/13/python_spring2016/</id><summary type="html">&lt;p&gt;Python in the Geosciences: materials online.&lt;/p&gt;</summary><content type="html">&lt;p&gt;I am co-teaching a class this semester (with &lt;a href="http://pong.tamu.edu/~rob"&gt;Rob Hetland&lt;/a&gt;) on Python in the Geosciences! We are have a great time teaching this tool that we each use every day; developing the materials as we go.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="embedly-card" data-card-image="0" href="https://github.com/hetland/python4geosciences"&gt;hetland/python4geosciences&lt;/a&gt;
+&lt;script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"&gt;&lt;/script&gt;&lt;/p&gt;</content><category term="class"></category><category term="python"></category></entry><entry><title>Driftcards in the news!</title><link href="http://www.kristenthyng.com/blog/2015/11/30/driftcards/" rel="alternate"></link><published>2015-11-30T12:00:00-06:00</published><updated>2015-11-30T12:00:00-06:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2015-11-30:/blog/2015/11/30/driftcards/</id><summary type="html">&lt;p&gt;Driftcards in the news!&lt;/p&gt;</summary><content type="html">&lt;p&gt;Dr. Piers Chapman oversaw the release of more &lt;a href="http://gisr.tamu.edu/driftcard/"&gt;driftcards&lt;/a&gt; in Galveston Bay a few months ago. A reporter from Houston found one and did a story! She talked with both Piers and me, though only my hand ultimately made it into the &lt;a href="http://abc13.com/science/find-yellow-card-on-a-beach-youre-helping-science/1066827/"&gt;quick clip&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="embedly-card" href="http://abc13.com/science/find-yellow-card-on-a-beach-youre-helping-science/1066827/"&gt;Little yellow wooden cards help scientists to track ocean currents&lt;/a&gt;
+&lt;script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"&gt;&lt;/script&gt;&lt;/p&gt;</content><category term="driftcards"></category><category term="outreach"></category></entry><entry><title>cmocean colormaps package</title><link href="http://www.kristenthyng.com/blog/2015/10/28/cmocean/" rel="alternate"></link><published>2015-10-28T17:00:00-05:00</published><updated>2015-10-28T17:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2015-10-28:/blog/2015/10/28/cmocean/</id><summary type="html">&lt;p&gt;cmocean - colormaps for oceanography&lt;/p&gt;</summary><content type="html">&lt;p&gt;Several iterations of colormaps have rotated through this blog. These have changed over time with input from colleagues and additional tools and expertise. The colormaps package has been renamed &lt;code&gt;cmocean&lt;/code&gt; and is &lt;a href="https://github.com/matplotlib/cmocean"&gt;available&lt;/a&gt; through matplotlib's github page. Documentation is &lt;a href="http://matplotlib.org/cmocean/"&gt;available as well&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://matplotlib.org/cmocean/"&gt;&lt;img src="http://matplotlib.org/cmocean/_images/index-1.png" class="picFloat" width="50%"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;</content><category term="figures"></category><category term="colormaps"></category></entry><entry><title>New Gallery Page on Website</title><link href="http://www.kristenthyng.com/blog/2015/09/25/gallery/" rel="alternate"></link><published>2015-09-25T17:20:00-05:00</published><updated>2015-09-25T17:20:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2015-09-25:/blog/2015/09/25/gallery/</id><summary type="html">&lt;p&gt;New gallery webpage!&lt;/p&gt;</summary><content type="html">&lt;p&gt;I have put together a new page on this website to show animations that I've been putting together. Many are recent, from the Texas-Louisiana shelf, and some are from other research in Admiralty Inlet, WA, and on tidal energy work. &lt;a href="http://kristenthyng.com/gallery.html"&gt;Check it out!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Included in the gallery are movies of vorticity from the Texas-Louisiana shelf: &lt;br&gt;
+&lt;a href="http://kristenthyng.com/gallery/txla_vorticity.html"&gt;&lt;img src="http://pong.tamu.edu/~kthyng/movies/txla_plots/vort/2004-07-30T00.png" class="picFloat" width="100%"&gt;&lt;/a&gt;&lt;/p&gt;</content><category term="txla"></category><category term="figures"></category></entry><entry><title>Updated Surface Salinity Movies</title><link href="http://www.kristenthyng.com/blog/2015/07/24/salinity-updated/" rel="alternate"></link><published>2015-07-24T11:00:00-05:00</published><updated>2015-07-24T11:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2015-07-24:/blog/2015/07/24/salinity-updated/</id><summary type="html">&lt;p&gt;Surface salinity movies of Texas-Louisiana shelf updated with new colormap&lt;/p&gt;</summary><content type="html">&lt;p&gt;I have updated our &lt;a href="http://pong.tamu.edu/txla_salinity.html"&gt;animations&lt;/a&gt; of (now) 11 years of the surface salinity on the Texas-Louisiana shelf! We are now using the new salinity colormap from the &lt;a href="https://github.com/matplotlib/cmocean"&gt;cmocean&lt;/a&gt; oceanography colormap package.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://pong.tamu.edu/txla_salinity.html"&gt;&lt;img src="http://pong.tamu.edu/movies/txla_salinity/2004-07-30T00.png" class="picFloat" width="100%"&gt;&lt;/a&gt;&lt;/p&gt;</content><category term="txla"></category><category term="figures"></category><category term="salinity"></category></entry><entry><title>SciPy 2015 Visualization Contest</title><link href="http://www.kristenthyng.com/blog/2015/07/22/scipy-plotting-competition-2015/" rel="alternate"></link><published>2015-07-22T17:00:00-05:00</published><updated>2015-07-22T17:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2015-07-22:/blog/2015/07/22/scipy-plotting-competition-2015/</id><summary type="html">&lt;p&gt;2015 SciPy John Hunter Excellence in Plotting Competition&lt;/p&gt;</summary><content type="html">&lt;p&gt;There was another John Hunter Excellence in Plotting competition this year at the SciPy conference. &lt;a href="http://stsdas.stsci.edu/download/mdroe/plotting-2015/entry12/index.html"&gt;My entry&lt;/a&gt; is here (all animations are &lt;a href="http://kristenthyng.com/txla_drifters.html"&gt;available&lt;/a&gt;); I got Honorable Mention! All of the entries are below.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="embedly-card" href="http://stsdas.stsci.edu/download/mdroe/plotting-2015/_images/entry12.png"&gt;Card&lt;/a&gt;
+&lt;script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="embedly-card" data-card-type="article-full" href="http://stsdas.stsci.edu/download/mdroe/plotting-2015/"&gt;2015 Scipy John Hunter Excellence in Plotting Contest Entries - 2015 Scipy John Hunter Excellence in Plotting Contest Entries documentation&lt;/a&gt;
+&lt;script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;</content><category term="visualization"></category><category term="plotting"></category><category term="SciPy"></category><category term="conference"></category></entry><entry><title>SciPy 2015 Wrap Up</title><link href="http://www.kristenthyng.com/blog/2015/07/13/scipy-2015/" rel="alternate"></link><published>2015-07-13T15:00:00-05:00</published><updated>2015-07-13T15:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2015-07-13:/blog/2015/07/13/scipy-2015/</id><summary type="html">&lt;p&gt;The SciPy 2015 conference&lt;/p&gt;</summary><content type="html">&lt;p&gt;The SciPy conference was great this year, as always. It started with two days of &lt;a href="http://scipy2015.scipy.org/ehome/115969/289057/?&amp;amp;"&gt;tutorials&lt;/a&gt;, which I co-organized with Justin Vincent. Those seemed to go well and I enjoyed the ones that I sat in on. &lt;a href="http://scipy2015.scipy.org/ehome/115969/304620/?&amp;amp;"&gt;Materials&lt;/a&gt; for many of the courses are available, as well as &lt;a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu"&gt;videos&lt;/a&gt; of the entire class.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;a href="http://scipy2015.scipy.org/ehome/115969/297898/?&amp;amp;"&gt;conference itself&lt;/a&gt; was three days of talks with a poster session one day. I got to give two talks on Friday of the conference: &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="embedly-card" href="https://www.youtube.com/watch?v=BS7a_FzYBQw"&gt;Python in Tidal Energy Three Tools Used in a Collaboration on Array Optimization | SciPy 2015 | Kri&lt;/a&gt;
+&lt;script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="embedly-card" href="https://www.youtube.com/watch?v=XjHzLUnHeM0"&gt;Perceptual Color Maps in matplotlib for Oceanography | SciPy 2015 | Kristen Thyng&lt;/a&gt;
+&lt;script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;The colormaps talk followed up on an &lt;a href="https://www.youtube.com/watch?v=xAoljeRJ3lU&amp;amp;list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&amp;amp;index=2"&gt;excellent talk&lt;/a&gt; by &lt;a href="https://github.com/njsmith"&gt;Nathaniel Smith&lt;/a&gt; which explained the background of some color theory and proposed a new default colormap for matplotlib. He and &lt;a href="https://github.com/stefanv"&gt;Stefan van der Walt&lt;/a&gt; put together a helpful tool, &lt;a href="https://github.com/BIDS/viscm"&gt;viscm&lt;/a&gt;, for making colormaps that enforcing linear perceptual changes in space through the colormap.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;There was excitement in the community about colormaps that was fun to participate in. My proposed set of colormaps, previously called cmtamu, is now renamed &lt;a href="https://github.com/matplotlib/cmocean"&gt;cmocean&lt;/a&gt; and is sitting under the umbrella of matplotlib. I'll be contributing to matplotlib in this area and hopefully more over time.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;I was also honored to be included in a &lt;a href="http://www.agilegeoscience.com/blog/2015/7/10/software-stats-and-tidal-energy"&gt;write up&lt;/a&gt; about the conference by &lt;a href="https://about.me/kwinkunks"&gt;Matt Hall&lt;/a&gt;, particularly for my talk on tidal energy.&lt;/p&gt;</content><category term="SciPy"></category><category term="conference"></category><category term="presentation"></category><category term="colormaps"></category></entry><entry><title>2014 HAB Prediction</title><link href="http://www.kristenthyng.com/blog/2015/06/25/2014-hab-prediction/" rel="alternate"></link><published>2015-06-25T17:00:00-05:00</published><updated>2015-06-25T17:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2015-06-25:/blog/2015/06/25/2014-hab-prediction/</id><summary type="html">&lt;p&gt;An update on the 2014 harmful algal bloom prediction&lt;/p&gt;</summary><content type="html">&lt;p&gt;Last fall I made a &lt;a href="http://kristenthyng.com/blog/2014/10/08/hab-prediction/"&gt;prediction&lt;/a&gt; that there would not be a major harmful algal bloom in Texas caused by the phytoplankton &lt;i&gt;Karenia brevis&lt;/i&gt;. I would like to follow that up by saying that we were right!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Texas Parks and Wildlife issues &lt;a href="http://tpwd.texas.gov/landwater/water/environconcerns/hab/redtide/status.phtml"&gt;updates&lt;/a&gt; about the state of harmful algal blooms. The website shows that while there were some low levels of cell abundance found in August and September, there was never a major bloom.&lt;/p&gt;</content><category term="hab"></category><category term="Texas"></category></entry><entry><title>Updated TAMU colormaps</title><link href="http://www.kristenthyng.com/blog/2015/05/18/cmtamu-updated/" rel="alternate"></link><published>2015-05-18T13:00:00-05:00</published><updated>2015-05-18T13:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2015-05-18:/blog/2015/05/18/cmtamu-updated/</id><summary type="html">&lt;p&gt;An updated set of colormaps are available for making nice, intuitive plots of oceanographic properties.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Colormaps for plotting oceanographic fields in intuitive and clear plots that are nice to look at were &lt;a href="http://kristenthyng.com/blog/2015/03/14/cmtamu/"&gt;previously proposed&lt;/a&gt;, and have now been updated. Updates include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Less kinked lightness profile for the temperature colormap&lt;/li&gt;
+&lt;li&gt;Stronger saturation gradient for hypoxic levels of oxygen and no lightness kink for supersaturated oxygen levels&lt;/li&gt;
+&lt;li&gt;Added a colormap for density&lt;/li&gt;
+&lt;li&gt;Using the previous turbidity colormap now for PAR&lt;/li&gt;
+&lt;li&gt;New colormap for turbidity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;The colormaps are available in an easy-to-use &lt;a href="http://github.com/kthyng/cmtamu"&gt;Python package&lt;/a&gt;. Also shown with each colormap is a grayscale version of the colormap, to demonstrate that the colormaps would be reasonably-well printed in black and white. Here are the colormaps in a matplotlib-style gallery:
+&lt;img src="/blog/static/images/cmtamu-updated/gallery.png" class="picFloat" width="100%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Lightness profiles of the colormaps are helpful to check out for these &lt;a href="http://matplotlib.org/1.4.3/users/colormaps.html"&gt;sequential colormaps&lt;/a&gt;.
+&lt;img src="/blog/static/images/cmtamu-updated/lightness.png" class="picFloat" width="100%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Using sample data from a &lt;a href="http://hypoxia.tamu.edu/"&gt;hypoxia cruise&lt;/a&gt;, I plotted up the colormaps with actual data to show how they would look. The colorbars are meant to be intuitive as much as possible to the field being plotted. So, for example, the temperature colormap goes from blue-ish (cold) to red/yellow-ish (warm), but is still a sequential colormap. Or, more chlorophyll is represented by more green. The grayscale profile of oxygen is consistent, from dark to light, but has two regions of altered hue to highlight very low oxygen levels (hypoxic conditions) and super-saturated conditions (green-yellow).
+&lt;img src="/blog/static/images/cmtamu-updated/sample-data-MS2_L10.png" class="picFloat" width="100%"&gt;
+&lt;img src="/blog/static/images/cmtamu-updated/sample-data-MS09_L10.png" class="picFloat" width="100%"&gt;&lt;/p&gt;</content><category term="colormaps"></category><category term="pong"></category><category term="tamu"></category></entry><entry><title>New TAMU colormaps</title><link href="http://www.kristenthyng.com/blog/2015/03/14/cmtamu/" rel="alternate"></link><published>2015-03-14T11:00:00-05:00</published><updated>2015-03-14T11:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2015-03-14:/blog/2015/03/14/cmtamu/</id><summary type="html">&lt;p&gt;A set of colormaps are available for making nice, intuitive plots of oceanographic properities.&lt;/p&gt;</summary><content type="html">&lt;p&gt;In a collaboration between &lt;a href="http://pong.tamu.edu"&gt;PONG&lt;/a&gt; and others in Oceanography at Texas A&amp;amp;M, we've come up with a draft of standardized colormaps to use for plotting common oceanographic properties. It has started with 6 properties, but will be expanded over time to include more.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;The colormaps are available in an easy-to-use &lt;a href="http://github.com/kthyng/cmtamu"&gt;Python package&lt;/a&gt;. Here are the colormaps in a matplotlib-style gallery:
+&lt;img src="/blog/static/images/cmtamu/gallery.png" class="picFloat" width="100%"&gt;
+Also shown with each colormap is a grayscale version of the colormap, to demonstrate that the colormaps would be reasonably-well printed in black and white.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Lightness profiles of the colormaps are helpful to check out for these &lt;a href="http://matplotlib.org/1.4.3/users/colormaps.html"&gt;sequential colormaps&lt;/a&gt;.
+&lt;img src="/blog/static/images/cmtamu/lightness.png" class="picFloat" width="100%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Using sample data from a &lt;a href="http://hypoxia.tamu.edu/"&gt;hypoxia cruise&lt;/a&gt;, I plotted up the colormaps with actual data to show how they would look. Here I am using slightly unrealistic colorbar limits in order to demonstrate the full colorbar. The colorbars are meant to be intuitive as much as possible to the field being plotted. So, for example, the temperature colormap goes from blue-ish (cold) to red/yellow-ish (warm), but is still a sequential colormap. Or, more chlorophyll is represented by more green. The grayscale profile of oxygen is consistent, from dark to light, but has two regions of altered hue to highlight very low oxygen levels (hypoxic conditions) and super-saturated conditions (green-yellow).
+&lt;img src="/blog/static/images/cmtamu/sample-data.png" class="picFloat" width="100%"&gt;&lt;/p&gt;</content><category term="colormaps"></category><category term="pong"></category><category term="tamu"></category></entry><entry><title>SciPy 2014 Proceedings</title><link href="http://www.kristenthyng.com/blog/2015/02/27/scipy2014-proceedings/" rel="alternate"></link><published>2015-02-27T15:00:00-06:00</published><updated>2015-02-27T15:00:00-06:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2015-02-27:/blog/2015/02/27/scipy2014-proceedings/</id><summary type="html">&lt;p&gt;The proceedings from the SciPy 2014 conference are now available.&lt;/p&gt;</summary><content type="html">&lt;p&gt;The &lt;a href="http://conference.scipy.org/proceedings/scipy2014/"&gt;proceedings&lt;/a&gt; from the SciPy 2014 conference are available. This means that &lt;a href="http://conference.scipy.org/proceedings/scipy2014/pdfs/thyng.pdf"&gt;my paper&lt;/a&gt; from the proceedings is available too!
+&lt;br&gt;&lt;br&gt;
+&lt;a class="embedly-card" href="http://conference.scipy.org/proceedings/scipy2014/pdfs/thyng.pdf"&gt;Card&lt;/a&gt;
+&lt;script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"&gt;&lt;/script&gt;&lt;/p&gt;</content><category term="publication"></category><category term="article"></category><category term="scipy"></category><category term="tracpy"></category></entry><entry><title>Women in Oceanography: A Decade Later</title><link href="http://www.kristenthyng.com/blog/2015/01/29/oceanography-magazine/" rel="alternate"></link><published>2015-01-29T14:00:00-06:00</published><updated>2015-01-29T14:00:00-06:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2015-01-29:/blog/2015/01/29/oceanography-magazine/</id><summary type="html">&lt;p&gt;A supplement The Oceanography Society magazine, on Women in Oceanography, is available.&lt;/p&gt;</summary><content type="html">&lt;p&gt;A &lt;a href="http://cts.vresp.com/c/?TheOceanographySocie/f56777f7d3/b19a242f4a/2ed8deb6f0"&gt;supplement&lt;/a&gt; to the Oceanography Society magazine documenting some of the women in oceanography, has just been released. This supplement contains articles about women who also wrote ten years ago, in the original supplement, as well as women who have entered the field since then &lt;a href="http://www.tos.org/oceanography/archive/27-4_supp_bios.pdf#page=191"&gt;(like me)&lt;/a&gt;. 
+&lt;br&gt;&lt;br&gt;
+&lt;a class="embedly-card" data-card-analytics="1" href="http://www.tos.org/oceanography/archive/27-4_supp_bios.pdf#page=191"&gt;null&lt;/a&gt;
+&lt;script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"&gt;&lt;/script&gt;&lt;/p&gt;</content><category term="publication"></category><category term="magazine"></category></entry><entry><title>NASA Speaker Series Reflections</title><link href="http://www.kristenthyng.com/blog/2014/10/29/mpowir-blog/" rel="alternate"></link><published>2014-10-29T14:00:00-05:00</published><updated>2014-10-29T14:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2014-10-29:/blog/2014/10/29/mpowir-blog/</id><summary type="html">&lt;p&gt;Participant reflections about the NASA speaker series are available on the MPOWIR blog&lt;/p&gt;</summary><content type="html">&lt;p&gt;Participant reflections from the NASA speaker series, which I got to &lt;a href="http://kristenthyng.com/blog/2014/05/30/goddard/"&gt;participate in&lt;/a&gt;, are now up on the &lt;a href="http://mpowir.org/nasa-speaker-series-participant-reflections/"&gt;MPOWIR blog&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;
+&lt;a class="embedly-card" href="http://mpowir.org/nasa-speaker-series-participant-reflections/"&gt;NASA Speaker Series - Participant Reflections&lt;/a&gt;
+&lt;script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"&gt;&lt;/script&gt;&lt;/p&gt;</content><category term="presentation"></category><category term="mpowir"></category></entry><entry><title>Drifter animations</title><link href="http://www.kristenthyng.com/blog/2014/10/14/drifter-animations/" rel="alternate"></link><published>2014-10-14T12:00:00-05:00</published><updated>2014-10-14T12:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2014-10-14:/blog/2014/10/14/drifter-animations/</id><summary type="html">&lt;p&gt;New drifter animations on the Texas-Louisiana shelf&lt;/p&gt;</summary><content type="html">&lt;p&gt;There are &lt;a href="http://kristenthyng.com/txla_drifters.html"&gt;new animations&lt;/a&gt; I put together of surface drifters starting uniformly throughout the Texas-Louisiana shelf. They are color-coded by what depth they started at, since how drifters move to other depths is of interest. Note that the behavior is very different in the winter as compared with the summer.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://kristenthyng.com/txla_drifters.html"&gt;&lt;img src="http://pong.tamu.edu/~kthyng/movies/txla_drifters/2008-07-18T00.png" class="picFloat" width="100%"&gt;&lt;/a&gt;&lt;/p&gt;</content><category term="drifters"></category><category term="Texas"></category><category term="Lousiana"></category></entry><entry><title>River drifter animations</title><link href="http://www.kristenthyng.com/blog/2014/10/13/river-drifter-animations/" rel="alternate"></link><published>2014-10-13T12:00:00-05:00</published><updated>2014-10-13T12:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2014-10-13:/blog/2014/10/13/river-drifter-animations/</id><summary type="html">&lt;p&gt;Animations of drifters input at the major rivers on the Texas-Louisiana shelf&lt;/p&gt;</summary><content type="html">&lt;p&gt;I have run simulations of surface drifters with the drifters being input with the fresh water of the Atchafalaya and Mississippi rivers, and have posted &lt;a href="http://kristenthyng.com/txla_river_drifters.html"&gt;movies online&lt;/a&gt;. The circle shows the current location of the drifters, and the tail shows several days of previous positions.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://kristenthyng.com/txla_river_drifters.html"&gt;&lt;img src="http://pong.tamu.edu/~kthyng/movies/txla_river_drifters/2008-05-30/2008-07-30T00.png" class="picFloat" width="100%"&gt;&lt;/a&gt;&lt;/p&gt;</content><category term="drifters"></category><category term="Texas"></category><category term="Lousiana"></category></entry><entry><title>Texas harmful algal bloom prediction for 2014</title><link href="http://www.kristenthyng.com/blog/2014/10/08/hab-prediction/" rel="alternate"></link><published>2014-10-08T12:00:00-05:00</published><updated>2014-10-08T12:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2014-10-08:/blog/2014/10/08/hab-prediction/</id><summary type="html">&lt;p&gt;Prediction for &lt;i&gt;Karenia brevis&lt;/i&gt; harmful algal bloom for 2014: no major bloom!&lt;/p&gt;</summary><content type="html">&lt;p&gt;Colleagues and I are predicting that there will be no severe harmful algal bloom in Texas waters for the rest of the season.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Previous research indicates that the measured winds in September at Port Aransas, TX, are predictive for whether or not a major harmful algal bloom will occur that year.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;A harmful algal bloom caused by the phytoplankton &lt;i&gt;Karenia brevis&lt;/i&gt;, colloquially known as red tide, can have serious human and marine life impacts. At high enough concentrations, the phytoplankton can cause fishkills, a toxic aerosol with respiratory impacts for nearby people, and &lt;a href="/blog/static/images/hab/redtide.jpg"&gt;colored water&lt;/a&gt;**.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+&lt;img src="/blog/static/images/hab/redtide.jpg" class="picFloat" width="100%"&gt;
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;All of these negatively effect human health and the tourism industry in the area. Our prediction is that this will not occur in the rest of the bloom season, which is from September through November typically, or even into December and January in abnormal years.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;In our research, we found that the along-shore wind at Port Aransas, averaged over September, correlated with whether or now a major bloom occurred that year. We found that in years with weaker average winds, blooms were less likely to occur as compared with years with stronger average winds. This was a statistical correlation based on data. To understand why this occurred, we ran numerical drifters with a tool, &lt;a href="http://github.com/kthyng/tracpy"&gt;TracPy&lt;/a&gt;, using velocity fields for the Texas and Louisiana continental shelf, as predicted by our numerical circulation model of the area. &lt;a href="http://lofe.dukejournals.org/content/3/269.full"&gt;Our results&lt;/a&gt; show that water from south of the Texas coastline in Mexico was connected with the occurrence of a major bloom in Texas waters. We tested this both by running numerical drifters from Mexico, where we think the cells largely originate, forward in time to when and where blooms typically occur in Texas, and backward in time from Texas. Both experiments indicated that southern waters are connected with Texas waters at the relevant time and location for blooms to occur, and, additionally, provided a mechanism for why blooms occur in some years and not in others: when the winds are strong enough, the phytoplankton that would otherwise form a major bloom are instead swept away.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Our &lt;a href="/blog/static/images/hab/hab-index-september.png"&gt;prediction index&lt;/a&gt; (below) shows distinct behavior in September winds as to whether a major bloom will occur or not. The code I wrote to analyze this data and generate the plot is &lt;a href="https://github.com/kthyng/hab-index"&gt;freely available&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+&lt;img src="/blog/static/images/hab/hab-index-september.png" class="picFloat" width="100%"&gt;
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;The major blooms discussed here occur at high concentrations of &lt;em&gt;K. brevis&lt;/em&gt;, and can lead to fish kills, toxic aerosols, and colored water due to the resulting major blooms. However, even low concentrations of this phytoplankton can cause closures of bays to shellfish harvesting because shellfish filter the water and aggregate the phytoplankton's toxin if it is present. The concentration of cells doesn't have to be very high before the shellfish cannot flush out the toxic cells at a fast enough rate to stay clean. This is why the bays are closed at much lower concentrations of &lt;em&gt;K. brevis&lt;/em&gt; than would typically be necessary for a fish kill to occur, for example.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Fortunately, to address the shorter time scale question of this lower level of cell concentration, Lisa Campbell at Texas A&amp;amp;M has an Imaging FlowCytobot to test the water at Port Aransas, TX, regularly and report when &lt;em&gt;K. brevis&lt;/em&gt; cells are present. In fact, results from the Cytobot &lt;a href="http://tamutimes.tamu.edu/2014/09/30/texas-coastal-residents-should-be-ready-for-possible-red-tide-invasion/#.VDXJT9R4qrK"&gt;recently indicated&lt;/a&gt; low levels of the phytoplankton, close to what could lead to bay closures. However, our prediction suggests that while these low levels of cells may occur (and can't be predicted by our index), they will not massively increase to a high level and therefore there will not be a severe bloom this year.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;** Image from Texas Parks and Wildlife Department&lt;/p&gt;</content><category term="Texas"></category><category term="HAB"></category><category term="red tide"></category><category term="Karenia brevis"></category><category term="forecast"></category><category term="prediction"></category></entry><entry><title>Contribution to matplotlib documentation</title><link href="http://www.kristenthyng.com/blog/2014/09/18/mpl-docs/" rel="alternate"></link><published>2014-09-18T14:00:00-05:00</published><updated>2014-09-18T14:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2014-09-18:/blog/2014/09/18/mpl-docs/</id><summary type="html">&lt;p&gt;I contributed to the Python matplotlib documentation with a guide to choosing colormaps!&lt;/p&gt;</summary><content type="html">&lt;p&gt;After my &lt;a href="http://www.kristenthyng.com/blog/2014/07/10/scipy-2014-colormap-talk/"&gt;talk at Scipy&lt;/a&gt; on colormaps, it was suggested that some of the information about the matplotlib colormaps be added to the matplotlib documentation. So, I spent my time at the SciPy conference sprints working on just that. So, I am now an official contributor to matplotlib with a guide to colormaps!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="embedly-card" data-card-analytics="1" href="http://matplotlib.org/users/colormaps.html"&gt;Choosing Colormaps - Matplotlib 1.4.0 documentation&lt;/a&gt;
+&lt;script&gt;!function(a){var b="embedly-platform",c="script";if(!a.getElementById(b)){var d=a.createElement(c);d.id=b,d.src=("https:"===document.location.protocol?"https":"http")+"://cdn.embedly.com/widgets/platform.js";var e=document.getElementsByTagName(c)[0];e.parentNode.insertBefore(d,e)}}(document);&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;The plots I like the most are of the lightness parameter of the matplotlib colormaps, shown below. Colormaps that are more natural for our brain to correctly interpret typically have monotonically increasing values of lightness, so in the matplotlib cases, the Sequential and Diverging colormaps tend to be the best (the diverging colormaps are meant to show deviation from a central critical point, leading to the dual behavior seen in the colormaps). For more information, see the &lt;a href="http://matplotlib.org/users/colormaps.html"&gt;matplotlib documentation&lt;/a&gt; or the &lt;a href="http://www.kristenthyng.com/blog/2014/07/10/scipy-2014-colormap-talk/"&gt;talks/slides&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/dmcdougall/scipy14-colormaps/blob/master/perceptions/figures/Sequential.png"&gt;&lt;img src="/blog/static/images/colormaps/Sequential.png" class="picFloat" width="100%"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/dmcdougall/scipy14-colormaps/blob/master/perceptions/figures/Sequential2.png"&gt;&lt;img src="/blog/static/images/colormaps/Sequential2.png" class="picFloat" width="100%"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/dmcdougall/scipy14-colormaps/blob/master/perceptions/figures/Diverging.png"&gt;&lt;img src="/blog/static/images/colormaps/Diverging.png" class="picFloat" width="100%"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/dmcdougall/scipy14-colormaps/blob/master/perceptions/figures/Qualitative.png"&gt;&lt;img src="/blog/static/images/colormaps/Qualitative.png" class="picFloat" width="100%"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/dmcdougall/scipy14-colormaps/blob/master/perceptions/figures/Miscellaneous.png"&gt;&lt;img src="/blog/static/images/colormaps/Miscellaneous.png" class="picFloat" width="100%"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;</content><category term="Python"></category><category term="matplotlib"></category><category term="colormaps"></category></entry><entry><title>SciPy 2014 Colormap Talk</title><link href="http://www.kristenthyng.com/blog/2014/07/10/scipy-2014-colormap-talk/" rel="alternate"></link><published>2014-07-10T16:00:00-05:00</published><updated>2014-07-10T16:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2014-07-10:/blog/2014/07/10/scipy-2014-colormap-talk/</id><summary type="html">&lt;p&gt;Presentation at the SciPy 2014 conference on colormaps&lt;/p&gt;</summary><content type="html">&lt;p&gt;I gave two talks at the &lt;a href="https://conference.scipy.org/scipy2014/"&gt;SciPy conference&lt;/a&gt;: &lt;a href="http://kristenthyng.com/blog/2014/07/10/scipy-2014-tracpy-talk/"&gt;one&lt;/a&gt; on my particle tracking wrapper code, &lt;a href="https://github.com/kthyng/tracpy"&gt;TracPy&lt;/a&gt;, and another on people's perceptions of &lt;a href="http://matplotlib.org"&gt;matplotlib&lt;/a&gt; colormaps.
+&lt;br&gt;&lt;br&gt;
+The talk on colormaps was in the visualization and imaging mini-symposium at the conference. &lt;a href="http://damon-is-a-geek.com"&gt;Damon McDougall&lt;/a&gt; first gave a talk about choosing a good colormap before I gave my talk that was specific to matplotlib colormaps.&lt;/p&gt;
+&lt;p&gt;&lt;a class="embedly-card" data-card-chrome="0" href="https://speakerdeck.com/kthyng/how-to-choose-a-good-colormap"&gt;How to choose a good colormap&lt;/a&gt;
+&lt;script&gt;(function(a){var b="embedly-platform",c="script";if(!a.getElementById(b)){var d=a.createElement(c);d.id=b;d.async=true;d.src=("https:"===document.location.protocol?"https":"http")+"://cdn.embedly.com/widgets/platform.js";var e=document.getElementsByTagName(c)[0];e.parentNode.insertBefore(d,e)}})(document);&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="embedly-card" data-card-chrome="0" href="https://www.youtube.com/watch?v=Alnc9E1RnD8"&gt;How to Choose a Good Colour Map | SciPy 2014 | Damon McDougall&lt;/a&gt;
+&lt;script&gt;(function(a){var b="embedly-platform",c="script";if(!a.getElementById(b)){var d=a.createElement(c);d.id=b;d.async=true;d.src=("https:"===document.location.protocol?"https":"http")+"://cdn.embedly.com/widgets/platform.js";var e=document.getElementsByTagName(c)[0];e.parentNode.insertBefore(d,e)}})(document);&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="embedly-card" data-card-chrome="0" href="https://speakerdeck.com/kthyng/perceptions-of-matplotlib-colormaps"&gt;Perceptions of matplotlib colormaps&lt;/a&gt;
+&lt;script&gt;!function(a){var b="embedly-platform",c="script";if(!a.getElementById(b)){var d=a.createElement(c);d.id=b,d.src=("https:"===document.location.protocol?"https":"http")+"://cdn.embedly.com/widgets/platform.js";var e=document.getElementsByTagName(c)[0];e.parentNode.insertBefore(d,e)}}(document);&lt;/script&gt;
+&lt;!-- &lt;br&gt;&lt;br&gt; --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="embedly-card" data-card-chrome="0" href="https://www.youtube.com/watch?v=rkDgBvT-giw"&gt;Perceptions of Matplotlib Colormaps | SciPy 2014 | Kristen M Thyng&lt;/a&gt;
+&lt;script&gt;(function(a){var b="embedly-platform",c="script";if(!a.getElementById(b)){var d=a.createElement(c);d.id=b;d.async=true;d.src=("https:"===document.location.protocol?"https":"http")+"://cdn.embedly.com/widgets/platform.js";var e=document.getElementsByTagName(c)[0];e.parentNode.insertBefore(d,e)}})(document);&lt;/script&gt;&lt;/p&gt;</content><category term="SciPy"></category><category term="conference"></category><category term="colormaps"></category><category term="presentation"></category></entry><entry><title>SciPy 2014 TracPy Talk</title><link href="http://www.kristenthyng.com/blog/2014/07/10/scipy-2014-tracpy-talk/" rel="alternate"></link><published>2014-07-10T10:45:00-05:00</published><updated>2014-07-10T10:45:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2014-07-10:/blog/2014/07/10/scipy-2014-tracpy-talk/</id><summary type="html">&lt;p&gt;Presentation at the SciPy 2014 conference on TracPy&lt;/p&gt;</summary><content type="html">&lt;p&gt;I gave a talk at the &lt;a href="https://conference.scipy.org/scipy2014/"&gt;SciPy conference&lt;/a&gt; on my particle tracking wrapper code, &lt;a href="https://github.com/kthyng/tracpy"&gt;TracPy&lt;/a&gt;. I was in the geospatial track at the conference and it was an interesting session. I have posted the &lt;a href="http://pong.tamu.edu/~kthyng/presentations/scipy2014-tracpy.pdf"&gt;slides&lt;/a&gt; online (note: download the slides and open in Adobe Reader to properly view the embedded animations). The video of the presentation is available below.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="embedly-card" data-card-chrome="0" href="https://www.youtube.com/watch?v=8poLWacun50"&gt;TracPy Wrapping the FORTRAN Lagrangian trajectory model TRACMASS | SciPy 2014 | Kristen Thyng&lt;/a&gt;
+&lt;script&gt;(function(a){var b="embedly-platform",c="script";if(!a.getElementById(b)){var d=a.createElement(c);d.id=b;d.async=true;d.src=("https:"===document.location.protocol?"https":"http")+"://cdn.embedly.com/widgets/platform.js";var e=document.getElementsByTagName(c)[0];e.parentNode.insertBefore(d,e)}})(document);&lt;/script&gt;&lt;/p&gt;</content><category term="SciPy"></category><category term="conference"></category><category term="tracpy"></category><category term="presentation"></category></entry><entry><title>SciPy 2014 DISC</title><link href="http://www.kristenthyng.com/blog/2014/07/09/scipy-2014-disc/" rel="alternate"></link><published>2014-07-09T12:15:00-05:00</published><updated>2014-07-09T12:15:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2014-07-09:/blog/2014/07/09/scipy-2014-disc/</id><summary type="html">&lt;p&gt;Diversity in Scientific Computing luncheon at SciPy 2014&lt;/p&gt;</summary><content type="html">&lt;p&gt;Following up on a Women in Scientific Computing Birds of a Feather social gathering &lt;a href="http://andy.terrel.us/blog/2013/07/18/women-sci-comp/"&gt;last year&lt;/a&gt;, this year a proper diversity committee was established to plan an event. The diversity committee, Patricia Francis-Lyon (University of San Francisco), Katy Huff (University of California, Berkeley), Leah Silen (NumFOCUS), and me, planned at luncheon during the SciPy 2014 conference. The event sold out with 50 people in attendance. &lt;a href="http://numfocus.org"&gt;NumFOCUS&lt;/a&gt; sponsored the lunch as well as funded five attendees to the conference and lunch. 
+&lt;br&gt;&lt;br&gt;
+After people gathered, sat down, and had a chance to chat a little, our speaker, &lt;a href="http://www.scicomp.com/about/profile/kant.html"&gt;Elaine Kant&lt;/a&gt;, shared with us some of her experiences. Elaine told us some of her background, her experiences starting a business, and some thoughts about how to improve all people's experiences in the scientific computing community. Elaine's company, &lt;a href="http://www.scicomp.com"&gt;SciComp&lt;/a&gt;, does financial modeling and derivatives consulting. Afterward, there was a short discussion in which people started to share their views and experiences. There was also a call for continuing the conversation by starting a list of interested people. There appeared to be strong interest in having more time and space for an event next year.
+&lt;br&gt;&lt;br&gt;
+&lt;!-- &lt;img alt="" src="/blog/static/images/DISC2014/1-p1.JPG"&gt;
+&lt;img alt="" src="/blog/static/images/DISC2014/2-p3.JPG"&gt;
+&lt;img alt="" src="/blog/static/images/DISC2014/5-p11.JPG"&gt;
+&lt;img alt="" src="/blog/static/images/DISC2014/6-p14.JPG"&gt;
+&lt;img alt="" src="/blog/static/images/DISC2014/4-p8.JPG"&gt; --&gt;
+&lt;img src="/blog/static/images/DISC2014/1-p1.JPG" class="picFloat" width="48%"&gt;
+&lt;img src="/blog/static/images/DISC2014/2-p3.JPG" class="picFloat" width="42%"&gt;
+&lt;img src="/blog/static/images/DISC2014/5-p11.JPG" class="picFloat" width="42%"&gt;
+&lt;img src="/blog/static/images/DISC2014/6-p14.JPG" class="picFloat" width="65%"&gt;
+&lt;img src="/blog/static/images/DISC2014/4-p8.JPG" class="picFloat" width="100%"&gt;
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;</content><category term="SciPy"></category><category term="conference"></category><category term="diversity"></category></entry><entry><title>SciPy John Hunter Excellence in Plotting Contest</title><link href="http://www.kristenthyng.com/blog/2014/07/08/scipy-plotting-competition-2014/" rel="alternate"></link><published>2014-07-08T20:00:00-05:00</published><updated>2014-07-08T20:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2014-07-08:/blog/2014/07/08/scipy-plotting-competition-2014/</id><summary type="html">&lt;p&gt;3rd place at the 2014 SciPy John Hunter Excellence in Plotting Competition&lt;/p&gt;</summary><content type="html">&lt;p&gt;At the annual reception for the &lt;a href="https://conference.scipy.org/scipy2014/"&gt;SciPy 2014&lt;/a&gt; conference last week, Michael Droettboom announced the winners and runners up for the &lt;a href="https://conference.scipy.org/scipy2014/participate/plotting_contest/"&gt;John Hunter Excellence in Plotting&lt;/a&gt; contest. My plot with &lt;a href="http://pong.tamu.edu/~rob/"&gt;Rob Hetland&lt;/a&gt; was honored to win 3rd place in the contest!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://conference.scipy.org/scipy2014/participate/plotting_contest/"&gt;&lt;img src="/blog/static/images/2008-06-24T00.png" class="picFloat" width="100%"&gt;&lt;/a&gt;&lt;/p&gt;</content><category term="visualization"></category><category term="plotting"></category><category term="SciPy"></category><category term="conference"></category></entry><entry><title>New Surface Salinity Movies</title><link href="http://www.kristenthyng.com/blog/2014/06/20/salinity/" rel="alternate"></link><published>2014-06-20T14:07:00-05:00</published><updated>2014-06-20T14:07:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2014-06-20:/blog/2014/06/20/salinity/</id><summary type="html">&lt;p&gt;Surface salinity movies of Texas-Louisiana shelf has been compiled together and made available&lt;/p&gt;</summary><content type="html">&lt;p&gt;I just wrapped up a shiny new &lt;a href="http://pong.tamu.edu/txla_salinity.html"&gt;set&lt;/a&gt; of 8 years of animations of the surface salinity on the Texas-Louisiana shelf with input from Rob Hetland!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://pong.tamu.edu/txla_salinity.html"&gt;&lt;img src="http://pong.tamu.edu/movies/txla_salinity/2004-07-30T00.png" class="picFloat" width="100%"&gt;&lt;/a&gt;&lt;/p&gt;</content><category term="txla"></category><category term="figures"></category><category term="salinity"></category></entry><entry><title>First Official TracPy Release!</title><link href="http://www.kristenthyng.com/blog/2014/06/10/tracpy/" rel="alternate"></link><published>2014-06-10T18:05:00-05:00</published><updated>2014-06-10T18:05:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2014-06-10:/blog/2014/06/10/tracpy/</id><summary type="html">&lt;p&gt;TracPy was released through GitHub at version 1.0 and was assigned a DOI through Zenodo&lt;/p&gt;</summary><content type="html">&lt;p&gt;TracPy version 1.0 has been released! 
+&lt;br&gt;&lt;br&gt;
+&lt;a href="https://zenodo.org/record/10433#.U6SWWBYxmd8"&gt;&lt;img src="https://zenodo.org/badge/4563/kthyng/tracpy.png" class="picFloat"&gt;&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+TracPy, a Python wrapper of Lagrangian trajectory model TRACMASS and a main tool of my work right now, has always been available on &lt;a href="https://github.com/kthyng/tracpy"&gt;GitHub&lt;/a&gt;, but now has been officially released, complete with a &lt;a href="http://dx.doi.org/10.5281/zenodo.10433"&gt;DOI&lt;/a&gt;.&lt;/p&gt;</content><category term="tracpy"></category><category term="code"></category><category term="drifters"></category></entry><entry><title>Visit to NASA Goddard</title><link href="http://www.kristenthyng.com/blog/2014/05/30/goddard/" rel="alternate"></link><published>2014-05-30T15:30:00-05:00</published><updated>2014-05-30T15:30:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2014-05-30:/blog/2014/05/30/goddard/</id><summary type="html">&lt;p&gt;Description of my recent visit to NASA Goddard to do an MPOWIR talk&lt;/p&gt;</summary><content type="html">&lt;p&gt;I attended the MPOWIR &lt;a href="http://mpowir.org/get-involved/pattullo/"&gt;Pattullo Conference&lt;/a&gt; last October, which helped teach me about many aspects of a career in academics that I need to know to be successful. It was also a chance to meet Jr. and Sr. Scientists and get a chance to ask questions of Sr. Scientists that normally I wouldn't be able to ask (e.g., how many hours a week do you work? When did you start feeling confident in your work?). Through the NSF-funded MPOWIR organization, I have also joined a mentorship group that meets via phone monthly. Additionally, I applied for the MPOWIR &lt;a href="http://mpowir.org/get-involved/nasa-speaker-series/"&gt;NASA Speaker Series&lt;/a&gt; and was selected to visit the NASA Goddard campus in Greenbelt, MD.
+&lt;br&gt;&lt;br&gt;
+I just returned from visiting Goddard on May 28th and 29th. It was a great visit! &lt;a href="http://science.gsfc.nasa.gov/sed/index.cfm?fuseAction=people.jumpBio&amp;amp;iPhonebookId=12925"&gt;Sirpa Hakkinen&lt;/a&gt; was my host at Goddard and Sarah Clem of the MPOWIR organization set up my trip. I gave a &lt;a href="http://pong.tamu.edu/~kthyng/presentations/nasa.pdf"&gt;talk&lt;/a&gt; in the &lt;a href="http://neptune.gsfc.nasa.gov/csb/"&gt;Cryosphere group&lt;/a&gt; that was attended by scientists from several different groups. After my talk, I met with several researchers in the Cryosphere group, and the following day, I visited the &lt;a href="http://neptune.gsfc.nasa.gov/osb/"&gt;Ocean Ecology group&lt;/a&gt;. It was a great opportunity to learn about research outside of my current work areas, and to start thinking about how to bring remote sensing into my array of tools.&lt;/p&gt;</content><category term="presentation"></category><category term="travel"></category><category term="mpowir"></category></entry><entry><title>Testing netCDF Formats in Python</title><link href="http://www.kristenthyng.com/blog/2014/03/29/python+netcdf4/" rel="alternate"></link><published>2014-03-29T10:00:00-05:00</published><updated>2014-03-29T10:00:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2014-03-29:/blog/2014/03/29/python+netcdf4/</id><summary type="html">&lt;p&gt;Best options for netCDF4 with Python using TracPy&lt;/p&gt;</summary><content type="html">&lt;p&gt;I had been using various versions of netCDF3 for storing Lagrangian drifter tracks. But, my group had discussed using netCDF4 for improving storage via compression and to potentially use multiple unlimited dimensions. One reason I was holding back was that I had read I would not be able to use MFDataset to combine drifter tracks if I switched to netCDF4. When I started doing simulations with more and more drifters recently, things were really getting bogged down, so I decided it was worth the time to investigate.
+&lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Big picture: netCDF4-CLASSIC works well for my purposes so far and is a big improvement over netCDF3.&lt;/strong&gt;
+&lt;br&gt;&lt;br&gt;
+netCDF4-CLASSIC combines many of the good parts of netCDF3 with some of the abilities of netCDF4. It allows for compression. It does not allow for multiple unlimited dimensions, but I haven't needed that. It does allow for the use of MFDataset for aggregation. It also sped up the process of saving by a huge amount, which for some reason was getting massively bogged down with the large number of drifters being used recently.
+&lt;br&gt;&lt;br&gt;
+I opted to stick with 64 bit format for saving the tracks and lossless compression of information.&lt;/p&gt;
+&lt;h2&gt;Test&lt;/h2&gt;
+&lt;p&gt;I ran the shelf_transport project with 1km initial spacing throughout the domain with no volume transport for 2004-01-01 (drifters run for 30 days). This ran 267622 surface drifters with sampling of the tracks every 48 minutes. A nan is stored once a drifter exits the domain and forever after in the time for that drifter.
+&lt;br&gt;&lt;br&gt;
+This results in a large amount of output and really slowed down getting through runs previously, using netCDF3_64bit.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Note that the simulation run time does not include time for saving the tracks.
+Also, I ran the netCDF4 test after the other two, while running 7 other simulations, so I suspect the time difference is mostly due to sharing memory. Regardless, the file size is the same between netCDF4 and netCDF4-CLASSIC. Better timing tests could be done in the future.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;netCDF3_64BIT&lt;/th&gt;
+&lt;th&gt;netCDF4-CLASSIC&lt;/th&gt;
+&lt;th&gt;% decrease in 4C&lt;/th&gt;
+&lt;th&gt;netCDF4&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Simulation run time [s]&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;1038&lt;/td&gt;
+&lt;td&gt;1038&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;1423&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;File save time [s]&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;3527&lt;/td&gt;
+&lt;td&gt;131&lt;/td&gt;
+&lt;td&gt;96&lt;/td&gt;
+&lt;td&gt;152&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;File size [GB]&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;3.6&lt;/td&gt;
+&lt;td&gt;2.1&lt;/td&gt;
+&lt;td&gt;42&lt;/td&gt;
+&lt;td&gt;2.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;More Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.unidata.ucar.edu/software/netcdf/workshops/2012/netcdf_python/netcdf4python.pdf"&gt;Really useful netCDF4 resource&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.unidata.ucar.edu/software/netcdf/docs/netcdf/NetCDF_002d4-Classic-Model-Format.html"&gt;Info about the "classic" file format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="python"></category><category term="netcdf4"></category><category term="tips"></category></entry><entry><title>Using Taskset</title><link href="http://www.kristenthyng.com/blog/2013/11/26/using-taskset/" rel="alternate"></link><published>2013-11-26T17:00:00-06:00</published><updated>2013-11-26T17:00:00-06:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2013-11-26:/blog/2013/11/26/using-taskset/</id><summary type="html">&lt;p&gt;How to use the taskset command&lt;/p&gt;</summary><content type="html">&lt;p&gt;When I am running analysis or plotting scripts on a Linux workstation, I often employ a "poor man's" parallel processing: starting multiple instances of a script with different parameters to decrease the amount of time until I get my results. I have noticed that instead of nicely shifting each new process to a separate core on the workstation, sometimes the processes will get stacked on one core. I figured out how to manually move them around with a lot of googling one day, so I am hoping to save someone the same trouble. Note that this will not work on a Mac.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Start your processes&lt;/li&gt;
+&lt;li&gt;Find the process PIDs with &lt;code&gt;top&lt;/code&gt; or your favorite method&lt;/li&gt;
+&lt;li&gt;Check which node the processes are running on with &lt;br&gt;
+&lt;code&gt;taskset -p [PID]&lt;/code&gt; &lt;br&gt;
+for each process PID&lt;/li&gt;
+&lt;li&gt;If the node number is the same for multiple processes, you will want to change the node being used to spread them out. If your Linux machine has 12 nodes, choose a different number between 0 and 11 from the other process. Change the process node with&lt;br&gt;
+&lt;code&gt;taskset -p [CORE NUMBER] [PID]&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Another check to &lt;code&gt;top&lt;/code&gt; should show that the processes are now each allowed to use 100% of the CPU per node instead of sharing.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Linux"></category><category term="tips"></category></entry><entry><title>SciPy Conference and John Hunter Excellence in Plotting Competition</title><link href="http://www.kristenthyng.com/blog/2013/10/14/scipy-plotting-competition/" rel="alternate"></link><published>2013-10-14T13:20:00-05:00</published><updated>2013-10-14T13:20:00-05:00</updated><author><name>Kristen Thyng</name></author><id>tag:www.kristenthyng.com,2013-10-14:/blog/2013/10/14/scipy-plotting-competition/</id><summary type="html">&lt;p&gt;Link to SciPy John Hunter Excellence in Plotting Competition&lt;/p&gt;</summary><content type="html">&lt;p&gt;In June I attended my first SciPy conference. It was in Austin, TX, as usual. I wasn't sure what to expect, this being my first conference about a tool instead of research itself, but I enjoyed it. It was a great opportunity to meet people outside my immediate field and also to meet up with several in my own. I attended tutorials, the conference itself, and the sprints, and throughout, I learned of several new tools to try and about how to best do my research within the framework of open science and reproducibility, both themes of the conference.
+&lt;br&gt;&lt;br&gt;
+There was a plotting competition as part of the conference, the John Hunter Excellence in Plotting competition. I submitted a figure from my research and got second place! A gallery of the entries is &lt;a href="http://conference.scipy.org/jhepc2013/index.html"&gt;available online&lt;/a&gt;. As part of being ranked highly in the competition, I got to sit on the stage at the conference and participate in a panel on visualization practices.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="embedly-card" href="http://pyvideo.org/video/2008/scipy-2013-john-hunter-excellence-in-plotting-con"&gt;pyvideo.org - SciPy 2013 John Hunter Excellence in Plotting Contest&lt;/a&gt;
+&lt;script&gt;(function(a){var b="embedly-platform",c="script";if(!a.getElementById(b)){var d=a.createElement(c);d.id=b;d.async=true;d.src=("https:"===document.location.protocol?"https":"http")+"://cdn.embedly.com/widgets/platform.js";var e=document.getElementsByTagName(c)[0];e.parentNode.insertBefore(d,e)}})(document);&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://conference.scipy.org/jhepc2013/2013/entry10/index.html"&gt;&lt;img src="/blog/static/images/tkemax.jpg" class="picFloat" width="100%"&gt;&lt;/a&gt;&lt;/p&gt;</content><category term="visualization"></category><category term="plotting"></category><category term="SciPy"></category><category term="conference"></category></entry></feed>

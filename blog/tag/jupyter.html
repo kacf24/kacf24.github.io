@@ -1,0 +1,339 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Kristen M. Thyng, Ph.D. - jupyter tag</title>
+<link href="http://fonts.googleapis.com/css?family=Abel|Arvo" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="http://www.kristenthyng.com/blog/theme/css/styles.css" type="text/css" />
+
+<link href="http://www.kristenthyng.com/blog/" type="application/atom+xml" rel="alternate" title="Kristen M. Thyng, Ph.D. ATOM Feed" />
+
+<!--[if IE]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+<!--[if lte IE 7]>
+        <link rel="stylesheet" type="text/css" media="all" href="http://www.kristenthyng.com/blog/css/ie.css"/>
+        <script src="http://www.kristenthyng.com/blog/js/IE8.js" type="text/javascript"></script><![endif]-->
+
+<!--[if lt IE 7]>
+        <link rel="stylesheet" type="text/css" media="all" href="http://www.kristenthyng.com/blog/css/ie6.css"/><![endif]-->
+
+</head>
+
+<body>
+
+<div id="container">
+    <div id="header">
+        <h1><a href="/index.html">Kristen M. Thyng<span>Ph.D. </span></a></h1>
+        <div class="submenu">
+            <ul>
+                <li><a href="/research.html">Research</a></li>
+                <li><a href="/publications.html">Publications</a></li>
+                <li><a href="/presentations.html">Presentations</a></li>
+                <li><a href="/people.html">People</a></li>
+                <li><a href="/teaching.html">Teaching</a></li>
+                <li><a href="/gallery.html">Gallery</a></li>
+                <li><a href="/media.html">Media</a></li><br>
+                <li><a href="/blog/index.html">Blog</a></li>
+                <li><a href="/cv.pdf">CV</a></li>
+            </ul>
+        </div>
+        <div class="clearfloat"></div>
+<!--         <div id="navcontainer">
+            <ul id="navlist">
+                <li id="active"><a href="#">Home</a></li>
+                <li><a href="research.html">Research</a></li>
+                <li><a href="publications.html">Publications</a></li>
+                <li><a href="teaching.html">Teaching</a></li>
+                <li><a href=""></a></li>
+            </ul>
+        </div> -->
+<!--         <div class="clearfloat"></div>
+        <div><img src="http://www.kristenthyng.com/blog/theme/images/header.jpg" alt="" width=100% /></div> -->
+    </div>
+
+            <header>
+                <h2><a href="http://www.kristenthyng.com/blog/2016/09/07/jupyterhub+nbgrader/" id="page-title">How to use JupyterHub with nbgrader</a></h2>
+<time datetime="2016-09-07T11:00:00-05:00">Sep 07, 2016</time>                <br><br>
+            </header>
+            <article>
+            <p>I am teaching for the second time a class on Python — <a href="https://github.com/kthyng/python4geosciences">Python for the Geosciences</a>. It went well last semester, but I felt that too much time was spent on getting stuff installed on student machines, despite using Anaconda. (Much of this was due to Mac vs. PC behaviors.) This semester, I am trying to avoid installation issues on the student end by having them sign into a JupyterHub server, which is being run off a local workstation. I like it for the most part, though installation issues have not been trivial, particularly in coordinating JupyterHub and nbgrader, the really nice setup for distributing assignments to students so that they can work on them, check their work, and submit them, and so that I can subsequently grade them easily. I graded submitted notebooks "by hand" last semester and it was a nightmare, so avoiding that was a big goal this semester.
+<br><br>
+As far as I understand, one of the main pain points for getting this all to work is the fact that we are trying to stay more secure, with an <code>https</code> address for the server. I'll describe here the steps I took in case it might help future me or someone else out there. Note that I'm starting after the point of getting the JupyterHub server installed and setup.
+<br><br><br></p>
+<h1>Set up student accounts on workstation for server</h1>
+<p><br><br>
+With about 10 students in the class, it was annoying but not too hard to setup an account on the workstation for each of them. I used their student email nickname for their login, and made them part of a group so that I can use the group name for adding permissions and deleting them after the term is over. I chose their passwords for them since I wanted to be sure they had strong passwords. I am keeping track of them on my own (I use <a href="https://1password.com/">1password</a> to keep track of all this sort of thing, as well as generating passwords), and I read somewhere that sending someone a link to a public dropbox file is a relatively secure way to send information, so I made a file for each of them with their username and password and emailed it off.
+<br><br></p>
+<div class="highlight"><pre><span></span>    <span class="n">sudo</span> <span class="n">groupadd</span> <span class="n">pythonfall2016</span>  <span class="o">#</span> <span class="k">create</span> <span class="k">group</span>
+    <span class="o">#</span> <span class="n">home</span> <span class="n">directory</span> <span class="k">is</span> <span class="k">on</span> <span class="n">a</span> <span class="n">separate</span> <span class="n">drive</span> <span class="k">on</span> <span class="n">this</span> <span class="n">workstation</span>
+    <span class="n">sudo</span> <span class="n">useradd</span> <span class="o">-</span><span class="k">G</span> <span class="n">pythonfall2016</span> <span class="o">-</span><span class="n">d</span> <span class="o">/</span><span class="n">d2</span><span class="o">/</span><span class="n">home</span><span class="o">/</span><span class="n">student_username_here</span> <span class="n">student_username_here</span>
+    <span class="n">sudo</span> <span class="n">passwd</span> <span class="n">username</span>  <span class="o">#</span> <span class="n">give</span> <span class="n">them</span> <span class="k">each</span> <span class="n">a</span> <span class="n">good</span> <span class="n">password</span>
+</pre></div>
+
+
+<p><br><br>
+I had to log into each account to set up a "notebooks" directory, which is where JupyterHub was setup to start. (This is controlled in your JuyterHub config file jupyterhub_config.py by the variable c.Spawner.notebook_dir = '~/notebooks'.)
+<br><br>
+I then added the group <code>pythonfall2016</code> to the authenticated list in jupyterhub_config.py so they would be able to log in: c.LocalAuthenticator.group_whitelist = {'pythonfall2016'}.
+<br><br><br></p>
+<h1>nbgrader</h1>
+<h2>nbgrader_config file</h2>
+<p>This is what I needed in my course ngrader_config.py file to get things to work. I triangulated between what is in the <a href="https://nbgrader.readthedocs.io/en/stable/">nbgrader docs</a> and what I found on various google groups discussions and some github links I stumbled across.
+<br><br></p>
+<div class="highlight"><pre><span></span>    <span class="kn">import</span> <span class="nn">os</span>
+
+    <span class="n">c</span> <span class="o">=</span> <span class="n">get_config</span><span class="p">()</span>
+
+    <span class="c1"># You only need this if you are running nbgrader on a shared</span>
+    <span class="c1"># server set up.</span>
+    <span class="n">c</span><span class="o">.</span><span class="n">NbGrader</span><span class="o">.</span><span class="n">course_id</span> <span class="o">=</span> <span class="s2">&quot;course_name&quot;</span>
+
+    <span class="c1"># Update this list with other assignments you want</span>
+    <span class="n">c</span><span class="o">.</span><span class="n">NbGrader</span><span class="o">.</span><span class="n">db_assignments</span> <span class="o">=</span> <span class="p">[</span><span class="nb">dict</span><span class="p">(</span><span class="n">name</span><span class="o">=</span><span class="s2">&quot;hw1&quot;</span><span class="p">)]</span>
+
+    <span class="c1"># Change the students in this list with that actual students in</span>
+    <span class="c1"># your course</span>
+    <span class="n">c</span><span class="o">.</span><span class="n">NbGrader</span><span class="o">.</span><span class="n">db_students</span> <span class="o">=</span> <span class="p">[</span>
+        <span class="nb">dict</span><span class="p">(</span><span class="nb">id</span><span class="o">=</span><span class="s2">&quot;pythontest&quot;</span><span class="p">,</span> <span class="n">first_name</span><span class="o">=</span><span class="s2">&quot;P&quot;</span><span class="p">,</span> <span class="n">last_name</span><span class="o">=</span><span class="s2">&quot;pythontest&quot;</span><span class="p">)</span>
+    <span class="p">]</span>
+
+    <span class="c1">#------------------------------------------------------------------------------</span>
+    <span class="c1"># FormgradeApp configuration</span>
+    <span class="c1">#------------------------------------------------------------------------------</span>
+
+    <span class="c1"># IP address for the server</span>
+    <span class="n">c</span><span class="o">.</span><span class="n">FormgradeApp</span><span class="o">.</span><span class="n">ip</span> <span class="o">=</span> <span class="s2">&quot;127.0.0.1&quot;</span>
+    <span class="c1"># Port for the server</span>
+    <span class="n">c</span><span class="o">.</span><span class="n">FormgradeApp</span><span class="o">.</span><span class="n">port</span> <span class="o">=</span> <span class="mi">5000</span>
+    <span class="c1"># Authenticator used in all formgrade requests.</span>
+    <span class="n">c</span><span class="o">.</span><span class="n">FormgradeApp</span><span class="o">.</span><span class="n">authenticator_class</span> <span class="o">=</span> <span class="s2">&quot;nbgrader.auth.hubauth.HubAuth&quot;</span>
+
+    <span class="c1"># from https://groups.google.com/forum/#!topic/jupyter/oTRM4XuRUew</span>
+    <span class="c1"># for running with https</span>
+    <span class="c1"># this line made it so the page was rendered nicely and actually connected</span>
+    <span class="c1"># to the class database properly (instead of the localhost)</span>
+    <span class="n">c</span><span class="o">.</span><span class="n">HubAuth</span><span class="o">.</span><span class="n">hub_base_url</span> <span class="o">=</span> <span class="s2">&quot;https://copano.tamu.edu:8000&quot;</span>
+    <span class="n">c</span><span class="o">.</span><span class="n">HubAuth</span><span class="o">.</span><span class="n">notebook_url_prefix</span> <span class="o">=</span> <span class="s2">&quot;course_name&quot;</span>
+    <span class="n">c</span><span class="o">.</span><span class="n">HubAuth</span><span class="o">.</span><span class="n">graders</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&quot;my_user_name&quot;</span><span class="p">]</span>
+    <span class="n">c</span><span class="o">.</span><span class="n">HubAuth</span><span class="o">.</span><span class="n">hubapi_token</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">environ</span><span class="p">[</span><span class="s1">&#39;JPY_API_TOKEN&#39;</span><span class="p">]</span>
+
+
+    <span class="c1"># The nbgrader exchange directory writable to everyone. MUST be preexisting.</span>
+    <span class="c1"># this is the default location for the exchange directory</span>
+    <span class="n">c</span><span class="o">.</span><span class="n">TransferApp</span><span class="o">.</span><span class="n">exchange_directory</span> <span class="o">=</span> <span class="s1">&#39;/srv/nbgrader/exchange&#39;</span>
+</pre></div>
+
+
+<p><br><br></p>
+<h2>getting the authorization token setup for using formgrader</h2>
+<p>This has ended up being rather kludgey and I am sure there is a better way, but we ended up needing to change users to <code>jupyter</code>, the user that owns our JupyterHub server, in order to generate the necessary authentication token so that the nbgrader formgrade command would work, but generate the token in my username as the one who is actually authenticated to grade within the system. More information can be found from research scientist <a href="http://pong.tamu.edu/~baum/jupyter.html#_the_quick_and_easy_way_to_start_and_use_nbgrader_and_formgrader">Steve Baum</a>. Here is what we do:
+<br><br></p>
+<div class="highlight"><pre><span></span>    <span class="nv">sudo</span> <span class="o">-</span><span class="nv">i</span> <span class="o">-</span><span class="nv">u</span> <span class="nv">jupyter</span>
+    [<span class="nv">password</span>]
+    <span class="nv">export</span> <span class="nv">JPY_API_TOKEN</span><span class="o">=</span>$<span class="ss">(</span><span class="o">/</span><span class="nv">usr</span><span class="o">/</span><span class="nv">local</span><span class="o">/</span><span class="nv">bin</span><span class="o">/</span><span class="nv">jupyterhub</span> <span class="nv">token</span> <span class="o">--</span><span class="nv">db</span><span class="o">=</span><span class="nv">sqlite</span>:<span class="o">////</span><span class="nv">etc</span><span class="o">/</span><span class="nv">jupyterhub</span><span class="o">/</span><span class="nv">jupyterhub</span>.<span class="nv">sqlite</span> <span class="o">-</span><span class="nv">f</span> <span class="o">/</span><span class="nv">etc</span><span class="o">/</span><span class="nv">jupyterhub</span><span class="o">/</span><span class="nv">jupyterhub_config</span>.<span class="nv">py</span> <span class="nv">my_user_name</span><span class="ss">)</span>
+    <span class="nv">env</span> <span class="o">|</span> <span class="nv">grep</span> <span class="nv">JPY</span>
+    <span class="nv">JPY_API_TOKEN</span><span class="o">=</span>[<span class="nv">token</span>]
+    <span class="k">exit</span>
+    # <span class="nv">Stick</span> <span class="nv">these</span> <span class="nv">into</span> <span class="nv">my</span> .<span class="nv">bash_profile</span>
+    <span class="nv">export</span> <span class="nv">CONFIGPROXY_AUTH_TOKEN</span><span class="o">=</span><span class="s1">&#39;</span><span class="s">[token goes here]’</span>
+    <span class="nv">export</span> <span class="nv">JPY_API_TOKEN</span><span class="o">=</span>[<span class="nv">other</span> <span class="nv">token</span> <span class="nv">from</span> <span class="nv">jupyterhub</span> <span class="nv">setup</span>]
+</pre></div>
+
+
+<p><br><br></p>
+<h2>A little more setup</h2>
+<p>Note that the default exchange server is located at:
+<br><br></p>
+<div class="highlight"><pre><span></span>    <span class="k">c</span><span class="p">.</span><span class="n">TransferApp</span><span class="p">.</span><span class="n">exchange_directory</span> <span class="o">=</span> <span class="s1">&#39;/srv/nbgrader/exchange&#39;</span>
+</pre></div>
+
+
+<p><br><br></p>
+<p>I made the directory and then made it read and writeable by everyone with:
+<br><br></p>
+<div class="highlight"><pre><span></span>    <span class="n">chmod</span> <span class="n">ugo</span><span class="o">+</span><span class="n">rw</span> <span class="o">/</span><span class="n">srv</span><span class="o">/</span><span class="n">nbgrader</span><span class="o">/</span><span class="n">exchange</span>
+</pre></div>
+
+
+<p><br><br>
+I installed the nbgrader extension, but did it separately for me and for the students so that I would get both the <code>Assignments</code> tab and the ability to choose <code>Create Assignment</code> in my notebooks, but the students will only gain the <code>Assignments</code> tab.
+<br><br>
+For me as grader and assignment-maker:
+<br><br></p>
+<div class="highlight"><pre><span></span>    <span class="n">nbgrader</span> <span class="n">extension</span> <span class="n">install</span> <span class="c1">--symlink --user</span>
+    <span class="n">nbgrader</span> <span class="n">extension</span> <span class="n">activate</span>
+</pre></div>
+
+
+<p><br><br>
+For students:
+<br><br></p>
+<div class="highlight"><pre><span></span>    <span class="n">nbgrader</span> <span class="n">extension</span> <span class="n">install</span> <span class="n">assignment_list</span> <span class="c1">--user</span>
+    <span class="n">nbgrader</span> <span class="n">extension</span> <span class="n">activate</span> <span class="n">assignment_list</span>
+</pre></div>
+
+
+<p><br><br>
+Now we want to actually do the assignments. Here is my summary of the steps, based on the <a href="https://nbgrader.readthedocs.io/en/stable/">nbgrader docs</a>.</p>
+<p><br><br></p>
+<h2>Instructor perspective</h2>
+<p>Start your course directory within your <code>notebooks</code> directory, or wherever is the landing pad for JupyterHub within your directory. I'll use <code>oncg669</code> as my course id and name.
+<br><br></p>
+<div class="highlight"><pre><span></span>    <span class="n">nbgrader</span> <span class="n">quickstart</span> <span class="n">ocng669</span>
+</pre></div>
+
+
+<p><br><br>
+This creates a directory with the basic stuff you need in it. All other nbgrader commands will need to happen inside this course directory.
+<br><br></p>
+<ol>
+<li>Make your homework assignment following the examples. The examples were plenty helpful for me to follow.
+<br><br></li>
+<li>Assign the homework, using the nice header that is included in the directory:
+<br><br>
+            nbgrader assign hw1 --IncludeHeaderFooter.header=source/header.ipynb
+<br><br></li>
+<li>Inspect the release folder (release/hw1) to make sure it looks right.
+<br><br></li>
+<li>Release the assignment to the students, so they can actually access it:
+<br><br>
+            nbgrader release hw1
+<br><br></li>
+<li>Make sure it has gone out ok:
+<br><br>
+            nbgrader list</li>
+</ol>
+<p><br><br></p>
+<h2>Student perspective</h2>
+<p>Once the assignment has been made available by the instructor "releasing it," the student can access it by signing into the server, clicking on the <code>Assignments</code> tab, and clicking on the blue button to <code>Fetch</code> the assignment. In this case, I have two classes appearing with an assignment to be fetched.
+<br><br>
+<img src="/blog/images/jupyterhub+nbgrader/Assignments_fetch.jpg" class="picFloat" width="100%">
+<br><br></p>
+<p>After they have fetched the assignment, it will appear under <code>Downloaded assignments</code>. There, they can click on the assignment name, which is a link, to see the notebooks inside, then click on each to open and work on them.
+<br><br></p>
+<ol>
+<li>they can run the cells;</li>
+<li>they delete the exception where it says to enter their code, and then enter their code;</li>
+<li>after entering their code, there will be cells with test statements to check their work. They can and should run these to make sure their code works, then fix it if it doesn't;</li>
+<li>After finishing a notebook, they can go back to the server page and click to validate that notebook, which runs all of the test cells and states if there are any errors. They can do this as many times as they want;</li>
+<li>The system will note when the assignment is submitted, so they need to turn it in on time.</li>
+</ol>
+<p><br><br>
+<img src="/blog/images/jupyterhub+nbgrader/Assignments_rest.jpg" class="picFloat" width="100%">
+<br><br></p>
+<p>Now the students can submit! They can do so however many times they want and just the last one will be used for grading;</p>
+<p><br><br></p>
+<h2>Instructor perspective</h2>
+<ol>
+<li>After students have submitted their assignments, the instructor can view what has been submitted with
+<br><br>
+               nbgrader list --inbound
+<br><br></li>
+<li>Collect all submitted assignments with the following — This will copy the student submissions to the submitted folder in a way that is automatically compatible with <code>nbgrader autograde</code>
+<br><br>
+               nbgrader collect hw1 --course ocng669
+<br><br></li>
+<li>Autograde. Note that after assignments have been autograded, they will saved into an autograded directory
+<br><br>
+               nbgrader autograde hw1
+<br><br></li>
+<li>Manual grading. To grade the assignments with an HTML form (assuming you got all the linking done properly), all we have to do is run the following and then see it at the link: <code>https://copano.tamu.edu:8000/hub/nbgrader/ocng669</code>. This is a really slick system for taking the pain out of any necessary manual grading. Some snapshots of what formgrade looks like in practice are shown below.
+<br><br>
+               nbgrader formgrade
+<br><br></li>
+<li>feedback: After assignments have been autograded and/or manually graded, they will located in the auto graded directory, and after feedback step: HTML versions of these notebooks will be saved to: feedback/{student_id}/{assignment_id}/{notebook_id}.html.
+<br><br>
+               nbgrader feedback hw1
+<br><br></li>
+<li>The feedback is accessible only by me at this point. There is not a built-in way to get the feedback to where the students can access it, but here is how I am doing it. I found a <a href="https://gist.github.com/jhamrick/2ad63d7226b64c0a95fa">script</a> that <a href="http://www.jesshamrick.com/">Jess Hamrick</a>, main author of nbgrader, wrote to copy the feedback over to a student’s directory. I have edited it because apparently the file structure in nbgrader changed since she wrote it. I run in from that directory with:
+<br><br>
+               sudo python3 return_feedback.py hw1
+<br><br>
+and for a particular student, <code>pythontest</code>:
+<br><br>
+               sudo python3 return_feedback.py hw1 --student pythontest
+<br><br>
+The <code>sudo</code> is necessary because the script copies the feedback file structure over to the student's directory.
+<br><br>
+<script src="https://gist.github.com/kthyng/00fd1cd1e74730252fecb8a41bf0c4cc.js"></script></li>
+</ol>
+<p><br><br></p>
+<h3>Gallery for <code>formgrade</code></h3>
+<p><strong>formgrade Assignments</strong>
+<br>
+<img src="/blog/images/jupyterhub+nbgrader/formgrade_assignments.jpg" class="picFloat" width="100%">
+<br><br><br></p>
+<p><strong>formgrade Assignments &gt; hw1</strong>
+<br>
+<img src="/blog/images/jupyterhub+nbgrader/formgrade_assignments_hw1.jpg" class="picFloat" width="100%">
+<br><br><br></p>
+<p><strong>formgrade Assignments &gt; hw1 &gt; partB</strong>
+<br>
+<img src="/blog/images/jupyterhub+nbgrader/formgrade_assignments_hw1_partb.jpg" class="picFloat" width="100%">
+<br><br><br></p>
+<p><strong>formgrade Students</strong>
+<br>
+<img src="/blog/images/jupyterhub+nbgrader/formgrade_students.jpg" class="picFloat" width="100%">
+<br><br><br></p>
+<p><strong>formgrade notebook view</strong>
+<br>
+Includes a <code>next</code> button to move quickly between student notebooks!
+<br>
+<img src="/blog/images/jupyterhub+nbgrader/formgrade_notebookview.jpg" class="picFloat" width="100%">
+<br><br><br></p>
+<p><br><br></p>
+<h2>Student perspective</h2>
+<p>The feedback files will now show up in their base directory in jupyterhub, <code>notebooks</code>, under a folder called <code>feedback</code>, in a labeled homework directory. When clicked on, the files will show up as editable html in the jupyterhub server, but you can slightly edit the address to see them nicely rendered. So you have to change the url from
+<br><br>
+        https://copano.tamu.edu:8000/user/pythontest/edit/feedback/hw1/partA.html
+<br><br>
+to
+<br><br>
+        https://copano.tamu.edu:8000/user/pythontest/files/feedback/hw1/partA.html
+<br><br>
+for example.</p>
+<p><br><br>
+<strong>feedback, unrendered</strong>
+<br>
+<img src="/blog/images/jupyterhub+nbgrader/feedback_unrendered.jpg" class="picFloat" width="100%">
+<br><br></p>
+<p><strong>feedback, rendered</strong>
+<br>
+Note that the top of the feedback is a summary of the student's homework, complete with links to the relevant parts of the notebooks. Very cool!
+<br>
+<img src="/blog/images/jupyterhub+nbgrader/feedback_rendered.jpg" class="picFloat" width="100%"></p>
+            </article>
+            <br><br>
+
+
+<br>
+
+<footer>
+    <div id="footer">
+        <nav>
+            <br>
+            <a href="http://www.kristenthyng.com/blog/index.html">Blog Home</a>&nbsp;&nbsp;
+            <a href="http://www.kristenthyng.com/blog/archives.html">Archive</a>
+            <ul>
+<!--              -->
+<!--                             <li>:: <a href="http://www.kristenthyng.com/blog/tags.html">Tags</a></li>
+ -->
+            </ul>
+        </nav>
+    </div>
+</footer></div>
+
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-43225108-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+</body>
+</html>

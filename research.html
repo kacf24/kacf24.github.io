@@ -1,0 +1,260 @@
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43225108-1', 'kristenthyng.com');
+  ga('send', 'pageview');
+
+</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by Free Flash Templates
+http://www.flash-templates-today.com
+Released for free under a Creative Commons Attribution 3.0 License
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Kristen M. Thyng, Ph.D.</title>
+<link href="http://fonts.googleapis.com/css?family=Abel|Arvo" rel="stylesheet" type="text/css" />
+<link href="styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<!-- begin #container -->
+<div id="container">
+    <!-- begin #header -->
+    <div id="header">
+        <h1><a href="./index.html">Kristen M. Thyng<span>Ph.D. </span></a></h1>
+        <div class="submenu">
+            <ul>
+                <li><a href="./research.html">Research</a></li>
+                <li><a href="./publications.html">Publications</a></li>
+                <li><a href="./presentations.html">Presentations</a></li>
+                <li><a href="./people.html">People</a></li>
+                <li><a href="./teaching.html">Teaching</a></li>
+                <li><a href="./gallery.html">Gallery</a></li>
+                <li><a href="./media.html">Media</a></li><br>
+                <li><a href="./blog/index.html">Blog</a></li>
+                <li><a href="./cv.pdf">CV</a></li>
+            </ul>
+        </div>
+        <div class="clearfloat"></div>
+<!--         <div id="navcontainer">
+            <ul id="navlist">
+                <li id="active"><a href="#">Home</a></li>
+                <li><a href="research.html">Research</a></li>
+                <li><a href="publications.html">Publications</a></li>
+                <li><a href="teaching.html">Teaching</a></li>
+                <li><a href=""></a></li>
+            </ul>
+        </div> -->
+        <div class="clearfloat"></div>
+        <div><img src="images/header.jpg" alt="" width=100% /></div>
+    </div>
+    <!-- end #header -->
+    <!-- begin #contentBody -->
+    <div id="contentBody">
+        <div class="maincontent">
+            <h2>Research</h2>
+            <p>
+                <!-- Summary of what I do for research -->
+                I work on a variety of projects related to coastal physics and renewable energy resources together with computational mathematics and numerical modeling. The connection between projects is that I use data science methods in my work to answer scientific questions. I have been using the Regional Ocean Modeling System <a href="http://www.myroms.org"> ROMS</a>, among other codes, for several years now to do ocean modeling.<br><br>
+
+                I am currently an Assistant Research Professor at Texas A&M in the <a href="http://ocean.tamu.edu">Department of Oceanography</a>. <br><br>
+
+                I completed my PhD at the University of Washington in Mechanical Engineering with <a href="http://an.me.washington.edu/stage.new/research/faculty/rileyj/index.php">Jim Riley</a> as my advisor. This work was completed as part of the Northwest National Marine Renewable Energy Center <a href="http://depts.washington.edu/nnmrec/about.html">(NNMREC)</a> at the University of Washington, funded by the Department of Energy, in which UW has a focus on tidal hydrokinetic energy.<br></br>
+
+                I am interested in topics related to open science and reproducibility, and am involved in the Scientific Python community. I'm an editor at the <a href="https://joss.theoj.org/">Journal for Open Source Software (JOSS)</a>. Much of my work is available online through my <a href="https://github.com/kthyng">github page</a>. Also check out <a href="http://matplotlib.org/cmocean">beautiful colormaps</a> to use in oceanography.
+
+           </p>
+        </div>
+        <div class="maincontent">
+            <a name="harvey"/><h3>Hurricane Harvey impacts</h3></a>
+            <p>
+                <img src="https://user-images.githubusercontent.com/3487237/45122834-a3d22080-b12a-11e8-97a9-fa8cc153bbfe.png" class="picFloat" width="40%">
+                We have collected field data in and around Galveston Bay and run analysis associated with the massive rainfall from Hurricane Harvey, particularly with funds from an NSF RAPID project.
+                <br><br>
+            </p>
+        </div>
+
+        <div class="maincontent">
+            <a name="csomio"/><h3>Modeling Oil from the Deepwater Horizon spill</h3></a>
+            <p>
+                <img src="https://csomio.org/images/CSOMIO-logo-wide-trans.png" class="picFloat" width="40%">
+                In this GOMRI-funded consortium, we are tracking oil spilled from the Deepwater Horizon source as it is impacted by currents, microbes, weathering, and interactions with sediment.
+                <br><br>
+                Find out more at the project <a href="https://csomio.org/">website</a>.
+                <br><br>
+            </p>
+        </div>
+
+        <div class="maincontent">
+            <a name="tracpy"/><h3>Particle Tracking</h3></a>
+            <p>
+                <img src="http://pong.tamu.edu/~kthyng/movies/txla_drifters/2008-07-18T00.png" class="picFloat" width="40%">
+                As part of the <a href="http://gisr.tamu.edu">Gulf Integrated Spill Research (GISR)</a> consortium, we have wrapped the particle tracking code <a href="http://tracmass.org">TRACMASS</a> in Python to make it easy to utilize with our model output, and by other researchers. We call this wrapped code system <a href="https://github.com/kthyng/tracpy">TracPy</a>.<br><br>
+
+                TRACMASS steps drifters forward natively on a staggered and structured numerical grid. Because the algorithm conserves mass, the drifters can be used to represent the transport of water parcels or other materials.<br><br>
+
+                Animations of different drifter simulations are available: <a href="http://kristenthyng.com/gallery/txla_drifters.html">uniformly-spaced drifters</a> and <a href="http://kristenthyng.com/txla_river_drifters.html">river-input drifters</a>.<br><br>
+
+                TracPy version 1.0 has been released with a DOI. <a href="https://zenodo.org/record/10433#.U6SWWBYxmd8"><img src="https://zenodo.org/badge/4563/kthyng/tracpy.png" class="picFloat"></a> <br><br>
+            </p>
+        </div>
+        <div class="maincontent">
+            <a name="connectivity"/><h3>Shelf Transport</h3></a>
+            <p>
+                <img src="images/seasonal100.png" class="picFloat" width="40%">
+                What material can reach the Texas-Louisiana shelf from off-shore to potentially impact the coastline, or from near-shore to exit toward the deep Gulf of Mexico, is controlled by whether it can cross the shelf. Therefore, understanding more about the processes that control this crossing and connectivity between areas can tell us about the areas of largest potential impact from an oil spill, for example. <br><br>
+
+                Using drifter tracks run in TracPy, we are examining this connectivity in space as well as in time to understand the areas of large and small cross-shelf transport and how they change seasonally and inter-annually.
+            </p>
+        </div>
+        <div class="maincontent">
+            <a name="statistics"/><h3>Shelf Dispersion Statistics</h3></a>
+            <p>
+                <img src="images/dispersion-summer.png" class="picFloat" width="40%">
+                By combining the information together from many numerical drifter tracks, we can understand a system from a perspective that is oriented toward transport specifically. Metrics run on these drifters, such as absolute and relative dispersion and the finite scale Lyapunov exponent, can help us infer many attributes of the flow fields that can be difficult to assess otherwise, such as the nature of the turbulence.
+            </p>
+        </div>
+        <div class="maincontent">
+            <a name="HAB"><h3>Harmful Algal Bloom Modeling</h3></a>
+            <p>
+                <img src="images/hab.png" class="picFloat" width="40%">
+                Harmful algal blooms (specifically red tides, in this research) occur periodically in the fall in Texas waters and can cause respiratory problems in fishermen and boaters and shut down recreation and shellfish harvesting in the affected areas. Biological effects alone do not adequately explain the rapidity with which harmful algal bloom events can occur. However, some recent research indicates that the circulation of the northern Gulf of Mexico can help to explain the occurrences.
+                <br><br>
+                Recent work with <a href="http://pong.tamu.edu/~rob/">Rob Hetland</a>, in collaboration with <a href="http://ocean.tamu.edu/lcampbell/campbell/index.html">Lisa Campbell</a>, is focused on better understanding the source of harmful algal blooms off the Texas coastline using a <a href="http://pong.tamu.edu/%7Ezhangxq/tglo1.html">numerical model of the Texas and Louisiana shelf waters</a>.
+                <br><br>
+                Thyng, K. M., Hetland, R. D., Ogle, M. T., Zhang, X., Chen, F., &amp; Campbell, L. (2013). Origins of <i>Karenia brevis</i> harmful algal blooms along the Texas coast. Limnology &amp; Oceanography: Fluids &amp; Environments}, 3, 269-278. DOI: 10.1215/21573689-2417719. <a href="http://lofe.dukejournals.org/content/3/269.full">link</a>
+            </p>
+        </div>
+        <div class="maincontent">
+            <a name="txla"/><h3>Texas-Louisiana Shelf Modeling</h3></a>
+            <p>
+                <img src="images/2008-06-24T00.png" class="picFloat" width="40%">
+                Lagrangian tracking work is being done in the northwestern Gulf of Mexico using output from a numerical model of the Texas-Louisiana shelf. The model is run using ROMS. More information is available on my <a href="http://pong.tamu.edu">group website</a>. Movies of many oceanographic fields from the model are <a href="http://kristenthyng.com/gallery.html">available</a>.
+                <br><br>
+            </p>
+        </div>
+        <div class="maincontent">
+            <a name="coastal"/><h3>Coastal Connectivity</h3></a>
+            <p>
+                <img src="images/seasonal-portaransas.png" class="picFloat" width="40%">
+
+                Numerical drifters are being used to study potential spill impacts to the coastline. We can find the regions along the coastline that are most vulnerable to material transport from the shelf. Additionally, for a given region like Port Aransas, we can use this method to study where material can originate and hit the particular coastline area, which area along the coast is most likely to be hit, and how this changes at different times of the year under the seasonal patterns of the major forcing mechanisms in the area, the wind and river plume.
+
+            </p>
+        </div>
+<!--         <div class="maincontent">
+            <a name="drifters"/><h3>Drifter Monitoring</h3></a>
+            <p>
+                <img src="http://pong.tamu.edu/~kthyng/drifters/drifters.png" class="picFloat" width="40%">
+
+                We are helping to monitor drifters in the Gulf of Mexico from Chinese researchers, particularly Dongliang Yuan at the Chinese Acadamy of Sciences, Institute of Oceanology in Qingdao. <br><br>
+
+                The drifter locations are updated on the plot once a day. This data will be used in the future to compare with numerical model output. A larger version of this image is <a href="http://pong.tamu.edu/~kthyng/drifters/drifters.png">available</a>
+
+            </p>
+        </div>
+ -->        <div class="maincontent">
+            <a name="vorticity"/><h3>Headland-Generated Tidal Vorticity</h3></a>
+            <p>
+                <img src="images/vort447.png" class="picFloat" width="40%">
+                Tidal headland-generation vortices are strong, consistent features in the flow through Admiralty Inlet, the main entrance channel to the Puget Sound. In particular, eddies dominate the flow field near Admiralty Head, a large headland in the Inlet, and affect transport, turbulence, and currents in the area. The vorticity generated at the headland has complex dynamics, as it interacts with eddies generated on previous tides, is tilted between horizontal and vertical directions, is stretched and contracts, and is generated at the bathymetry and coastline.<br><br>
+                <!-- Thyng, K. M., J. J. Riley, M. Kawase, "Vorticity Dynamics in an Energetic Estuary Using a Simulation in ROMS" (in preparation). -->
+            </p>
+        </div>
+        <div class="maincontent">
+            <a name="turbulence"/><h3>Turbulence Modeling</h3></a>
+            <p>
+                <img src="images/nodule_point1_hhinf.png" class="picFloat" width="40%">
+                The Regional Ocean Modeling System (ROMS) is a Reynolds-Averaged Navier-Stokes ocean model and uses a two-equation turbulence closure scheme for subgrid-scale parameterization. While it is commonly used for modeling regions around the world, the turbulence fields have not often been compared directly with field data. In this work with <a href="http://an.me.washington.edu/stage.new/research/faculty/rileyj/index.php">Jim Riley</a>, in collaboration with <a href="http://www.apl.washington.edu/people/profile.php?last=Thomson&first=Jim">Jim Thomson</a>, Reynolds stress, turbulent kinetic energy, and turbulent dissipation rate as predicted by a numerical model of Admiralty Inlet in the Puget Sound are compared with field data.
+                <br><br>
+                Thyng, K. M., Riley, J. J., &amp; Thomson, J. (2013). Inference of turbulence parameters from a ROMS simulation using the k-&#949; closure scheme. Ocean Modelling, 72(C), 104--118. doi:10.1016/j.ocemod.2013.08.008. <a href="http://pong.tamu.edu/~kthyng/papers/turb.pdf">pre-print</a> <a href="http://www.sciencedirect.com/science/article/pii/S1463500313001613">link</a>
+            </p>
+        </div>
+        <div class="maincontent">
+            <a name="tidal"/><h3>Tidal Hydrokinetic Energy</h3></a>
+            <p>
+                <img src="images/mkpdh10adjusted.png" class="picFloat" width="40%">
+                The existing physical environment in an area of interest for tidal hydrokinetic energy must be understood and evaluated to estimate the magnitude and timing of power that may be extractable, as well as associated issues that may affect how easily extractable that power may be. In order to begin addressing questions like these in Admiralty Inlet, Puget Sound, a numerical model was run and output was analyzed to calculate various metrics representing pertinent tidal energy extraction issues.
+                <br><br>
+                Thyng, K. M., &amp; Riley, J. J. (2010, September). Idealized headland simulation for tidal hydrokinetic turbine siting metrics. In OCEANS 2010 (pp. 1-6). IEEE.
+            </p>
+        </div>
+        <div class="maincontent">
+            <a name="turbine"/><h3>Turbine Modeling in Realistic Flows</h3></a>
+            <p>
+<!--                 <img src="images/headland_initial_mkpdhubheightzmid.png" class="picFloat" width="80%">
+                <img src="images/location1_reg_layout_mkpdhubheightzmid.png" class="picFloat" width="80%">
+                <img src="images/headland_initial_mkpdhubheightzin.png" class="picFloat" width="80%"> -->
+                <img src="images/mat49.png" class="picFloat" width="40%">
+                Tidal hydrokinetic energy has the potential to provide cities near strong tidal currents with clean, sustainable, renewable energy. However, the interplay between turbines in the flow and the flow itself are not well understood. Before placing arrays of turbines in the water, models should be run to help anticipate the effects of the devices. In a collaboration with Thomas Roc, formerly at University of Plymouth and currently at ITP Offshore Consulting, a turbine model in ROMS is implemented in an idealized but realistic simulation. Animations of these simulations are <a href="gallery/turbines_roms.html">available</a>.
+                <br><br>
+                Roc, T., Greaves, D., Thyng, K. M., &amp; Conley, D. (2013). Tidal turbine representation in an ocean circulation model: Towards realistic applications. Ocean Engineering (accepted).
+                <br><br>
+                Thyng, K. M. &amp; Roc, T. (2013). Tidal current turbine power capture and impact in an idealised channel simulation. Proceedings European Wave and Tidal Energy Conference. Aalborg, Denmark.
+                <br><br>
+                Roc, T., Thyng, K. M., &amp; Conley, D. (2011). Applying a numerical decision-making tool for tidal current turbine (TCT) planning projects to the Puget Sound estuary - Early Results. Proceedings European Wave and Tidal Energy Conference. Southampton, UK.
+            </p>
+        </div>
+        <div class="maincontent">
+            <a name="admiralty"><h3>Admiralty Inlet and the Puget Sound</h3></a>
+            <p>
+                <img src="images/rho278.png" class="picFloat" width = "40%" alt="" />
+
+                The Puget Sound is a fjord-like estuary in western Washington near several large cities including Seattle. It is a complex area with many demands on it, ecologically and from the metropolitan areas, and issues including hypoxic waters are regular concerns. Simulations have been run of the Puget Sound (using <a href="http://suntans.stanford.edu">SUNTANS</a>), and of Admiralty Inlet, the main entrance channel to the Puget Sound (using <a href="http://www.myroms.org"> ROMS</a>).<br><br>
+
+<!--                 The simulation in Admiralty Inlet was used to further understanding of some of the complex dynamics in the channel. An in-depth analysis of the terms in the governing equation for vorticity was done to understand the dominant mechanisms. The validity of the turbulence modeling was assessed by comparing the turbulence parameters output by the simulation with field data. Simulation results were also used to calculate metrics for tidal turbine siting. <br></br>
+ -->
+                This high resolution model of Admiralty Inlet was one-way nested in a large regional model of the NE Pacific Ocean and Salish Sea, a modeling effort called <a href="http://faculty.washington.edu/pmacc/MoSSea/index.html">MoSSea</a> in <a href="http://faculty.washington.edu/pmacc/cmg/cmg.html">Parker MacCready's group</a> in the <a href="http://www.ocean.washington.edu/">School of Oceanography</a> at UW. Many interesting features have been noted and studied that are present in Admiralty Inlet, including strong headland-generated vortices, high levels of turbulence, strong horizontal density gradients established by the tidal flows and leading to fronts, and complicated flow fields.
+
+                <br><br>
+
+                Animations of the Admiralty Inlet simulation can be found <a href="gallery/admiralty.html">here</a>.
+
+                <br><br>
+                Thyng, K. M., Riley, J. J., &amp; Thomson, J. (2013). Inference of turbulence parameters from a ROMS simulation using the k-&#949; closure scheme. Ocean Modelling, 72(C), 104--118. doi:10.1016/j.ocemod.2013.08.008.<br><br>
+
+                Thyng, K. M. (2012). Numerical Simulation of Admiralty Inlet, WA, with Tidal Hydrokinetic Turbine Siting Application (Doctoral dissertation).<br><br>
+
+                Kawase, M., &amp; Thyng, K. M. (2010). Three-dimensional hydrodynamic modelling of inland marine waters of Washington State, United States, for tidal resource and environmental impact assessment. Renewable Power Generation, IET, 4(6), 568-578. doi:10.1049/iet-rpg.2009.0195.
+            </p>
+        </div>
+        <div class="links">
+            <h3>Projects</h3>
+            <ul>
+                <li><a href="#csomio">Oil spill tracking</a></li>
+                <li><a href="#harvey">Hurricane Harvey analysis</a></li>
+                <li><a href="#tracpy">Particle Tracking</a></li>
+                <li><a href="#connectivity">Shelf Connectivity</a></li>
+                <li><a href="#statistics">Shelf Dispersion Statistics</a></li>
+                <li><a href="#HAB">Harmful Algal Bloom Modeling</a></li>
+                <li><a href="#txla">TX-LA Shelf Modeling</a></li>
+                <li><a href="#coastal">Drifter Monitoring</a></li>
+                <li><a href="#vorticity">Headland-Generated Tidal Vorticity</a></li>
+                <li><a href="#turbulence">Turbulence Modeling</a></li>
+                <li><a href="#tidal">Tidal Hydrokinetic Energy</a></li>
+                <li><a href="#turbine">Turbine Modeling in Realistic Flows</a></li>
+                <li><a href="#admiralty">Admiralty Inlet and the Puget Sound</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- end #contentBody -->
+    <br class="clearfloat" />
+    <!-- begin #footer -->
+    <div id="footer">
+        <p>
+            Copyright &copy; Kristen Thyng. All rights reserved. <!-- | Site Template: <a href="http://www.freewebtemplates.com/">Free Web Templates</a> -->
+        </p>
+    </div>
+    <!-- end #footer -->
+</div>
+<!-- end #container -->
+</body>
+</html>
