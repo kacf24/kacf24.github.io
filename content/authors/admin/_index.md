@@ -70,15 +70,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Diving
         description: ''
         percent: 60
         icon: mask-snorkel
         icon_pack: fas
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
+        icon: Dog
         icon_pack: fas
       - name: Reading
         description: ''
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a PhD student at the University of Texas' Marine Science Institute. His research interests include marine botany, climate change biology, carbon sequestration, marine phyiology, and long-term monitoring projects. He is currently a member of the Dunton Lab and works with the Texas Seagrass Monitoring Program.
+Kyle Capistrant-Fossa is a PhD student at the University of Texas' Marine Science Institute. His research interests include marine botany, climate change biology, carbon sequestration, marine phyiology, and long-term monitoring projects. He is currently a member of the Dunton Lab and works with the Texas Seagrass Monitoring Program.
 {style="text-align: justify;"}
