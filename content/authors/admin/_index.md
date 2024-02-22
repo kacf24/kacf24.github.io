@@ -73,12 +73,12 @@ skills:
       - name: Diving
         description: ''
         percent: 60
-        icon: mask-snorkel
+        icon: fish
         icon_pack: fas
       - name: Dogs
         description: ''
         percent: 100
-        icon: Dog
+        icon: dog
         icon_pack: fas
       - name: Reading
         description: ''
@@ -93,7 +93,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:kyle.capistrantfossa@utexas.edu'
   - icon: twitter
     icon_pack: fab
     link: https://x.com/SeaweedSeagrass
@@ -106,9 +106,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/kacf24
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
