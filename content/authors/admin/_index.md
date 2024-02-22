@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Seaweed Seagrass
+title: Kyle Capistrant-Fossa
 
 # Name pronunciation (optional)
 #name_pronunciation: 
