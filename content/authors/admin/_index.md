@@ -1,70 +1,70 @@
 ---
 # Display name
-title: 吳健雄
+title: Seaweed Seagrass
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Kyle
+last_name: Capistrant-Fossa
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Marine Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Texas
+    url: https://utmsi.utexas.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests marine botany, physiology, and blue carbon.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Marine Botany
+  - Ecology
+  - Data Science
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Marine Science
+      institution: The University of Texas at Austin
+      year: 2025 (Expected)
+    - course: MS in Marine Biology
+      institution: The University of Maine
+      year: 2019
+    - course: BS in Marine Sciences
+      institution: The University of Maine
+      year: 2017
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Field Work
         description: ''
         percent: 80
-        icon: python
-        icon_pack: fab
+        icon: ship
+        icon_pack: fas
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Lab Work
         description: ''
         percent: 40
-        icon: database
+        icon: flask-vial
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -73,17 +73,17 @@ skills:
       - name: Hiking
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: mask-snorkel
         icon_pack: fas
       - name: Cats
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Reading
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: book
         icon_pack: fas
 
 # Social/Academic Networking
@@ -96,16 +96,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://x.com/SeaweedSeagrass
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=jvZnXtgAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/kacf24
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -114,11 +114,11 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chien Shiung Wu is a PhD student at the University of Texas' Marine Science Institute. His research interests include marine botany, climate change biology, carbon sequestration, marine phyiology, and long-term monitoring projects. He is currently a member of the Dunton Lab and works with the Texas Seagrass Monitoring Program.
 {style="text-align: justify;"}
