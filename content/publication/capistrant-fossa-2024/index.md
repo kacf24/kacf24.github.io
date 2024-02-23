@@ -8,6 +8,7 @@ publishDate: '2024-02-22T21:29:15.553549Z'
 publication_types:
 - article-journal
 publication: '*Communications Earth & Environment*'
+featured: true
 doi: 10.1038/s43247-024-01236-7
 abstract: As global declines in seagrass populations continue to cause great concern,
   long-term assessment of seagrass meadows show promise in furnishing valuable clues
