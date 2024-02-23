@@ -1,41 +1,38 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Macroalgal Microbiomes Across Space and Time
+summary: I have led the analysis of microbial communities associated with Porphyra umbilicalis and Fucus vesiculosus from Schoodic Point, Maine and across the North Atlantic. 
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Phycology
+  - Fucus
+  - Microbiome
+  - Porphyra
+date: '24-02-23T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Intertidal zone at Schoodic Point, Maine.
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+#links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/SeaweedSeagrass
+#url_code: ''
+#url_pdf: ''
+#url_slides: ''
+#url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+The intertidal zone often has varying levels of environmental stresses (desiccation, temperature, light) that result in highly stress-tolerant macrobiota occupying the upper zone while less tolerant species occupy the lower zone, but little comparative information is available for intertidal bacteria. Here we describe natural (unmanipulated) bacterial communities of three Fucus congeners (F. spiralis, high zone; F. vesiculosus, mid zone; F. distichus, low zone) as well as those of F. vesiculosus transplanted to the high zone (Dry and Watered treatments) and to the mid zone (Procedural Control) during summer in Maine (United States). We predicted that bacterial communities would be different among the differently zoned natural congeners, and that higher levels of desiccation stress in the high zone would cause bacterial communities of Dry transplants to become similar to F. spiralis, whereas relieving desiccation stress on Watered transplants would maintain the mid-zone F. vesiculosus bacterial community. Bacteria were identified as amplicon sequence variants (ASVs) after sequencing the V4 hypervariable region of the 16S rRNA gene. Microbiome composition and structure were significantly different between the differently zoned congeners at each tissue type (holdfasts, receptacles, vegetative tips). ASVs significantly associated with the mid-zone congener were frequently also present on the high-zone or low-zone congener, whereas overlap in ASVs between the high-zone and low-zone congeners was rare. Only 7 of 6,320 total ASVs were shared among tissues over all congeners and transplant treatments. Holdfast bacterial community composition of Dry transplants was not significantly different from that of F. spiralis, but Watered holdfast communities were significantly different from those of F. spiralis and not significantly different from those of procedural controls. Additional stressor(s) appeared important, because bacterial communities of Dry and Watered transplants were only marginally different from each other (p = 0.059). The relative abundance of Rhodobacteraceae associated with holdfasts generally correlated with environmental stress with highest abundance associated with F. spiralis and the two high-zone transplant treatments. These findings suggest that the abiotic stressors that shape distributional patterns of host species also affect their bacterial communities.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Latitudinal diversity gradients have provided many insights into species differentiation and community processes. In the well-studied intertidal zone, however, little is known about latitudinal diversity in microbiomes associated with habitat-forming hosts. We investigated microbiomes of Fucus vesiculosus because of deep understanding of this model system and its latitudinally large, cross-Atlantic range. Given multiple effects of photoperiod, we predicted that cross-Atlantic microbiomes of the Fucus microbiome would be similar at similar latitudes and correlate with environmental factors. We found that community structure and individual amplicon sequencing variants (ASVs) showed distinctive latitudinal distributions, but alpha diversity did not. Latitudinal differentiation was mostly driven by ASVs that were more abundant in cold temperate to subarctic (e.g., Granulosicoccus_t3260, Burkholderia/Caballeronia/Paraburkholderia_t8371) or warm temperate (Pleurocapsa_t10392) latitudes. Their latitudinal distributions correlated with different humidity, tidal heights, and air/sea temperatures, but rarely with irradiance or photoperiod. Many ASVs in potentially symbiotic genera displayed novel phylogenetic biodiversity with differential distributions among tissues and regions, including closely related ASVs with differing north-south distributions that correlated with Fucus phylogeography. An apparent southern range contraction of F. vesiculosus in the NW Atlantic on the North Carolina coast mimics that recently observed in the NE Atlantic. We suggest cross-Atlantic microbial structure of F. vesiculosus is related to a combination of past (glacial-cycle) and contemporary environmental drivers.

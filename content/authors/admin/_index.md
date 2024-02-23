@@ -25,7 +25,7 @@ organizations:
     url: https://utmsi.utexas.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests marine botany, physiology, and blue carbon.
+bio: My research interests are marine botany, physiology, and blue carbon.
 
 # Interests to show in About widget
 interests:
@@ -49,7 +49,7 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Skills
     items:
       - name: Field Work
         description: ''
