@@ -2,7 +2,7 @@
 title: Seagrass Monitoring
 summary: I am one of the coordinators for the Texas Seagrass Monitoring Program. I have synthesized long-term monitoring records for the Upper Laguna Madre and found sea level rise has caused a sharp decline in seagrass coverage.
 tags:
-  - Deep Learning
+  - Seagrass
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

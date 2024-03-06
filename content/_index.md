@@ -106,13 +106,13 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
+  - block: portfolio
+    id: projects2
     content:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - event
+          - media
     design:
       columns: '2'
       view: compact
