@@ -106,12 +106,17 @@ sections:
     design:
       columns: '2'
       view: citation
+<<<<<<< HEAD
   - block: portfolio
+=======
+  - block: collection
+    id: talks
+>>>>>>> parent of a26139d (update)
     content:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - media
+          - event
     design:
       columns: '2'
       view: compact

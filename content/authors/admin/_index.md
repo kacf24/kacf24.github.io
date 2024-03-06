@@ -32,7 +32,6 @@ interests:
   - Marine Botany
   - Ecology
   - Data Science
-  - Ecophysiology
 
 # Education to show in About widget
 education:
