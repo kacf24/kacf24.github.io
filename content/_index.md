@@ -107,7 +107,7 @@ sections:
       columns: '2'
       view: citation
   - block: portfolio
-    id: projects2
+    id: projects
     content:
       title: Recent & Upcoming Talks
       filters:
