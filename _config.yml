@@ -1,6 +1,6 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
+title: Kyle Capistrant-Fossa
+email: kyle.capistrantfossa@utexas.edu
 description: Academic webpage of Dr. Richard Feynman
 baseurl: ""
 url: ""
@@ -12,14 +12,14 @@ url: ""
 
 # Footer info
 affiliation: >
-  Richard Feynman<br/>
-  Professor of Physics<br/>
-  California Institute of Technology
+  Kyle A Capistrant-Fossa<br/>
+  PhD Candidate<br/>
+  The University of Texas at Austin
 
 location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
+  The University of Texas at Austin Marine Science Institute<br/>
+  750 Channelview Drive<br/>
+  Port Aransas, TX 78373
 
 contact: >
   <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
@@ -31,10 +31,10 @@ nav_pages:
   - name: publications
   - name: talks
   - name: research
-  - name: software
-  - name: team
+  - name: data
   - name: teaching
-  - name: blogs
+  - name: media coverage
+
 
 include:
   - .htaccess
@@ -62,8 +62,8 @@ kramdown:
 plugins: ["jekyll/scholar"]
 
 scholar:
-  last_name: Doe
-  first_name: [John]
+  last_name: Capistrant-Fossa
+  first_name: [Kyle]
 
   style: citesty
   locale: en
