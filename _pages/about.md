@@ -46,6 +46,22 @@ permalink: /about/
 </div>
 {% endif %}
 
+{% if site.data.fellowships %}
+
+<div class="jumbotron">
+  <h3>Fellowships</h3>
+  <ul>
+    {% for fellowship in site.data.fellowships %}
+      <li>{{ award.fellowship | replace: "-","&#8211;" }}</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+
+
+
+
 {% if site.data.awards %}
 
 <div class="jumbotron">
