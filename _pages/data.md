@@ -23,7 +23,7 @@ permalink: /data/
 </style>
 
 <div class="jumbotron">
-### Invited talks
+### Datasets
 {% bibliography --query @misc[keywords ^= dataset] %}
 </div>
 
