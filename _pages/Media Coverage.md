@@ -8,6 +8,7 @@ permalink: /Media Coverage/
 ## Media Coverage
 
 <div class="jumbotron">
+<img src="{{ site.url }}{{ site.baseurl }}/images/media.jpg" width="100%"/><br/>
 * UT marine scientists find rising sea levels linked to loss of valuable seagrass habitats in Texas [The Daily Texan](https://thedailytexan.com/2024/03/20/ut-marine-scientists-find-rising-sea-levels-linked-to-loss-of-valuable-seagrass-habitats-in-texas)
 
 * Seagrasses are drowning with no place to go [AAAS](https://www.science.org/content/article/scienceadviser-seagrasses-are-drowning-no-place-go)
