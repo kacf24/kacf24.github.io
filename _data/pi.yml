@@ -1,17 +1,17 @@
-- name: Dr. Richard Feynman
+- name: Kyle A. Capistrant-Fossa
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  info: PhD Candidate, The University of Texas at Austin
+  email: kyle.capistrantfossa@utexas.edu
+  github: https://github.com/kacf24
+  researchgate: https://www.researchgate.net/profile/Kyle-Capistrant-Fossa
+  scholar: https://scholar.google.com/citations?user=jvZnXtgAAAAJ&hl
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(2019) M.S. Marine Biology, The University of Maine",
+      "(2017) B.S. Marine Sciences, The University of Maine",
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["(2019) M.S. Marine Biology, UMaine", "(2017) B.S. Marine Sciences, UMaine"]
