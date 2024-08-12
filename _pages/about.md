@@ -52,7 +52,7 @@ permalink: /about/
   <h3>Fellowships</h3>
   <ul>
     {% for fellowship in site.data.fellowships %}
-      <li>{{ award.fellowship | replace: "-","&#8211;" }}</li>
+      <li>{{ fellowship.name | replace: "-","&#8211;" }}</li>
     {% endfor %}
   </ul>
 </div>
