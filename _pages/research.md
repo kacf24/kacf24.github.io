@@ -7,11 +7,14 @@ permalink: /research/
 
 <style>
 img{
-  border-radius: 10px;
+  border-radius: 1px;
+}
+.col-sm-4{
+  margin-top:70px;
 }
 .col-md-3 {
-  margin-top:10px;
-  margin-bottom:10px;
+  margin-top:5px;
+  margin-bottom:5px;
   padding:0px;
   display:block;
   overflow:hidden;
@@ -31,11 +34,19 @@ iframe {
 </style>
 
 ## Research
-
+{% for topic in site.data.research %}
 <div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4>Example Research</h4>
+<div class="row">
+<div class="col-sm-4">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ topic.image }}" width="110%" style="max-width:250px"/>
+</div>
+<div class="col-sm-8 col-xs-12">
+  <h1>{{ topic.name }}</h1>
+  <h5>Scale: {{topic.region}}</h5>
+  <h6>Themes: {{topic.topics}}</h6> 
+  <p>Description: {{topic.description}}</p>
 
-Example description
 </div>
 </div>
+</div>
+{% endfor %}

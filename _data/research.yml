@@ -1,0 +1,38 @@
+- name: Seagrass Monitoring
+  topics: Climate Change Biology, Data Science, Water Quality
+  region: Local, Regional
+  description: I have led seagrass monitoring efforts as the Field and Data Manager for the [Texas Seagrass Monitoring Program](https://texasseagrass.org/) since 2020. As part of these roles I oversee collection and analysis of data from over 800 sites across the Texas coast as part of our annual Tier-2 surveys. I work closely and coordinate with various agencies including the National Park Service, Texas Parks and Wildlife, and the Texas Commision on Environmental Quality. Recently, we have noted rapid changes in the Upper Laguna Madre ecosystem and found a decline in seagrasses attributed to [sea level rise](https://www.nature.com/articles/s43247-024-01236-7). Currently, I am working to analyze broader scale trends across the Texas coast since our monitoring began in 2011.
+  image: seagrass_monitoring.jpg
+
+- name: Seagrass Acoustics
+  topics: Blue Carbon, Data Science, Physiology
+  region: Local, Regional
+  description: Acoustics are becoming recognized as powerful tools by a variety of ecologists and biologists, but plant acoustics are relatively understudied. I have collaborated with a research group led by Drs. [Megan Ballard](https://scholar.google.com/citations?user=9uowGbwAAAAJ&hl=en) and [Kevin Lee](https://scholar.google.com/citations?user=d0tO02kAAAAJ&hl=en) on advancing our ability to use acoustics as a tool for monitoring seagrasses. So far, the group has developed a [new effective medium model](https://pubs.aip.org/asa/poma/article/51/1/010003/3267870/Effective-medium-modeling-of-acoustic-propagation) to describe seagrass sound propogation in a meadow, has designed and deployed an active acoustic system capable of measuring seagrass biomass and productivity, demonstrated that seagrass ebullition is an important component of net ecosystem metabolism, and shown that passive acoustics are viable for measuring seagrass production.  
+  image: acoustics.png
+
+- name: Plant Photophysiology
+  topics: 
+  region: Local
+  description:
+  image:
+
+- name: Sediment Biogeochemistry
+  topics: 
+  region: Local, Regional
+  description:
+  image:  
+
+- name: Algal Microbiomes
+  topics: 
+  region: Local, Regional, International
+  description:
+  image:  
+
+- name: Seaweed Aquaculture
+  topics: Data Science, Physiology, Sustainability
+  region: Local
+  description: The demand for seafood has has increased annually over the past few decades, creating increased pressure on wild harvested crops. To meet such a market, farmers across the country have begun to grow seaweeds for both human consumption and bioproducts. I have collaborated on seaweed farming projects in Maine and Texas and worked with both red and brown seaweeds including <i> Porphyra umbilicalis, Wildemania amplissima, Palmaria palmata, Alaria esculenta, Saccharina latissima, Ulva intestinalis, and Gracilaria tikvahiae </i>. I have worked all stages of projects including algae collection, sporulation and seeding, farm setup, nursery culturing, protocol development, harvesting and processing, and data analysis.  
+  image: nursery.jpg
+
+  
+
