@@ -1,5 +1,5 @@
 ---
-title: "Meadia Coverage"
+title: "Media Coverage"
 layout: gridlay
 sitemap: false
 permalink: /Media Coverage/
@@ -9,6 +9,8 @@ permalink: /Media Coverage/
 
 <div class="jumbotron">
 https://thedailytexan.com/2024/03/20/ut-marine-scientists-find-rising-sea-levels-linked-to-loss-of-valuable-seagrass-habitats-in-texas/
+
+https://www.science.org/content/article/scienceadviser-seagrasses-are-drowning-no-place-go
 
 https://www.npca.org/articles/3796-vanishing-sea-meadows
 
