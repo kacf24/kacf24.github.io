@@ -19,7 +19,7 @@ Theoretical physics helps us to make progress in a wide range of fields, includi
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.JPG" width="100%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
 <i>Penicillus capitatus </i> growing in seagrass meadows of Lower Laguna Madre of Feynman diagrams.
 </center>
 </div>
