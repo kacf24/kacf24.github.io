@@ -16,19 +16,19 @@
   description:
   image:
 
-- name: Sediment Biogeochemistry
-  topics: 
+- name: Coastal Biogeochemistry
+  topics: Blue Carbon, Data Science, Nitrogen Cycling
   region: Local, Regional
-  description:
-  image:  
+  description: Coastal environmentals are hotspots are elements vital to life including carbon, nitrogen, and phospohrous. I'm deeply interested in the complex cycles of such elements in coastal environments and how "plants" interact with them. Currently, I am building budgets of organic and inorganic carbon, as well as nitrogen in sediments collected from seagrass meadows across the Western and Northern Gulf of Mexico. This effort is paired with the [Texas Seagrass Monitoring Program](https://texasseagrass.org/) and the [Coastal Ecology & Seagrass Biology Lab](https://www.darnellseagrassecologylab.com/). This will provide resource managers valuable information to ascertain sequestration potential in a rapidly changing climate. 
+  image: seds.jpg 
 
-- name: Algal Microbiomes
+- name: Microbial Ecology
   topics: 
   region: Local, Regional, International
   description:
   image:  
 
-- name: Seaweed Aquaculture
+- name: Sustainable Aquaculture
   topics: Data Science, Physiology, Sustainability
   region: Local
   description: The demand for seafood has has increased annually over the past few decades, creating increased pressure on wild harvested crops. To meet such a market, farmers across the country have begun to grow seaweeds for both human consumption and bioproducts. I have collaborated on seaweed farming projects in Maine and Texas and worked with both red and brown seaweeds including <i> Porphyra umbilicalis, Wildemania amplissima, Palmaria palmata, Alaria esculenta, Saccharina latissima, Ulva intestinalis, and Gracilaria tikvahiae </i>. I have worked all stages of projects including algae collection, sporulation and seeding, farm setup, nursery culturing, protocol development, harvesting and processing, and data analysis.  
