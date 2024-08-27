@@ -23,10 +23,10 @@
   image: seds.jpg 
 
 - name: Microbial Ecology
-  topics: 
+  topics: Community Ecology, Data Science, Physiology
   region: Local, Regional, International
-  description:
-  image:  
+  description: Complex organisms have associated microbial communities that assist them in carrying out functions nessecary for survivial including vitamin production, stress protection, and pathogen defense. However, it relatively few studies on the ecology of these microoganisms exist to paralel the ecology of their hosts. I investigated microbial communties living on intertidal seaweeds with a group led by Drs. [Susan Brawley](https://scholar.google.com/citations?user=cyA5330AAAAJ&hl=en) and [Hilary Morrison](https://scholar.google.com/citations?user=-cmjxwsAAAAJ). Together, we demonstrated that bacterial communities exhibit zonatation patterns similar to <i>Fucus spp.</i> through a manipulative [transplant experiment](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2020.563118/full). Furthermore, we also found a strong a strong north-south [latitudinal gradient](https://onlinelibrary.wiley.com/doi/full/10.1111/jpy.13194) in structure of the microbiome of <i>F. vesiculosus</i> over its biogeographic range.
+  image: fucus.jpg  
 
 - name: Sustainable Aquaculture
   topics: Data Science, Physiology, Sustainability
