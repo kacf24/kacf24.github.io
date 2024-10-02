@@ -7,14 +7,19 @@
 - name: Seagrass Acoustics
   topics: Blue Carbon, Data Science, Physiology
   region: Local, Regional
-  description: Acoustics are becoming recognized as powerful tools by a variety of ecologists and biologists, but plant acoustics are relatively understudied. I have collaborated with a research group led by Drs. [Megan Ballard](https://scholar.google.com/citations?user=9uowGbwAAAAJ&hl=en) and [Kevin Lee](https://scholar.google.com/citations?user=d0tO02kAAAAJ&hl=en) on advancing our ability to use acoustics as a tool for monitoring seagrasses. So far, the group has developed a [new effective medium model](https://pubs.aip.org/asa/poma/article/51/1/010003/3267870/Effective-medium-modeling-of-acoustic-propagation) to describe seagrass sound propagation in a meadow, has designed and deployed an active acoustic system capable of measuring seagrass biomass and productivity, demonstrated that seagrass ebullition is an important component of net ecosystem metabolism, and shown that passive acoustics are viable for measuring seagrass production.  
+  description: Acoustics are becoming recognized as powerful tools by a variety of ecologists and biologists, but plant acoustics are relatively understudied. I have collaborated with a research group led by Drs. [Megan Ballard](https://scholar.google.com/citations?user=9uowGbwAAAAJ&hl=en) and [Kevin Lee](https://scholar.google.com/citations?user=d0tO02kAAAAJ&hl=en) on advancing our ability to use acoustics as a tool for monitoring seagrasses. So far, the group has developed a [new effective medium model](https://pubs.aip.org/asa/poma/article/51/1/010003/3267870/Effective-medium-modeling-of-acoustic-propagation) to describe seagrass sound propogation in a meadow, has designed and deployed an active acoustic system capable of measuring seagrass biomass and productivity, demonstrated that seagrass ebullition is an important component of net ecosystem metabolism, and shown that passive acoustics are viable for measuring seagrass production.  
   image: acoustics.png
 
 - name: Plant Physiology
   topics: Photosynthesis, Stress Tolerance, Data Science, Climate Change Biology
   region: Local, Regional
+<<<<<<< HEAD
   description: Plants are dynamic organisms that rapidly respond to their environment through changes in their metabolic state. Our current era, the Anthropocene, has produced unexpected environmental conditions that plants must adapt to or face elimination.  I am inter we're experiencing unprecedented changes that plants are forced to adapt to or face elimination. Consequently, I am interested in quantifying the limits of plant survival in the context of a changing environment. I have identified that <i> Grateloupia turuturu </i> is highly tolerant to [reactive oxygen stress](https://www.degruyter.com/document/doi/10.1515/bot-2018-0104/html), the ultimate stress pathway. This allows it to be a highly competitive invasive species. Furthermore, I have been working on quantifying the [desiccation tolerance](https://www.biorxiv.org/content/10.1101/2024.01.16.575902v1.abstract) of subtidal seagrasses using various techniques.
   image:grat.jpg 
+=======
+  description:
+  image:
+>>>>>>> parent of 25e2123 (Update research.yml)
 
 - name: Coastal Biogeochemistry
   topics: Blue Carbon, Data Science, Nitrogen Cycling
