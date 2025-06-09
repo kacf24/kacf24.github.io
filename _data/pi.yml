@@ -1,6 +1,6 @@
-- name: Kyle A. Capistrant-Fossa
+- name: Kyle A. Capistrant-Fossa, PhD
   photo: headshot.jpg
-  info: PhD Candidate, The University of Texas at Austin
+  info: Postdoctoral Research Fellow, Virginia Insitute of Marine Sciences
   email: kyle.capistrantfossa@utexas.edu
   github: https://github.com/kacf24
   researchgate: https://www.researchgate.net/profile/Kyle-Capistrant-Fossa
@@ -9,9 +9,10 @@
   # Change the items in "education" you have (up to 6)
   education:
     [
+      "(2025) PhD Marine Sciences, The University of Texas at Austin"
       "(2019) M.S. Marine Biology, The University of Maine",
       "(2017) B.S. Marine Sciences, The University of Maine",
     ]
 
   educationshort:
-    ["(2019) M.S. Marine Biology, UMaine", "(2017) B.S. Marine Sciences, UMaine"]
+    ["2025 PhD Marine Sciences, UT-Austin","(2019) M.S. Marine Biology, UMaine", "(2017) B.S. Marine Sciences, UMaine"]
