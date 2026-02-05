@@ -9,6 +9,9 @@ permalink: /Media Coverage/
 
 <div class="jumbotron">
 <img src="{{ site.url }}{{ site.baseurl }}/images/media.jpeg" width="100%"/><br/>
+* Bubbly Seagrass [Science and the Sea](https://utmsi.utexas.edu/science-and-the-sea/radio-program/bubbly-seagrass/)
+* Give and Take [Science and the Sea](https://utmsi.utexas.edu/science-and-the-sea/radio-program/take-and-give/)
+* Seagrass Is Drowning As Gulf Of Mexico Rises [The Weather Channel](https://weather.com/news/climate/video/seagrass-is-drowning-as-gulf-of-mexico-rises)
 * UT marine scientists find rising sea levels linked to loss of valuable seagrass habitats in Texas [The Daily Texan](https://thedailytexan.com/2024/03/20/ut-marine-scientists-find-rising-sea-levels-linked-to-loss-of-valuable-seagrass-habitats-in-texas)
 
 * Seagrasses are drowning with no place to go [AAAS](https://www.science.org/content/article/scienceadviser-seagrasses-are-drowning-no-place-go)
