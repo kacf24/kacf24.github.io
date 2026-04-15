@@ -90,3 +90,18 @@ function toggleAbstract{{entry.key}}(parameter) {
     }
 }
 </script>
+
+<!-- Structured Data for search engines (JSON-LD) -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "{% if entry.type == 'article' %}ScholarlyArticle{% elsif entry.type == 'inproceedings' or entry.type == 'incollection' %}ScholarlyArticle{% elsif entry.type == 'thesis' %}Thesis{% else %}CreativeWork{% endif %}"
+    {% if entry.title %}, "headline": {{ entry.title | jsonify }}{% endif %}
+    {% if entry.author %}, "author": {{ entry.author | jsonify }}{% endif %}
+    {% if entry.year %}, "datePublished": {{ entry.year | jsonify }}{% endif %}
+    {% if entry.journal %}, "isPartOf": { "@type": "Periodical", "name": {{ entry.journal | jsonify }} }{% endif %}
+    {% if entry.doi %}, "identifier": { "@type": "PropertyValue", "propertyID": "doi", "value": {{ entry.doi | jsonify }} }{% endif %}
+    {% if entry.url %}, "url": {{ entry.url | jsonify }}{% endif %}
+    {% if entry.abstract %}, "description": {{ entry.abstract | jsonify }}{% endif %}
+}
+</script>
