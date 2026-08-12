@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Featured Research"
 layout: gridlay
 sitemap: false
 permalink: /research/
