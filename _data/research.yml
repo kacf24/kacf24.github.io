@@ -4,10 +4,10 @@
   description: |
     Monitoring benthic communities across diverse estuarine habitats is vital for understanding biodiversity patterns and ecosystem health.
 
-    * **SAV Community Assemblages:** Characterized macroinvertebrate community assemblages across native and invasive freshwater submerged aquatic vegetation (SAV) habitats.
-    * **Host-Associated Zonation:** Conducted a manipulative [transplant experiment](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2020.563118/full) across stress gradients, demonstrating that host-associated micro-communities exhibit distinct zonation patterns.
-    * **Habitat Change Detection:** Developed an open-source machine learning framework for [rapid coastal habitat change detection](https://doi.org/10.1007/s12237-026-01753-y) using remotely sensed data.
-  image: benthic.jpg
+    * **SAV Community Structure & Efficiency:** Showed that while high-biomass non-native (*Hydrilla*) meadows expand overall macroinvertebrate capacity, native *Zannichellia palustris* supports significantly higher per-biomass invertebrate density and hosts distinct indicator taxa critical for food web integrity.
+    * **Host-Associated Microbe Zonation:** Demonstrated via a manipulative [transplant experiment](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2020.563118/full) that tidal stress gradients shape macroalgal microbiomes, with transplanted *Fucus vesiculosus* holdfast bacterial communities shifting toward high-zone species under elevated desiccation.
+    * **Remote Sensing & Habitat Classification:** Developed an open-source machine learning framework for [rapid coastal habitat change detection](https://doi.org/10.1007/s12237-026-01753-y), combining field ground-truthing with extreme gradient boosting (XGBoost) to achieve 83.6% accuracy across dynamic barrier island habitats.
+  image: fucus.jpg
 
 - name: Ecosystem Change and Resilience
   topics: Climate Change Biology, Data Science, Water Quality
@@ -15,9 +15,9 @@
   description: |
     Quantifying long-term ecosystem responses to environmental stressors is critical for developing effective coastal conservation and climate adaptation strategies.
 
-    * **Thermal Stress Mitigation:** Evaluated multi-decadal water quality and aerial imaging datasets, showing that regional water quality management mitigates thermal stress on seagrasses.
-    * **Sea Level Rise Impacts:** Managed Tier-2 monitoring across 800+ coastal sites with the [Texas Seagrass Monitoring Program](https://texasseagrass.org/), demonstrating that rapid [sea level rise](https://www.nature.com/articles/s43247-024-01236-7) drives significant seagrass loss in the Upper Laguna Madre.
-    * **Biogeographic Drivers of Resilience:** Evaluated trans-Atlantic host-associated community variations along a [latitudinal gradient](https://onlinelibrary.wiley.com/doi/full/10.1111/jpy.13194) to uncover past and present drivers of ecosystem resilience.
+    * **Thermal Stress & Vertical Squeeze:** Analyzed four decades of Chesapeake Bay water quality and aerial imaging data to reveal that long-term water quality management enabled eelgrass (*Zostera marina*) to expand 0.89 m deeper into cooler waters, alleviating shallow thermal stress.
+    * **Sea Level Rise & Habitat Loss:** Utilized long-term monitoring from the [Texas Seagrass Monitoring Program](https://texasseagrass.org/) to show that rapid [sea level rise](https://www.nature.com/articles/s43247-024-01236-7) (14–25 mm yr⁻¹) caused seagrass disappearance at 23% of sentinel stations and complete localized loss at deep-edge margins.
+    * **Cross-Atlantic Microbiome Biogeography:** Evaluated host-associated bacterial communities along a cross-Atlantic [latitudinal gradient](https://onlinelibrary.wiley.com/doi/full/10.1111/jpy.13194) in *Fucus vesiculosus*, finding that temperature, tidal height, and host phylogeography drive microbial structure rather than photoperiod.
   image: seagrass_monitoring.JPG
 
 - name: Ecoacoustics
@@ -26,9 +26,9 @@
   description: |
     Ecoacoustic methodologies offer advanced non-invasive remote sensing capacity for monitoring dynamic metabolic processes and biomass in marine autotrophs.
 
-    * **Acoustic Canopy Modeling:** Formulated a novel [effective medium model](https://pubs.aip.org/asa/poma/article/51/1/010003/3267870/Effective-medium-modeling-of-acoustic-propagation) to characterize acoustic propagation through seagrass canopies.
-    * **Biomass Tracking via Inference:** Deployed active acoustic arrays and applied [Bayesian inference to track above-ground biomass](https://doi.org/10.1121/10.0041880) over annual cycles.
-    * **Sub-Tropical Ecoacoustics:** Conducted a [multi-year study of acoustic propagation and ambient sound in a Thalassia testudinum seagrass meadow](https://doi.org/10.1121/10.0034243) in a shallow sub-tropical lagoon.
+    * **Acoustic Canopy Modeling:** Formulated a novel [effective medium model](https://pubs.aip.org/asa/poma/article/51/1/010003/3267870/Effective-medium-modeling-of-acoustic-propagation) to characterize acoustic propagation and attenuation through seagrass leaf canopies.
+    * **Acoustic Biomass Inversion:** Developed a ray-based acoustic propagation model paired with [Bayesian inference to track above-ground seagrass biomass](https://doi.org/10.1121/10.0041880) over a 25-month deployment, validating acoustic inversion as a continuous monitoring tool.
+    * **Acoustic Propagation & Soundscapes:** Conducted a [multi-year acoustic study in a Thalassia testudinum meadow](https://doi.org/10.1121/10.0034243), quantifying how tissue gas and photosynthetic bubble ebullition drive sound attenuation and ambient soundscapes across seasonal and solar cycles.
   image: acoustics.png
 
 - name: Physiology and Metabolism
@@ -37,10 +37,10 @@
   description: |
     Quantifying the physiological tolerance limits and metabolic acclimation of marine primary producers is essential for predicting autotrophic survival under accelerating climate stress.
 
-    * **Macroalgal Stress Tolerance:** Identified high tolerance to [reactive oxygen stress](https://www.degruyter.com/document/doi/10.1515/bot-2018-0104/html) in the invasive alga *Grateloupia turuturu*, explaining its competitive success and resistance to biosecurity protocols.
-    * **Desiccation & Photosynthesis:** Quantified [desiccation tolerance](https://www.biorxiv.org/content/10.1101/2024.01.16.575902v1.abstract) and photosynthetic rates in subtidal seagrasses under environmental exposure using infrared gas analysis and fluorometry.
-    * **Acoustic Ebullition Monitoring:** Demonstrated that [acoustic monitoring reveals key differences in ebullition dynamics and biomass](https://doi.org/10.1007/s12237-025-01655-5) across seagrass meadows.
-    * **Net Ecosystem Productivity:** Tracked photosynthetic oxygen ebullition to show how [oxygen ebullition uncovers hidden net ecosystem productivity](https://doi.org/10.34133/olar.0087) in a seemingly heterotrophic seagrass meadow.
+    * **Biosecurity & Chlorine Tolerance:** Identified extreme resistance to [reactive oxygen stress and biosecurity chlorination](https://www.degruyter.com/document/doi/10.1515/bot-2018-0104/html) in holdfasts, cystocarps, and crusts of the invasive red alga *Grateloupia turuturu*, explaining its competitive success and vector risk.
+    * **Desiccation Resilience & Gas Exchange:** Validated infrared gas analysis (IRGA) for subtidal plants to quantify [desiccation tolerance and carbon fixation](https://www.biorxiv.org/content/10.1101/2024.01.16.575902v1.abstract), demonstrating higher desiccation resistance and carbon assimilation rates in deeper seagrass populations.
+    * **Acoustic Ebullition & Productivity:** Comparative [acoustic ebullition monitoring](https://doi.org/10.1007/s12237-025-01655-5) revealed that photosynthetic bubble release tripled net ecosystem productivity in shallow *Thalassia testudinum* meadows compared to dissolved oxygen alone, while identifying species-specific acoustic frequency signatures (10 kHz vs. 40 kHz).
+    * **Uncovering Hidden Autotrophy:** Combined acoustic ebullition tracking with dissolved gas budgets to show that [oxygen ebullition uncovers hidden net ecosystem productivity](https://doi.org/10.34133/olar.0087), transforming an apparently net heterotrophic seagrass meadow (-2.1 mmol O₂ m⁻² d⁻¹) into a strongly autotrophic system (54 mmol O₂ m⁻² d⁻¹).
   image: grat.jpg
 
 - name: Coastal Biogeochemistry
@@ -49,8 +49,8 @@
   description: |
     Nearshore marine vegetation functions as a critical global biogeochemical sink, mediating organic matter preservation and nutrient cycles across coastal boundaries.
 
-    * **Regional Blue Nutrient Inventory:** Constructed a regional [sediment blue carbon and nitrogen inventory](https://doi.org/10.5281/zenodo.21828401) across Western and Northern Gulf of Mexico seagrass meadows.
-    * **Nutrient Reservoir Degradation:** Analyzed sedimentary core data to demonstrate that seagrass meadow loss severely degrades the long-term blue nutrient reservoir capacity of coastal sediments.
+    * **Gulf-Wide Blue Carbon & Nitrogen Inventory:** Synthesized >1,100 sediment cores to construct a regional [blue carbon and nitrogen inventory](https://doi.org/10.5281/zenodo.21828401), establishing that Northern Gulf of Mexico seagrass surface sediments store up to 7.03 Tg C and 0.43 Tg N.
+    * **Global Blue Nutrient Stocks & Loss:** Conducted a global synthesis revealing seagrass sediments store ~174 Tg N and 27 Tg P in the top meter, demonstrating that meadow loss severely degrades long-term nutrient reservoir capacity and accelerates coastal eutrophication.
   image: seds.jpg
 
 - name: Aquaculture and Restoration
@@ -59,6 +59,6 @@
   description: |
     Sustainable aquaculture and ecological restoration provide vital solutions for enhancing coastal ecosystem resilience and expanding nature-based bio-economies.
 
-    * **Macroalgal Aquaculture & Biosecurity:** Synthesized [climate change scenario impacts on cold-water aquaculture](https://doi.org/10.1111/raq.12483), authored [biosecurity fact sheets](https://seagrant.umaine.edu/wp-content/uploads/sites/467/2019/05/2018-grateloupia-fact-sheet.pdf), and executed multi-stage hatchery protocols across seven commercial seaweed species.
-    * **Seagrass Restoration:** Investigated how light exposure affects the quantity and quality of harvested eelgrass seeds to optimize restoration efforts.
+    * **Aquaculture Resilience & Climate Adaptation:** Synthesized [climate change impacts on cold-water aquaculture](https://doi.org/10.1111/raq.12483) in the Gulf of Maine, highlighting selective breeding, wild biodiversity preservation, and [biosecurity fact sheets](https://seagrant.umaine.edu/wp-content/uploads/sites/467/2019/05/2018-grateloupia-fact-sheet.pdf) to maintain working waterfronts under warming trends.
+    * **Seagrass Restoration & Seed Harvest:** Investigated how light exposure during harvest and storage affects the quantity and quality of *Zostera marina* seeds to optimize seagrass restoration protocols.
   image: nursery.jpg
