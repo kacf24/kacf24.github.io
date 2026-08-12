@@ -1,28 +1,31 @@
 - name: Benthic Community Monitoring
-  topics: Community Ecology, Data Science, Water Quality
-  region: Local, Regional
+  topics: Community Structure, Spatial Dynamics, Ecosystem Function
+  region: Local, Regional, Global
   description: |
-    Monitoring benthic communities across diverse estuarine habitats is vital for understanding biodiversity patterns and ecosystem health.
+    Monitoring benthic communities and their functions across diverse estuarine habitats is vital for understanding biodiversity patterns and ecosystem health.
 
     * **SAV Community Structure & Efficiency:** Showed that while high-biomass non-native (*Hydrilla*) meadows expand overall macroinvertebrate capacity, native *Zannichellia palustris* supports significantly higher per-biomass invertebrate density and hosts distinct indicator taxa critical for food web integrity.
     * **Host-Associated Microbe Zonation:** Demonstrated via a manipulative [transplant experiment](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2020.563118/full) that tidal stress gradients shape macroalgal microbiomes, with transplanted *Fucus vesiculosus* holdfast bacterial communities shifting toward high-zone species under elevated desiccation.
     * **Remote Sensing & Habitat Classification:** Developed an open-source machine learning framework for [rapid coastal habitat change detection](https://doi.org/10.1007/s12237-026-01753-y), combining field ground-truthing with extreme gradient boosting (XGBoost) to achieve 83.6% accuracy across dynamic barrier island habitats.
     * **Cross-Atlantic Microbiome Biogeography:** Evaluated host-associated bacterial communities along a cross-Atlantic [latitudinal gradient](https://onlinelibrary.wiley.com/doi/full/10.1111/jpy.13194) in *Fucus vesiculosus*, finding that temperature, tidal height, and host phylogeography drive microbial structure rather than photoperiod.
-  image: seagrass_monitoring.JPG
+    * **Gulf-Wide Blue Carbon & Nitrogen Inventory:** Synthesized >1,100 sediment cores to construct a regional [blue carbon and nitrogen inventory](https://doi.org/10.5281/zenodo.21828401), establishing that Northern Gulf of Mexico seagrass surface sediments store up to 7.03 Tg C and 0.43 Tg N.
+    
+  
   image: fucus.jpg
 
 - name: Ecosystem Change and Resilience
-  topics: Climate Change Biology, Data Science, Water Quality
-  region: Local, Regional
+  topics: Resilience Across Space & Time, Community Structure, Climate Change Biology
+  region: Local, Regional, Global
   description: |
     Quantifying long-term ecosystem responses to environmental stressors is critical for developing effective coastal conservation and climate adaptation strategies.
 
     * **Thermal Stress & Vertical Squeeze:** Analyzed four decades of Chesapeake Bay water quality and aerial imaging data to reveal that long-term water quality management enabled eelgrass (*Zostera marina*) to expand 0.89 m deeper into cooler waters, alleviating shallow thermal stress.
     * **Sea Level Rise & Habitat Loss:** Utilized long-term monitoring from the [Texas Seagrass Monitoring Program](https://texasseagrass.org/) to show that rapid [sea level rise](https://www.nature.com/articles/s43247-024-01236-7) (14–25 mm yr⁻¹) caused seagrass disappearance at 23% of sentinel stations and complete localized loss at deep-edge margins.
-    
+    * **Global Blue Nutrient Stocks & Loss:** Conducted a global synthesis revealing seagrass sediments store ~174 Tg N and 27 Tg P in the top meter, demonstrating that meadow loss severely degrades long-term nutrient reservoir capacity and accelerates coastal eutrophication.
+  image: seagrass_monitoring.JPG  
 
 - name: Ecoacoustics
-  topics: Blue Carbon, Data Science, Physiology
+  topics: Ecosystem Function, Spatial & Temporal Dynamics, Remote Sensing
   region: Local, Regional
   description: |
     Ecoacoustic methodologies offer advanced non-invasive remote sensing capacity for monitoring dynamic metabolic processes and biomass in marine autotrophs.
@@ -33,7 +36,7 @@
   image: acoustics.png
 
 - name: Physiology and Metabolism
-  topics: Photosynthesis, Stress Tolerance, Data Science, Climate Change Biology
+  topics: Ecosystem Function, Ecosystem Structure, Stress Tolerance
   region: Local, Regional
   description: |
     Quantifying the physiological tolerance limits and metabolic acclimation of marine primary producers is essential for predicting autotrophic survival under accelerating climate stress.
@@ -44,19 +47,10 @@
     * **Uncovering Hidden Autotrophy:** Combined acoustic ebullition tracking with dissolved gas budgets to show that [oxygen ebullition uncovers hidden net ecosystem productivity](https://doi.org/10.34133/olar.0087), transforming an apparently net heterotrophic seagrass meadow (-2.1 mmol O₂ m⁻² d⁻¹) into a strongly autotrophic system (54 mmol O₂ m⁻² d⁻¹).
   image: grat.jpg
 
-- name: Coastal Biogeochemistry
-  topics: Blue Carbon, Data Science, Nitrogen Cycling
-  region: Local, Regional
-  description: |
-    Nearshore marine vegetation functions as a critical global biogeochemical sink, mediating organic matter preservation and nutrient cycles across coastal boundaries.
-
-    * **Gulf-Wide Blue Carbon & Nitrogen Inventory:** Synthesized >1,100 sediment cores to construct a regional [blue carbon and nitrogen inventory](https://doi.org/10.5281/zenodo.21828401), establishing that Northern Gulf of Mexico seagrass surface sediments store up to 7.03 Tg C and 0.43 Tg N.
-    * **Global Blue Nutrient Stocks & Loss:** Conducted a global synthesis revealing seagrass sediments store ~174 Tg N and 27 Tg P in the top meter, demonstrating that meadow loss severely degrades long-term nutrient reservoir capacity and accelerates coastal eutrophication.
-  image: seds.jpg
 
 - name: Aquaculture and Restoration
-  topics: Data Science, Physiology, Sustainability
-  region: Local
+  topics: Resilience Across Space & Time, Ecosystem Function, Restoration Ecology
+  region: Local, Regional
   description: |
     Sustainable aquaculture and ecological restoration provide vital solutions for enhancing coastal ecosystem resilience and expanding nature-based bio-economies.
 
