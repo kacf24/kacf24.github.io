@@ -44,7 +44,10 @@ iframe {
   <h1>{{ topic.name }}</h1>
   <h5>Scale: {{topic.region}}</h5>
   <h6>Themes: {{topic.topics}}</h6> 
-  <p>Description: {{topic.description}}</p>
+  <div class="description-block">
+  <strong>Description:</strong>
+  {{ topic.description | markdownify }}
+</div>
 
 </div>
 </div>
