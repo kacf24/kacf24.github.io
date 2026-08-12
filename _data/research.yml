@@ -7,6 +7,8 @@
     * **SAV Community Structure & Efficiency:** Showed that while high-biomass non-native (*Hydrilla*) meadows expand overall macroinvertebrate capacity, native *Zannichellia palustris* supports significantly higher per-biomass invertebrate density and hosts distinct indicator taxa critical for food web integrity.
     * **Host-Associated Microbe Zonation:** Demonstrated via a manipulative [transplant experiment](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2020.563118/full) that tidal stress gradients shape macroalgal microbiomes, with transplanted *Fucus vesiculosus* holdfast bacterial communities shifting toward high-zone species under elevated desiccation.
     * **Remote Sensing & Habitat Classification:** Developed an open-source machine learning framework for [rapid coastal habitat change detection](https://doi.org/10.1007/s12237-026-01753-y), combining field ground-truthing with extreme gradient boosting (XGBoost) to achieve 83.6% accuracy across dynamic barrier island habitats.
+    * **Cross-Atlantic Microbiome Biogeography:** Evaluated host-associated bacterial communities along a cross-Atlantic [latitudinal gradient](https://onlinelibrary.wiley.com/doi/full/10.1111/jpy.13194) in *Fucus vesiculosus*, finding that temperature, tidal height, and host phylogeography drive microbial structure rather than photoperiod.
+  image: seagrass_monitoring.JPG
   image: fucus.jpg
 
 - name: Ecosystem Change and Resilience
@@ -17,8 +19,7 @@
 
     * **Thermal Stress & Vertical Squeeze:** Analyzed four decades of Chesapeake Bay water quality and aerial imaging data to reveal that long-term water quality management enabled eelgrass (*Zostera marina*) to expand 0.89 m deeper into cooler waters, alleviating shallow thermal stress.
     * **Sea Level Rise & Habitat Loss:** Utilized long-term monitoring from the [Texas Seagrass Monitoring Program](https://texasseagrass.org/) to show that rapid [sea level rise](https://www.nature.com/articles/s43247-024-01236-7) (14–25 mm yr⁻¹) caused seagrass disappearance at 23% of sentinel stations and complete localized loss at deep-edge margins.
-    * **Cross-Atlantic Microbiome Biogeography:** Evaluated host-associated bacterial communities along a cross-Atlantic [latitudinal gradient](https://onlinelibrary.wiley.com/doi/full/10.1111/jpy.13194) in *Fucus vesiculosus*, finding that temperature, tidal height, and host phylogeography drive microbial structure rather than photoperiod.
-  image: seagrass_monitoring.JPG
+    
 
 - name: Ecoacoustics
   topics: Blue Carbon, Data Science, Physiology
@@ -59,6 +60,6 @@
   description: |
     Sustainable aquaculture and ecological restoration provide vital solutions for enhancing coastal ecosystem resilience and expanding nature-based bio-economies.
 
-    * **Aquaculture Resilience & Climate Adaptation:** Synthesized [climate change impacts on cold-water aquaculture](https://doi.org/10.1111/raq.12483) in the Gulf of Maine, highlighting selective breeding, wild biodiversity preservation, and [biosecurity fact sheets](https://seagrant.umaine.edu/wp-content/uploads/sites/467/2019/05/2018-grateloupia-fact-sheet.pdf) to maintain working waterfronts under warming trends.
+    * **Aquaculture Resilience & Climate Adaptation:** Synthesized [climate change scenario impacts on cold-water aquaculture](https://doi.org/10.1111/raq.12483) in the Gulf of Maine to evaluate physical and ecological adaptation strategies for sustaining working waterfront resilience under warming trends.
     * **Seagrass Restoration & Seed Harvest:** Investigated how light exposure during harvest and storage affects the quantity and quality of *Zostera marina* seeds to optimize seagrass restoration protocols.
   image: nursery.jpg
