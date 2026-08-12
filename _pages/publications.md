@@ -17,7 +17,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 </style>
 
 <div class="jumbotron">
-### Manuscripts In Prep
+### Manuscripts In Prep or Review
 {% bibliography --query @unpublished %}
 </div>
 
